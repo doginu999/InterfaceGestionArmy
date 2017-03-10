@@ -1,0 +1,524 @@
+{
+	"Bataillon Spectre": {
+		"liste_militaire": "1",
+		"type_orga": "6",
+		"1er Escadron": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"Avion de chasse Spectre ACS-1": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de chasse Spectre": "1"
+				}
+			},
+			"Avion de chasse Spectre ACS-2": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de chasse Spectre": "1"
+				}
+			},
+			"Avion de chasse Spectre ACS-3": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de chasse Spectre": "1"
+				}
+			},
+			"Avion de chasse Spectre ACS-4": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de chasse Spectre": "1"
+				}
+			},
+			"Avion de chasse Spectre ACS-5": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de chasse Spectre": "1"
+				}
+			},
+			"Avion de chasse Spectre ACS-6": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de chasse Spectre": "1"
+				}
+			},
+			"Avion de chasse Spectre ACS-7": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de chasse Spectre": "1"
+				}
+			}
+		},
+		"2e Escadron": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"Avion de chasse Spectre ACS-1": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de chasse Spectre": "1"
+				}
+			},
+			"Avion de chasse Spectre ACS-2": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de chasse Spectre": "1"
+				}
+			},
+			"Avion de chasse Spectre ACS-3": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de chasse Spectre": "1"
+				}
+			},
+			"Avion de chasse Spectre ACS-4": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de chasse Spectre": "1"
+				}
+			},
+			"Avion de chasse Spectre ACS-5": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de chasse Spectre": "1"
+				}
+			},
+			"Avion de chasse Spectre ACS-6": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de chasse Spectre": "1"
+				}
+			},
+			"Avion de chasse Spectre ACS-7": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de chasse Spectre": "1"
+				}
+			}
+		}
+	},
+	"Avion de Coordination et de Surveillance Aérienne": {
+		"liste_militaire": "21",
+		"type_orga": "6",
+		"materiel": {
+			"Avion de Coordination et de Surveillance Aérienne": "1"
+		}
+	},
+	"Bataillon HMF": {
+		"liste_militaire": "1",
+		"type_orga": "6",
+		"Hélicoptère Multi-Fonctions HMF-1": {
+			"liste_militaire": "8",
+			"type_orga": "7",
+			"materiel": {
+				"Hélicoptère Multi-Fonctions": "1"
+			}
+		},
+		"Hélicoptère Multi-Fonctions HMF-2": {
+			"liste_militaire": "8",
+			"type_orga": "7",
+			"materiel": {
+				"Hélicoptère Multi-Fonctions": "1"
+			}
+		},
+		"Hélicoptère Multi-Fonctions HMF-3": {
+			"liste_militaire": "8",
+			"type_orga": "7",
+			"materiel": {
+				"Hélicoptère Multi-Fonctions": "1"
+			}
+		},
+		"Hélicoptère Multi-Fonctions HMF-4": {
+			"liste_militaire": "8",
+			"type_orga": "7",
+			"materiel": {
+				"Hélicoptère Multi-Fonctions": "1"
+			}
+		},
+		"Hélicoptère Multi-Fonctions HMF-5": {
+			"liste_militaire": "8",
+			"type_orga": "7",
+			"materiel": {
+				"Hélicoptère Multi-Fonctions": "1"
+			}
+		}
+	},
+	"Bataillon NXC-21": {
+		"liste_militaire": "1",
+		"type_orga": "6",
+		"Batterie anti-aérienne NXC-21-1": {
+			"liste_militaire": "6",
+			"type_orga": "7",
+			"materiel": {
+				"Batterie anti-aérienne NXC-21": "1"
+			}
+		},
+		"Batterie anti-aérienne NXC-21-2": {
+			"liste_militaire": "6",
+			"type_orga": "7",
+			"materiel": {
+				"Batterie anti-aérienne NXC-21": "1"
+			}
+		},
+		"Batterie anti-aérienne NXC-21-3": {
+			"liste_militaire": "6",
+			"type_orga": "7",
+			"materiel": {
+				"Batterie anti-aérienne NXC-21": "1"
+			}
+		},
+		"Batterie anti-aérienne NXC-21-4": {
+			"liste_militaire": "6",
+			"type_orga": "7",
+			"materiel": {
+				"Batterie anti-aérienne NXC-21": "1"
+			}
+		},
+		"Batterie anti-aérienne NXC-21-5": {
+			"liste_militaire": "6",
+			"type_orga": "7",
+			"materiel": {
+				"Batterie anti-aérienne NXC-21": "1"
+			}
+		},
+		"Batterie anti-aérienne NXC-21-6": {
+			"liste_militaire": "6",
+			"type_orga": "7",
+			"materiel": {
+				"Batterie anti-aérienne NXC-21": "1"
+			}
+		},
+		"Batterie anti-aérienne NXC-21-7": {
+			"liste_militaire": "6",
+			"type_orga": "7",
+			"materiel": {
+				"Batterie anti-aérienne NXC-21": "1"
+			}
+		},
+		"Batterie anti-aérienne NXC-21-8": {
+			"liste_militaire": "6",
+			"type_orga": "7",
+			"materiel": {
+				"Batterie anti-aérienne NXC-21": "1"
+			}
+		},
+		"Batterie anti-aérienne NXC-21-9": {
+			"liste_militaire": "6",
+			"type_orga": "7",
+			"materiel": {
+				"Batterie anti-aérienne NXC-21": "1"
+			}
+		},
+		"Batterie anti-aérienne NXC-21-10": {
+			"liste_militaire": "6",
+			"type_orga": "7",
+			"materiel": {
+				"Batterie anti-aérienne NXC-21": "1"
+			}
+		}
+	},
+	"Bataillon DCA": {
+		"liste_militaire": "1",
+		"type_orga": "6",
+		"Batterie motorisée de DCA BMDCA-1": {
+			"liste_militaire": "6",
+			"type_orga": "7",
+			"materiel": {
+				"Batterie Motorisée de DCA": "1"
+			}
+		},
+		"Batterie motorisée de DCA BMDCA-2": {
+			"liste_militaire": "6",
+			"type_orga": "7",
+			"materiel": {
+				"Batterie Motorisée de DCA": "1"
+			}
+		},
+		"Batterie motorisée de DCA BMDCA-3": {
+			"liste_militaire": "6",
+			"type_orga": "7",
+			"materiel": {
+				"Batterie Motorisée de DCA": "1"
+			}
+		},
+		"Batterie motorisée de DCA BMDCA-4": {
+			"liste_militaire": "6",
+			"type_orga": "7",
+			"materiel": {
+				"Batterie Motorisée de DCA": "1"
+			}
+		},
+		"Batterie motorisée de DCA BMDCA-5": {
+			"liste_militaire": "6",
+			"type_orga": "7",
+			"materiel": {
+				"Batterie Motorisée de DCA": "1"
+			}
+		},
+		"Batterie motorisée de DCA BMDCA-6": {
+			"liste_militaire": "6",
+			"type_orga": "7",
+			"materiel": {
+				"Batterie Motorisée de DCA": "1"
+			}
+		},
+		"Batterie motorisée de DCA BMDCA-7": {
+			"liste_militaire": "6",
+			"type_orga": "7",
+			"materiel": {
+				"Batterie Motorisée de DCA": "1"
+			}
+		},
+		"Batterie motorisée de DCA BMDCA-8": {
+			"liste_militaire": "6",
+			"type_orga": "7",
+			"materiel": {
+				"Batterie Motorisée de DCA": "1"
+			}
+		},
+		"Batterie motorisée de DCA BMDCA-9": {
+			"liste_militaire": "6",
+			"type_orga": "7",
+			"materiel": {
+				"Batterie Motorisée de DCA": "1"
+			}
+		},
+		"Batterie motorisée de DCA BMDCA-10": {
+			"liste_militaire": "6",
+			"type_orga": "7",
+			"materiel": {
+				"Batterie Motorisée de DCA": "1"
+			}
+		}
+	},
+	"Bataillon de Ravitaillement": {
+		"liste_militaire": "1",
+		"type_orga": "6",
+		"Camion-citerne CC-1": {
+			"liste_militaire": "3",
+			"type_orga": "7",
+			"materiel": {
+				"Camion-Citerne": "1"
+			}
+		},
+		"Camion-citerne CC-2": {
+			"liste_militaire": "3",
+			"type_orga": "7",
+			"materiel": {
+				"Camion-Citerne": "1"
+			}
+		},
+		"Camion-citerne CC-3": {
+			"liste_militaire": "3",
+			"type_orga": "7",
+			"materiel": {
+				"Camion-Citerne": "1"
+			}
+		},
+		"Camion-citerne CC-4": {
+			"liste_militaire": "3",
+			"type_orga": "7",
+			"materiel": {
+				"Camion-Citerne": "1"
+			}
+		},
+		"Camion-citerne CC-5": {
+			"liste_militaire": "3",
+			"type_orga": "7",
+			"materiel": {
+				"Camion-Citerne": "1"
+			}
+		},
+		"Camion-citerne CC-6": {
+			"liste_militaire": "3",
+			"type_orga": "7",
+			"materiel": {
+				"Camion-Citerne": "1"
+			}
+		},
+		"Camion-citerne CC-7": {
+			"liste_militaire": "3",
+			"type_orga": "7",
+			"materiel": {
+				"Camion-Citerne": "1"
+			}
+		},
+		"Camion-citerne CC-8": {
+			"liste_militaire": "3",
+			"type_orga": "7",
+			"materiel": {
+				"Camion-Citerne": "1"
+			}
+		},
+		"Camion-citerne CC-9": {
+			"liste_militaire": "3",
+			"type_orga": "7",
+			"materiel": {
+				"Camion-Citerne": "1"
+			}
+		},
+		"Camion-citerne CC-10": {
+			"liste_militaire": "3",
+			"type_orga": "7",
+			"materiel": {
+				"Camion-Citerne": "1"
+			}
+		},
+		"Camion-citerne CC-11": {
+			"liste_militaire": "3",
+			"type_orga": "7",
+			"materiel": {
+				"Camion-Citerne": "1"
+			}
+		},
+		"Camion-citerne CC-12": {
+			"liste_militaire": "3",
+			"type_orga": "7",
+			"materiel": {
+				"Camion-Citerne": "1"
+			}
+		},
+		"Camion-citerne CC-13": {
+			"liste_militaire": "3",
+			"type_orga": "7",
+			"materiel": {
+				"Camion-Citerne": "1"
+			}
+		},
+		"Camion-citerne CC-14": {
+			"liste_militaire": "3",
+			"type_orga": "7",
+			"materiel": {
+				"Camion-Citerne": "1"
+			}
+		},
+		"Camion-citerne CC-15": {
+			"liste_militaire": "3",
+			"type_orga": "7",
+			"materiel": {
+				"Camion-Citerne": "1"
+			}
+		}
+	},
+	"Bataillon de Transport de Matériel": {
+		"liste_militaire": "1",
+		"type_orga": "6",
+		"Camion de Transport de Matériel CTM-1": {
+			"liste_militaire": "4",
+			"type_orga": "7",
+			"materiel": {
+				"Camion de Transport de Matériel": "1"
+			}
+		},
+		"Camion de Transport de Matériel CTM-2": {
+			"liste_militaire": "4",
+			"type_orga": "7",
+			"materiel": {
+				"Camion de Transport de Matériel": "1"
+			}
+		},
+		"Camion de Transport de Matériel CTM-3": {
+			"liste_militaire": "4",
+			"type_orga": "7",
+			"materiel": {
+				"Camion de Transport de Matériel": "1"
+			}
+		},
+		"Camion de Transport de Matériel CTM-4": {
+			"liste_militaire": "4",
+			"type_orga": "7",
+			"materiel": {
+				"Camion de Transport de Matériel": "1"
+			}
+		},
+		"Camion de Transport de Matériel CTM-5": {
+			"liste_militaire": "4",
+			"type_orga": "7",
+			"materiel": {
+				"Camion de Transport de Matériel": "1"
+			}
+		},
+		"Camion de Transport de Matériel CTM-6": {
+			"liste_militaire": "4",
+			"type_orga": "7",
+			"materiel": {
+				"Camion de Transport de Matériel": "1"
+			}
+		},
+		"Camion de Transport de Matériel CTM-7": {
+			"liste_militaire": "4",
+			"type_orga": "7",
+			"materiel": {
+				"Camion de Transport de Matériel": "1"
+			}
+		},
+		"Camion de Transport de Matériel CTM-8": {
+			"liste_militaire": "4",
+			"type_orga": "7",
+			"materiel": {
+				"Camion de Transport de Matériel": "1"
+			}
+		},
+		"Camion de Transport de Matériel CTM-9": {
+			"liste_militaire": "4",
+			"type_orga": "7",
+			"materiel": {
+				"Camion de Transport de Matériel": "1"
+			}
+		},
+		"Camion de Transport de Matériel CTM-10": {
+			"liste_militaire": "4",
+			"type_orga": "7",
+			"materiel": {
+				"Camion de Transport de Matériel": "1"
+			}
+		},
+		"Camion de Transport de Matériel CTM-11": {
+			"liste_militaire": "4",
+			"type_orga": "7",
+			"materiel": {
+				"Camion de Transport de Matériel": "1"
+			}
+		},
+		"Camion de Transport de Matériel CTM-12": {
+			"liste_militaire": "4",
+			"type_orga": "7",
+			"materiel": {
+				"Camion de Transport de Matériel": "1"
+			}
+		},
+		"Camion de Transport de Matériel CTM-13": {
+			"liste_militaire": "4",
+			"type_orga": "7",
+			"materiel": {
+				"Camion de Transport de Matériel": "1"
+			}
+		},
+		"Camion de Transport de Matériel CTM-14": {
+			"liste_militaire": "4",
+			"type_orga": "7",
+			"materiel": {
+				"Camion de Transport de Matériel": "1"
+			}
+		},
+		"Camion de Transport de Matériel CTM-15": {
+			"liste_militaire": "4",
+			"type_orga": "7",
+			"materiel": {
+				"Camion de Transport de Matériel": "1"
+			}
+		}
+	}
+}

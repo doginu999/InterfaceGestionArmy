@@ -1,0 +1,48 @@
+{
+	"Bataillon aérien": {
+		"liste_militaire": "1",
+		"type_orga": "6",
+		"Hélicoptère Multi-Fonctions HMF-1": {
+			"liste_militaire": "8",
+			"type_orga": "7",
+			"materiel": {
+				"Hélicoptère Multi-Fonctions": "1"
+			}
+		},
+		"Hélicoptère Multi-Fonctions HMF-2": {
+			"liste_militaire": "8",
+			"type_orga": "7",
+			"materiel": {
+				"Hélicoptère Multi-Fonctions": "1"
+			}
+		}
+	},
+	"Bataillon de terrain": {
+		"liste_militaire": "1",
+		"type_orga": "6",
+		"1er Escadron": {
+			"liste_militaire": "100",
+			"type_orga": "7",
+			"materiel": {
+				"Bus": "4",
+				"Camion anti-émeutes": "4"
+			}
+		},
+		"2e Escadron": {
+			"liste_militaire": "100",
+			"type_orga": "7",
+			"materiel": {
+				"Bus": "4",
+				"Camion anti-émeutes": "4"
+			}
+		},
+		"3e Escadron": {
+			"liste_militaire": "100",
+			"type_orga": "7",
+			"materiel": {
+				"Bus": "4",
+				"Camion anti-émeutes": "4"
+			}
+		}
+	}
+}

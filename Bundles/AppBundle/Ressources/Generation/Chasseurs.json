@@ -1,0 +1,2314 @@
+{
+	"1er Bataillon": {
+		"liste_militaire": "1",
+		"type_orga": "6",
+		"1er Escadron": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"1ere Batterie": {
+				"liste_militaire": "1",
+				"type_orga": "8",
+				"1ere Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "10",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Camion de Transport de Troupes": {
+							"liste_militaire": "7",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton VLR": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Léger de Reconnaissance VLR-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							},
+							"Véhicule Léger de Reconnaissance VLR-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé à Armement Léger VBAL-1": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Véhicule Blindé à Armement Léger VBAL-2": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						},
+						"Peloton VBL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé Léger VBL-1": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							},
+							"Véhicule Blindé Léger VBL-2": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Camion de Transport de Troupes": {
+							"liste_militaire": "7",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton VLR": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Léger de Reconnaissance VLR-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							},
+							"Véhicule Léger de Reconnaissance VLR-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé à Armement Léger VBAL-1": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Véhicule Blindé à Armement Léger VBAL-2": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						},
+						"Peloton VBL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé Léger VBL-1": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							},
+							"Véhicule Blindé Léger VBL-2": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							}
+						}
+					}
+				},
+				"2e Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "10",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Camion de Transport de Troupes": {
+							"liste_militaire": "7",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton VLR": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Léger de Reconnaissance VLR-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							},
+							"Véhicule Léger de Reconnaissance VLR-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé à Armement Léger VBAL-1": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Véhicule Blindé à Armement Léger VBAL-2": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						},
+						"Peloton VBL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé Léger VBL-1": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							},
+							"Véhicule Blindé Léger VBL-2": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Camion de Transport de Troupes": {
+							"liste_militaire": "7",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton VLR": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Léger de Reconnaissance VLR-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							},
+							"Véhicule Léger de Reconnaissance VLR-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé à Armement Léger VBAL-1": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Véhicule Blindé à Armement Léger VBAL-2": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						},
+						"Peloton VBL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé Léger VBL-1": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							},
+							"Véhicule Blindé Léger VBL-2": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							}
+						}
+					}
+				}
+			},
+			"2e Batterie": {
+				"liste_militaire": "1",
+				"type_orga": "8",
+				"1ere Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "10",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Camion de Transport de Troupes": {
+							"liste_militaire": "7",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton VLR": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Léger de Reconnaissance VLR-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							},
+							"Véhicule Léger de Reconnaissance VLR-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé à Armement Léger VBAL-1": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Véhicule Blindé à Armement Léger VBAL-2": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						},
+						"Peloton VBL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé Léger VBL-1": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							},
+							"Véhicule Blindé Léger VBL-2": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Camion de Transport de Troupes": {
+							"liste_militaire": "7",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton VLR": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Léger de Reconnaissance VLR-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							},
+							"Véhicule Léger de Reconnaissance VLR-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé à Armement Léger VBAL-1": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Véhicule Blindé à Armement Léger VBAL-2": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						},
+						"Peloton VBL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé Léger VBL-1": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							},
+							"Véhicule Blindé Léger VBL-2": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							}
+						}
+					}
+				},
+				"2e Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "10",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Camion de Transport de Troupes": {
+							"liste_militaire": "7",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton VLR": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Léger de Reconnaissance VLR-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							},
+							"Véhicule Léger de Reconnaissance VLR-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé à Armement Léger VBAL-1": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Véhicule Blindé à Armement Léger VBAL-2": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						},
+						"Peloton VBL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé Léger VBL-1": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							},
+							"Véhicule Blindé Léger VBL-2": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Camion de Transport de Troupes": {
+							"liste_militaire": "7",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton VLR": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Léger de Reconnaissance VLR-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							},
+							"Véhicule Léger de Reconnaissance VLR-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé à Armement Léger VBAL-1": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Véhicule Blindé à Armement Léger VBAL-2": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						},
+						"Peloton VBL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé Léger VBL-1": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							},
+							"Véhicule Blindé Léger VBL-2": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							}
+						}
+					}
+				}
+			}
+		},
+		"2e Escadron": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"1ere Batterie": {
+				"liste_militaire": "1",
+				"type_orga": "8",
+				"1ere Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "10",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Camion de Transport de Troupes": {
+							"liste_militaire": "7",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton VLR": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Léger de Reconnaissance VLR-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							},
+							"Véhicule Léger de Reconnaissance VLR-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé à Armement Léger VBAL-1": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Véhicule Blindé à Armement Léger VBAL-2": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						},
+						"Peloton VBL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé Léger VBL-1": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							},
+							"Véhicule Blindé Léger VBL-2": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Camion de Transport de Troupes": {
+							"liste_militaire": "7",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton VLR": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Léger de Reconnaissance VLR-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							},
+							"Véhicule Léger de Reconnaissance VLR-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé à Armement Léger VBAL-1": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Véhicule Blindé à Armement Léger VBAL-2": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						},
+						"Peloton VBL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé Léger VBL-1": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							},
+							"Véhicule Blindé Léger VBL-2": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							}
+						}
+					}
+				},
+				"2e Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "10",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Camion de Transport de Troupes": {
+							"liste_militaire": "7",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton VLR": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Léger de Reconnaissance VLR-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							},
+							"Véhicule Léger de Reconnaissance VLR-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé à Armement Léger VBAL-1": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Véhicule Blindé à Armement Léger VBAL-2": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						},
+						"Peloton VBL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé Léger VBL-1": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							},
+							"Véhicule Blindé Léger VBL-2": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Camion de Transport de Troupes": {
+							"liste_militaire": "7",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton VLR": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Léger de Reconnaissance VLR-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							},
+							"Véhicule Léger de Reconnaissance VLR-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé à Armement Léger VBAL-1": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Véhicule Blindé à Armement Léger VBAL-2": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						},
+						"Peloton VBL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé Léger VBL-1": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							},
+							"Véhicule Blindé Léger VBL-2": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							}
+						}
+					}
+				}
+			},
+			"2e Batterie": {
+				"liste_militaire": "1",
+				"type_orga": "8",
+				"1ere Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "10",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Camion de Transport de Troupes": {
+							"liste_militaire": "7",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton VLR": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Léger de Reconnaissance VLR-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							},
+							"Véhicule Léger de Reconnaissance VLR-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé à Armement Léger VBAL-1": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Véhicule Blindé à Armement Léger VBAL-2": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						},
+						"Peloton VBL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé Léger VBL-1": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							},
+							"Véhicule Blindé Léger VBL-2": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Camion de Transport de Troupes": {
+							"liste_militaire": "7",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton VLR": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Léger de Reconnaissance VLR-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							},
+							"Véhicule Léger de Reconnaissance VLR-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé à Armement Léger VBAL-1": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Véhicule Blindé à Armement Léger VBAL-2": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						},
+						"Peloton VBL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé Léger VBL-1": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							},
+							"Véhicule Blindé Léger VBL-2": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							}
+						}
+					}
+				},
+				"2e Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "10",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Camion de Transport de Troupes": {
+							"liste_militaire": "7",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton VLR": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Léger de Reconnaissance VLR-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							},
+							"Véhicule Léger de Reconnaissance VLR-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé à Armement Léger VBAL-1": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Véhicule Blindé à Armement Léger VBAL-2": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						},
+						"Peloton VBL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé Léger VBL-1": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							},
+							"Véhicule Blindé Léger VBL-2": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Camion de Transport de Troupes": {
+							"liste_militaire": "7",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton VLR": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Léger de Reconnaissance VLR-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							},
+							"Véhicule Léger de Reconnaissance VLR-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé à Armement Léger VBAL-1": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Véhicule Blindé à Armement Léger VBAL-2": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						},
+						"Peloton VBL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé Léger VBL-1": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							},
+							"Véhicule Blindé Léger VBL-2": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	},
+	"2e Bataillon": {
+		"liste_militaire": "1",
+		"type_orga": "6",
+		"1er Escadron": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"1ere Batterie": {
+				"liste_militaire": "1",
+				"type_orga": "8",
+				"1ere Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "10",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Camion de Transport de Troupes": {
+							"liste_militaire": "7",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton VLR": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Léger de Reconnaissance VLR-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							},
+							"Véhicule Léger de Reconnaissance VLR-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé à Armement Léger VBAL-1": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Véhicule Blindé à Armement Léger VBAL-2": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						},
+						"Peloton VBL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé Léger VBL-1": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							},
+							"Véhicule Blindé Léger VBL-2": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Camion de Transport de Troupes": {
+							"liste_militaire": "7",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton VLR": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Léger de Reconnaissance VLR-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							},
+							"Véhicule Léger de Reconnaissance VLR-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé à Armement Léger VBAL-1": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Véhicule Blindé à Armement Léger VBAL-2": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						},
+						"Peloton VBL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé Léger VBL-1": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							},
+							"Véhicule Blindé Léger VBL-2": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							}
+						}
+					}
+				},
+				"2e Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "10",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Camion de Transport de Troupes": {
+							"liste_militaire": "7",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton VLR": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Léger de Reconnaissance VLR-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							},
+							"Véhicule Léger de Reconnaissance VLR-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé à Armement Léger VBAL-1": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Véhicule Blindé à Armement Léger VBAL-2": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						},
+						"Peloton VBL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé Léger VBL-1": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							},
+							"Véhicule Blindé Léger VBL-2": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Camion de Transport de Troupes": {
+							"liste_militaire": "7",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton VLR": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Léger de Reconnaissance VLR-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							},
+							"Véhicule Léger de Reconnaissance VLR-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé à Armement Léger VBAL-1": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Véhicule Blindé à Armement Léger VBAL-2": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						},
+						"Peloton VBL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé Léger VBL-1": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							},
+							"Véhicule Blindé Léger VBL-2": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							}
+						}
+					}
+				}
+			},
+			"2e Batterie": {
+				"liste_militaire": "1",
+				"type_orga": "8",
+				"1ere Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "10",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Camion de Transport de Troupes": {
+							"liste_militaire": "7",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton VLR": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Léger de Reconnaissance VLR-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							},
+							"Véhicule Léger de Reconnaissance VLR-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé à Armement Léger VBAL-1": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Véhicule Blindé à Armement Léger VBAL-2": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						},
+						"Peloton VBL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé Léger VBL-1": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							},
+							"Véhicule Blindé Léger VBL-2": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Camion de Transport de Troupes": {
+							"liste_militaire": "7",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton VLR": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Léger de Reconnaissance VLR-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							},
+							"Véhicule Léger de Reconnaissance VLR-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé à Armement Léger VBAL-1": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Véhicule Blindé à Armement Léger VBAL-2": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						},
+						"Peloton VBL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé Léger VBL-1": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							},
+							"Véhicule Blindé Léger VBL-2": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							}
+						}
+					}
+				},
+				"2e Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "10",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Camion de Transport de Troupes": {
+							"liste_militaire": "7",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton VLR": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Léger de Reconnaissance VLR-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							},
+							"Véhicule Léger de Reconnaissance VLR-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé à Armement Léger VBAL-1": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Véhicule Blindé à Armement Léger VBAL-2": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						},
+						"Peloton VBL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé Léger VBL-1": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							},
+							"Véhicule Blindé Léger VBL-2": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Camion de Transport de Troupes": {
+							"liste_militaire": "7",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton VLR": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Léger de Reconnaissance VLR-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							},
+							"Véhicule Léger de Reconnaissance VLR-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé à Armement Léger VBAL-1": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Véhicule Blindé à Armement Léger VBAL-2": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						},
+						"Peloton VBL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé Léger VBL-1": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							},
+							"Véhicule Blindé Léger VBL-2": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							}
+						}
+					}
+				}
+			}
+		},
+		"2e Escadron": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"1ere Batterie": {
+				"liste_militaire": "1",
+				"type_orga": "8",
+				"1ere Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "10",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Camion de Transport de Troupes": {
+							"liste_militaire": "7",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton VLR": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Léger de Reconnaissance VLR-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							},
+							"Véhicule Léger de Reconnaissance VLR-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé à Armement Léger VBAL-1": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Véhicule Blindé à Armement Léger VBAL-2": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						},
+						"Peloton VBL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé Léger VBL-1": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							},
+							"Véhicule Blindé Léger VBL-2": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Camion de Transport de Troupes": {
+							"liste_militaire": "7",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton VLR": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Léger de Reconnaissance VLR-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							},
+							"Véhicule Léger de Reconnaissance VLR-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé à Armement Léger VBAL-1": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Véhicule Blindé à Armement Léger VBAL-2": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						},
+						"Peloton VBL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé Léger VBL-1": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							},
+							"Véhicule Blindé Léger VBL-2": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							}
+						}
+					}
+				},
+				"2e Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "10",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Camion de Transport de Troupes": {
+							"liste_militaire": "7",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton VLR": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Léger de Reconnaissance VLR-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							},
+							"Véhicule Léger de Reconnaissance VLR-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé à Armement Léger VBAL-1": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Véhicule Blindé à Armement Léger VBAL-2": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						},
+						"Peloton VBL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé Léger VBL-1": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							},
+							"Véhicule Blindé Léger VBL-2": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Camion de Transport de Troupes": {
+							"liste_militaire": "7",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton VLR": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Léger de Reconnaissance VLR-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							},
+							"Véhicule Léger de Reconnaissance VLR-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé à Armement Léger VBAL-1": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Véhicule Blindé à Armement Léger VBAL-2": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						},
+						"Peloton VBL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé Léger VBL-1": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							},
+							"Véhicule Blindé Léger VBL-2": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							}
+						}
+					}
+				}
+			},
+			"2e Batterie": {
+				"liste_militaire": "1",
+				"type_orga": "8",
+				"1ere Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "10",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Camion de Transport de Troupes": {
+							"liste_militaire": "7",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton VLR": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Léger de Reconnaissance VLR-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							},
+							"Véhicule Léger de Reconnaissance VLR-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé à Armement Léger VBAL-1": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Véhicule Blindé à Armement Léger VBAL-2": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						},
+						"Peloton VBL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé Léger VBL-1": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							},
+							"Véhicule Blindé Léger VBL-2": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Camion de Transport de Troupes": {
+							"liste_militaire": "7",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton VLR": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Léger de Reconnaissance VLR-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							},
+							"Véhicule Léger de Reconnaissance VLR-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé à Armement Léger VBAL-1": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Véhicule Blindé à Armement Léger VBAL-2": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						},
+						"Peloton VBL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé Léger VBL-1": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							},
+							"Véhicule Blindé Léger VBL-2": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							}
+						}
+					}
+				},
+				"2e Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "10",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Camion de Transport de Troupes": {
+							"liste_militaire": "7",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton VLR": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Léger de Reconnaissance VLR-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							},
+							"Véhicule Léger de Reconnaissance VLR-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé à Armement Léger VBAL-1": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Véhicule Blindé à Armement Léger VBAL-2": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						},
+						"Peloton VBL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé Léger VBL-1": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							},
+							"Véhicule Blindé Léger VBL-2": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Camion de Transport de Troupes": {
+							"liste_militaire": "7",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton VLR": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Léger de Reconnaissance VLR-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							},
+							"Véhicule Léger de Reconnaissance VLR-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Léger de Reconnaissance": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé à Armement Léger VBAL-1": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Véhicule Blindé à Armement Léger VBAL-2": {
+								"liste_militaire": "7",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						},
+						"Peloton VBL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Véhicule Blindé Léger VBL-1": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							},
+							"Véhicule Blindé Léger VBL-2": {
+								"liste_militaire": "9",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé Léger": "1"
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}

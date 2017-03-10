@@ -1,0 +1,3402 @@
+{
+	"1er Bataillon": {
+		"liste_militaire": "1",
+		"type_orga": "6",
+		"1er Escadron": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"1ere Batterie": {
+				"liste_militaire": "1",
+				"type_orga": "8",
+				"1ere Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "10",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Véhicule de Surveillance du Sol": "1"
+							}
+						},
+						"Peloton OB-39": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Obusier OB-39-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							}
+						},
+						"Peloton Mortier Tracté": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Mortier Tracté MT-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							},
+							"Mortier Tracté MT-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							}
+						},
+						"Peloton BRM": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Batterie de Roquettes Motorisée BRM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							},
+							"Batterie de Roquettes Motorisée BRM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							}
+						},
+						"Système de Drone Tactique": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Système de Drone Tactique": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Véhicule de Surveillance du Sol": "1"
+							}
+						},
+						"Peloton OB-39": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Obusier OB-39-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							}
+						},
+						"Peloton Mortier Tracté": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Mortier Tracté MT-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							},
+							"Mortier Tracté MT-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							}
+						},
+						"Peloton BRM": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Batterie de Roquettes Motorisée BRM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							},
+							"Batterie de Roquettes Motorisée BRM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							}
+						},
+						"Système de Drone Tactique": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Système de Drone Tactique": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						}
+					}
+				},
+				"2e Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "10",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Véhicule de Surveillance du Sol": "1"
+							}
+						},
+						"Peloton OB-39": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Obusier OB-39-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							}
+						},
+						"Peloton Mortier Tracté": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Mortier Tracté MT-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							},
+							"Mortier Tracté MT-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							}
+						},
+						"Peloton BRM": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Batterie de Roquettes Motorisée BRM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							},
+							"Batterie de Roquettes Motorisée BRM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							}
+						},
+						"Système de Drone Tactique": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Système de Drone Tactique": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Véhicule de Surveillance du Sol": "1"
+							}
+						},
+						"Peloton OB-39": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Obusier OB-39-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							}
+						},
+						"Peloton Mortier Tracté": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Mortier Tracté MT-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							},
+							"Mortier Tracté MT-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							}
+						},
+						"Peloton BRM": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Batterie de Roquettes Motorisée BRM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							},
+							"Batterie de Roquettes Motorisée BRM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							}
+						},
+						"Système de Drone Tactique": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Système de Drone Tactique": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						}
+					}
+				}
+			},
+			"2e Batterie": {
+				"liste_militaire": "1",
+				"type_orga": "8",
+				"1ere Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "10",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Véhicule de Surveillance du Sol": "1"
+							}
+						},
+						"Peloton OB-39": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Obusier OB-39-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							}
+						},
+						"Peloton Mortier Tracté": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Mortier Tracté MT-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							},
+							"Mortier Tracté MT-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							}
+						},
+						"Peloton BRM": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Batterie de Roquettes Motorisée BRM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							},
+							"Batterie de Roquettes Motorisée BRM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							}
+						},
+						"Système de Drone Tactique": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Système de Drone Tactique": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Véhicule de Surveillance du Sol": "1"
+							}
+						},
+						"Peloton OB-39": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Obusier OB-39-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							}
+						},
+						"Peloton Mortier Tracté": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Mortier Tracté MT-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							},
+							"Mortier Tracté MT-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							}
+						},
+						"Peloton BRM": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Batterie de Roquettes Motorisée BRM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							},
+							"Batterie de Roquettes Motorisée BRM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							}
+						},
+						"Système de Drone Tactique": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Système de Drone Tactique": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						}
+					}
+				},
+				"2e Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "10",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Véhicule de Surveillance du Sol": "1"
+							}
+						},
+						"Peloton OB-39": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Obusier OB-39-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							}
+						},
+						"Peloton Mortier Tracté": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Mortier Tracté MT-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							},
+							"Mortier Tracté MT-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							}
+						},
+						"Peloton BRM": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Batterie de Roquettes Motorisée BRM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							},
+							"Batterie de Roquettes Motorisée BRM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							}
+						},
+						"Système de Drone Tactique": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Système de Drone Tactique": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Véhicule de Surveillance du Sol": "1"
+							}
+						},
+						"Peloton OB-39": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Obusier OB-39-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							}
+						},
+						"Peloton Mortier Tracté": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Mortier Tracté MT-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							},
+							"Mortier Tracté MT-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							}
+						},
+						"Peloton BRM": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Batterie de Roquettes Motorisée BRM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							},
+							"Batterie de Roquettes Motorisée BRM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							}
+						},
+						"Système de Drone Tactique": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Système de Drone Tactique": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						}
+					}
+				}
+			}
+		},
+		"2e Escadron": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"1ere Batterie": {
+				"liste_militaire": "1",
+				"type_orga": "8",
+				"1ere Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "10",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Véhicule de Surveillance du Sol": "1"
+							}
+						},
+						"Peloton OB-39": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Obusier OB-39-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							}
+						},
+						"Peloton Mortier Tracté": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Mortier Tracté MT-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							},
+							"Mortier Tracté MT-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							}
+						},
+						"Peloton BRM": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Batterie de Roquettes Motorisée BRM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							},
+							"Batterie de Roquettes Motorisée BRM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							}
+						},
+						"Système de Drone Tactique": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Système de Drone Tactique": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Véhicule de Surveillance du Sol": "1"
+							}
+						},
+						"Peloton OB-39": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Obusier OB-39-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							}
+						},
+						"Peloton Mortier Tracté": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Mortier Tracté MT-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							},
+							"Mortier Tracté MT-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							}
+						},
+						"Peloton BRM": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Batterie de Roquettes Motorisée BRM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							},
+							"Batterie de Roquettes Motorisée BRM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							}
+						},
+						"Système de Drone Tactique": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Système de Drone Tactique": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						}
+					}
+				},
+				"2e Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "10",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Véhicule de Surveillance du Sol": "1"
+							}
+						},
+						"Peloton OB-39": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Obusier OB-39-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							}
+						},
+						"Peloton Mortier Tracté": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Mortier Tracté MT-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							},
+							"Mortier Tracté MT-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							}
+						},
+						"Peloton BRM": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Batterie de Roquettes Motorisée BRM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							},
+							"Batterie de Roquettes Motorisée BRM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							}
+						},
+						"Système de Drone Tactique": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Système de Drone Tactique": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Véhicule de Surveillance du Sol": "1"
+							}
+						},
+						"Peloton OB-39": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Obusier OB-39-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							}
+						},
+						"Peloton Mortier Tracté": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Mortier Tracté MT-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							},
+							"Mortier Tracté MT-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							}
+						},
+						"Peloton BRM": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Batterie de Roquettes Motorisée BRM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							},
+							"Batterie de Roquettes Motorisée BRM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							}
+						},
+						"Système de Drone Tactique": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Système de Drone Tactique": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						}
+					}
+				}
+			},
+			"2e Batterie": {
+				"liste_militaire": "1",
+				"type_orga": "8",
+				"1ere Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "10",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Véhicule de Surveillance du Sol": "1"
+							}
+						},
+						"Peloton OB-39": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Obusier OB-39-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							}
+						},
+						"Peloton Mortier Tracté": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Mortier Tracté MT-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							},
+							"Mortier Tracté MT-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							}
+						},
+						"Peloton BRM": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Batterie de Roquettes Motorisée BRM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							},
+							"Batterie de Roquettes Motorisée BRM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							}
+						},
+						"Système de Drone Tactique": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Système de Drone Tactique": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Véhicule de Surveillance du Sol": "1"
+							}
+						},
+						"Peloton OB-39": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Obusier OB-39-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							}
+						},
+						"Peloton Mortier Tracté": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Mortier Tracté MT-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							},
+							"Mortier Tracté MT-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							}
+						},
+						"Peloton BRM": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Batterie de Roquettes Motorisée BRM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							},
+							"Batterie de Roquettes Motorisée BRM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							}
+						},
+						"Système de Drone Tactique": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Système de Drone Tactique": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						}
+					}
+				},
+				"2e Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "10",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Véhicule de Surveillance du Sol": "1"
+							}
+						},
+						"Peloton OB-39": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Obusier OB-39-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							}
+						},
+						"Peloton Mortier Tracté": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Mortier Tracté MT-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							},
+							"Mortier Tracté MT-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							}
+						},
+						"Peloton BRM": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Batterie de Roquettes Motorisée BRM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							},
+							"Batterie de Roquettes Motorisée BRM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							}
+						},
+						"Système de Drone Tactique": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Système de Drone Tactique": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Véhicule de Surveillance du Sol": "1"
+							}
+						},
+						"Peloton OB-39": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Obusier OB-39-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							}
+						},
+						"Peloton Mortier Tracté": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Mortier Tracté MT-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							},
+							"Mortier Tracté MT-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							}
+						},
+						"Peloton BRM": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Batterie de Roquettes Motorisée BRM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							},
+							"Batterie de Roquettes Motorisée BRM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							}
+						},
+						"Système de Drone Tactique": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Système de Drone Tactique": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	},
+	"2e Bataillon": {
+		"liste_militaire": "1",
+		"type_orga": "6",
+		"1er Escadron": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"1ere Batterie": {
+				"liste_militaire": "1",
+				"type_orga": "8",
+				"1ere Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "10",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Véhicule de Surveillance du Sol": "1"
+							}
+						},
+						"Peloton OB-39": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Obusier OB-39-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							}
+						},
+						"Peloton Mortier Tracté": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Mortier Tracté MT-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							},
+							"Mortier Tracté MT-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							}
+						},
+						"Peloton BRM": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Batterie de Roquettes Motorisée BRM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							},
+							"Batterie de Roquettes Motorisée BRM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							}
+						},
+						"Système de Drone Tactique": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Système de Drone Tactique": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Véhicule de Surveillance du Sol": "1"
+							}
+						},
+						"Peloton OB-39": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Obusier OB-39-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							}
+						},
+						"Peloton Mortier Tracté": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Mortier Tracté MT-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							},
+							"Mortier Tracté MT-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							}
+						},
+						"Peloton BRM": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Batterie de Roquettes Motorisée BRM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							},
+							"Batterie de Roquettes Motorisée BRM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							}
+						},
+						"Système de Drone Tactique": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Système de Drone Tactique": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						}
+					}
+				},
+				"2e Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "10",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Véhicule de Surveillance du Sol": "1"
+							}
+						},
+						"Peloton OB-39": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Obusier OB-39-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							}
+						},
+						"Peloton Mortier Tracté": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Mortier Tracté MT-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							},
+							"Mortier Tracté MT-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							}
+						},
+						"Peloton BRM": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Batterie de Roquettes Motorisée BRM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							},
+							"Batterie de Roquettes Motorisée BRM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							}
+						},
+						"Système de Drone Tactique": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Système de Drone Tactique": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Véhicule de Surveillance du Sol": "1"
+							}
+						},
+						"Peloton OB-39": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Obusier OB-39-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							}
+						},
+						"Peloton Mortier Tracté": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Mortier Tracté MT-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							},
+							"Mortier Tracté MT-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							}
+						},
+						"Peloton BRM": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Batterie de Roquettes Motorisée BRM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							},
+							"Batterie de Roquettes Motorisée BRM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							}
+						},
+						"Système de Drone Tactique": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Système de Drone Tactique": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						}
+					}
+				}
+			},
+			"2e Batterie": {
+				"liste_militaire": "1",
+				"type_orga": "8",
+				"1ere Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "10",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Véhicule de Surveillance du Sol": "1"
+							}
+						},
+						"Peloton OB-39": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Obusier OB-39-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							}
+						},
+						"Peloton Mortier Tracté": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Mortier Tracté MT-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							},
+							"Mortier Tracté MT-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							}
+						},
+						"Peloton BRM": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Batterie de Roquettes Motorisée BRM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							},
+							"Batterie de Roquettes Motorisée BRM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							}
+						},
+						"Système de Drone Tactique": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Système de Drone Tactique": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Véhicule de Surveillance du Sol": "1"
+							}
+						},
+						"Peloton OB-39": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Obusier OB-39-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							}
+						},
+						"Peloton Mortier Tracté": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Mortier Tracté MT-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							},
+							"Mortier Tracté MT-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							}
+						},
+						"Peloton BRM": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Batterie de Roquettes Motorisée BRM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							},
+							"Batterie de Roquettes Motorisée BRM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							}
+						},
+						"Système de Drone Tactique": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Système de Drone Tactique": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						}
+					}
+				},
+				"2e Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "10",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Véhicule de Surveillance du Sol": "1"
+							}
+						},
+						"Peloton OB-39": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Obusier OB-39-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							}
+						},
+						"Peloton Mortier Tracté": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Mortier Tracté MT-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							},
+							"Mortier Tracté MT-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							}
+						},
+						"Peloton BRM": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Batterie de Roquettes Motorisée BRM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							},
+							"Batterie de Roquettes Motorisée BRM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							}
+						},
+						"Système de Drone Tactique": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Système de Drone Tactique": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Véhicule de Surveillance du Sol": "1"
+							}
+						},
+						"Peloton OB-39": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Obusier OB-39-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							}
+						},
+						"Peloton Mortier Tracté": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Mortier Tracté MT-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							},
+							"Mortier Tracté MT-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							}
+						},
+						"Peloton BRM": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Batterie de Roquettes Motorisée BRM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							},
+							"Batterie de Roquettes Motorisée BRM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							}
+						},
+						"Système de Drone Tactique": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Système de Drone Tactique": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						}
+					}
+				}
+			}
+		},
+		"2e Escadron": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"1ere Batterie": {
+				"liste_militaire": "1",
+				"type_orga": "8",
+				"1ere Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "10",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Véhicule de Surveillance du Sol": "1"
+							}
+						},
+						"Peloton OB-39": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Obusier OB-39-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							}
+						},
+						"Peloton Mortier Tracté": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Mortier Tracté MT-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							},
+							"Mortier Tracté MT-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							}
+						},
+						"Peloton BRM": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Batterie de Roquettes Motorisée BRM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							},
+							"Batterie de Roquettes Motorisée BRM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							}
+						},
+						"Système de Drone Tactique": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Système de Drone Tactique": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Véhicule de Surveillance du Sol": "1"
+							}
+						},
+						"Peloton OB-39": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Obusier OB-39-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							}
+						},
+						"Peloton Mortier Tracté": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Mortier Tracté MT-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							},
+							"Mortier Tracté MT-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							}
+						},
+						"Peloton BRM": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Batterie de Roquettes Motorisée BRM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							},
+							"Batterie de Roquettes Motorisée BRM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							}
+						},
+						"Système de Drone Tactique": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Système de Drone Tactique": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						}
+					}
+				},
+				"2e Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "10",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Véhicule de Surveillance du Sol": "1"
+							}
+						},
+						"Peloton OB-39": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Obusier OB-39-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							}
+						},
+						"Peloton Mortier Tracté": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Mortier Tracté MT-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							},
+							"Mortier Tracté MT-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							}
+						},
+						"Peloton BRM": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Batterie de Roquettes Motorisée BRM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							},
+							"Batterie de Roquettes Motorisée BRM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							}
+						},
+						"Système de Drone Tactique": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Système de Drone Tactique": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Véhicule de Surveillance du Sol": "1"
+							}
+						},
+						"Peloton OB-39": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Obusier OB-39-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							}
+						},
+						"Peloton Mortier Tracté": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Mortier Tracté MT-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							},
+							"Mortier Tracté MT-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							}
+						},
+						"Peloton BRM": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Batterie de Roquettes Motorisée BRM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							},
+							"Batterie de Roquettes Motorisée BRM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							}
+						},
+						"Système de Drone Tactique": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Système de Drone Tactique": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						}
+					}
+				}
+			},
+			"2e Batterie": {
+				"liste_militaire": "1",
+				"type_orga": "8",
+				"1ere Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "10",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Véhicule de Surveillance du Sol": "1"
+							}
+						},
+						"Peloton OB-39": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Obusier OB-39-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							}
+						},
+						"Peloton Mortier Tracté": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Mortier Tracté MT-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							},
+							"Mortier Tracté MT-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							}
+						},
+						"Peloton BRM": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Batterie de Roquettes Motorisée BRM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							},
+							"Batterie de Roquettes Motorisée BRM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							}
+						},
+						"Système de Drone Tactique": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Système de Drone Tactique": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Véhicule de Surveillance du Sol": "1"
+							}
+						},
+						"Peloton OB-39": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Obusier OB-39-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							}
+						},
+						"Peloton Mortier Tracté": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Mortier Tracté MT-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							},
+							"Mortier Tracté MT-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							}
+						},
+						"Peloton BRM": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Batterie de Roquettes Motorisée BRM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							},
+							"Batterie de Roquettes Motorisée BRM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							}
+						},
+						"Système de Drone Tactique": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Système de Drone Tactique": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						}
+					}
+				},
+				"2e Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "10",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Véhicule de Surveillance du Sol": "1"
+							}
+						},
+						"Peloton OB-39": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Obusier OB-39-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							}
+						},
+						"Peloton Mortier Tracté": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Mortier Tracté MT-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							},
+							"Mortier Tracté MT-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							}
+						},
+						"Peloton BRM": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Batterie de Roquettes Motorisée BRM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							},
+							"Batterie de Roquettes Motorisée BRM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							}
+						},
+						"Système de Drone Tactique": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Système de Drone Tactique": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Véhicule de Surveillance du Sol": "1"
+							}
+						},
+						"Peloton OB-39": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Obusier OB-39-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							},
+							"Obusier OB-39-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Obusier OB-39": "1"
+								}
+							}
+						},
+						"Peloton Mortier Tracté": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Mortier Tracté MT-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							},
+							"Mortier Tracté MT-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1",
+									"Mortier tracté": "1"
+								}
+							}
+						},
+						"Peloton BRM": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Batterie de Roquettes Motorisée BRM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							},
+							"Batterie de Roquettes Motorisée BRM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Batterie de Roquettes Motorisée": "1"
+								}
+							}
+						},
+						"Système de Drone Tactique": {
+							"liste_militaire": "3",
+							"type_orga": "11",
+							"materiel": {
+								"Système de Drone Tactique": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}

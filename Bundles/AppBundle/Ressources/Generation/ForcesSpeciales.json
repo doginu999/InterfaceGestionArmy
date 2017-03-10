@@ -1,0 +1,629 @@
+{
+	"Bataillon aérien": {
+		"liste_militaire": "1",
+		"type_orga": "6",
+		"Escadron ATA": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"Avion de Transport Avancé ATA-1": {
+				"liste_militaire": "10",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de Transport Avancé": "1"
+				}
+			},
+			"Avion de Transport Avancé ATA-2": {
+				"liste_militaire": "10",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de Transport Avancé": "1"
+				}
+			},
+			"Avion de Transport Avancé ATA-3": {
+				"liste_militaire": "10",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de Transport Avancé": "1"
+				}
+			},
+			"Avion de Transport Avancé ATA-4": {
+				"liste_militaire": "10",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de Transport Avancé": "1"
+				}
+			},
+			"Avion de Transport Avancé ATA-5": {
+				"liste_militaire": "10",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de Transport Avancé": "1"
+				}
+			},
+			"Avion de Transport Avancé ATA-6": {
+				"liste_militaire": "10",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de Transport Avancé": "1"
+				}
+			},
+			"Avion de Transport Avancé ATA-7": {
+				"liste_militaire": "10",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de Transport Avancé": "1"
+				}
+			},
+			"Avion de Transport Avancé ATA-8": {
+				"liste_militaire": "10",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de Transport Avancé": "1"
+				}
+			},
+			"Avion de Transport Avancé ATA-9": {
+				"liste_militaire": "10",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de Transport Avancé": "1"
+				}
+			},
+			"Avion de Transport Avancé ATA-10": {
+				"liste_militaire": "10",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de Transport Avancé": "1"
+				}
+			}
+		},
+		"Escadron ALT": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"Avion Léger de Transport ALT-1": {
+				"liste_militaire": "10",
+				"type_orga": "8",
+				"materiel": {
+					"Avion Léger de Transport": "1"
+				}
+			},
+			"Avion Léger de Transport ALT-2": {
+				"liste_militaire": "10",
+				"type_orga": "8",
+				"materiel": {
+					"Avion Léger de Transport": "1"
+				}
+			},
+			"Avion Léger de Transport ALT-3": {
+				"liste_militaire": "10",
+				"type_orga": "8",
+				"materiel": {
+					"Avion Léger de Transport": "1"
+				}
+			},
+			"Avion Léger de Transport ALT-4": {
+				"liste_militaire": "10",
+				"type_orga": "8",
+				"materiel": {
+					"Avion Léger de Transport": "1"
+				}
+			},
+			"Avion Léger de Transport ALT-5": {
+				"liste_militaire": "10",
+				"type_orga": "8",
+				"materiel": {
+					"Avion Léger de Transport": "1"
+				}
+			},
+			"Avion Léger de Transport ALT-6": {
+				"liste_militaire": "10",
+				"type_orga": "8",
+				"materiel": {
+					"Avion Léger de Transport": "1"
+				}
+			}
+		},
+		"Escadron HMF": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"Hélicoptère Multi-Fonctions HMF-1": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			},
+			"Hélicoptère Multi-Fonctions HMF-2": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			},
+			"Hélicoptère Multi-Fonctions HMF-3": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			},
+			"Hélicoptère Multi-Fonctions HMF-4": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			},
+			"Hélicoptère Multi-Fonctions HMF-5": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			},
+			"Hélicoptère Multi-Fonctions HMF-6": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			},
+			"Hélicoptère Multi-Fonctions HMF-7": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			},
+			"Hélicoptère Multi-Fonctions HMF-8": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			},
+			"Hélicoptère Multi-Fonctions HMF-9": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			},
+			"Hélicoptère Multi-Fonctions HMF-10": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			},
+			"Hélicoptère Multi-Fonctions HMF-11": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			},
+			"Hélicoptère Multi-Fonctions HMF-12": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			},
+			"Hélicoptère Multi-Fonctions HMF-13": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			},
+			"Hélicoptère Multi-Fonctions HMF-14": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			},
+			"Hélicoptère Multi-Fonctions HMF-15": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			},
+			"Hélicoptère Multi-Fonctions HMF-16": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			},
+			"Hélicoptère Multi-Fonctions HMF-17": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			},
+			"Hélicoptère Multi-Fonctions HMF-18": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			},
+			"Hélicoptère Multi-Fonctions HMF-19": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			},
+			"Hélicoptère Multi-Fonctions HMF-20": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			}
+		},
+		"Escadron T-35": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"Transport T-35 T-1": {
+				"liste_militaire": "10",
+				"type_orga": "8",
+				"materiel": {
+					"Transporteur T-35": "1"
+				}
+			},
+			"Transport T-35 T-2": {
+				"liste_militaire": "10",
+				"type_orga": "8",
+				"materiel": {
+					"Transporteur T-35": "1"
+				}
+			},
+			"Transport T-35 T-3": {
+				"liste_militaire": "10",
+				"type_orga": "8",
+				"materiel": {
+					"Transporteur T-35": "1"
+				}
+			},
+			"Transport T-35 T-4": {
+				"liste_militaire": "10",
+				"type_orga": "8",
+				"materiel": {
+					"Transporteur T-35": "1"
+				}
+			},
+			"Transport T-35 T-5": {
+				"liste_militaire": "10",
+				"type_orga": "8",
+				"materiel": {
+					"Transporteur T-35": "1"
+				}
+			},
+			"Transport T-35 T-6": {
+				"liste_militaire": "10",
+				"type_orga": "8",
+				"materiel": {
+					"Transporteur T-35": "1"
+				}
+			},
+			"Transport T-35 T-7": {
+				"liste_militaire": "10",
+				"type_orga": "8",
+				"materiel": {
+					"Transporteur T-35": "1"
+				}
+			},
+			"Transport T-35 T-8": {
+				"liste_militaire": "10",
+				"type_orga": "8",
+				"materiel": {
+					"Transporteur T-35": "1"
+				}
+			},
+			"Transport T-35 T-9": {
+				"liste_militaire": "10",
+				"type_orga": "8",
+				"materiel": {
+					"Transporteur T-35": "1"
+				}
+			},
+			"Transport T-35 T-10": {
+				"liste_militaire": "10",
+				"type_orga": "8",
+				"materiel": {
+					"Transporteur T-35": "1"
+				}
+			}
+		}
+	},
+	"Bataillon d'administration et de sécurité": { "liste_militaire": "250", "type_orga": "6" },
+	"Bataillon d'intervention": {
+		"liste_militaire": "1",
+		"type_orga": "6",
+		"Compagnie 1": {
+			"liste_militaire": "1",
+			"type_orga": "9",
+			"Unité 1": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 2": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 3": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 4": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 5": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 6": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 7": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 8": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 9": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 10": { "liste_militaire": "10", "type_orga": "10" }
+		},
+		"Compagnie 2": {
+			"liste_militaire": "1",
+			"type_orga": "9",
+			"Unité 1": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 2": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 3": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 4": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 5": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 6": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 7": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 8": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 9": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 10": { "liste_militaire": "10", "type_orga": "10" }
+		},
+		"Compagnie 3": {
+			"liste_militaire": "1",
+			"type_orga": "9",
+			"Unité 1": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 2": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 3": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 4": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 5": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 6": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 7": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 8": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 9": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 10": { "liste_militaire": "10", "type_orga": "10" }
+		},
+		"Compagnie 4": {
+			"liste_militaire": "1",
+			"type_orga": "9",
+			"Unité 1": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 2": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 3": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 4": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 5": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 6": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 7": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 8": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 9": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 10": { "liste_militaire": "10", "type_orga": "10" }
+		},
+		"Compagnie 5": {
+			"liste_militaire": "1",
+			"type_orga": "9",
+			"Unité 1": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 2": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 3": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 4": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 5": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 6": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 7": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 8": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 9": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 10": { "liste_militaire": "10", "type_orga": "10" }
+		},
+		"Compagnie 6": {
+			"liste_militaire": "1",
+			"type_orga": "9",
+			"Unité 1": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 2": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 3": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 4": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 5": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 6": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 7": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 8": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 9": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 10": { "liste_militaire": "10", "type_orga": "10" }
+		},
+		"Compagnie 7": {
+			"liste_militaire": "1",
+			"type_orga": "9",
+			"Unité 1": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 2": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 3": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 4": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 5": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 6": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 7": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 8": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 9": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 10": { "liste_militaire": "10", "type_orga": "10" }
+		},
+		"Compagnie 8": {
+			"liste_militaire": "1",
+			"type_orga": "9",
+			"Unité 1": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 2": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 3": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 4": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 5": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 6": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 7": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 8": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 9": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 10": { "liste_militaire": "10", "type_orga": "10" }
+		},
+		"Compagnie 9": {
+			"liste_militaire": "1",
+			"type_orga": "9",
+			"Unité 1": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 2": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 3": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 4": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 5": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 6": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 7": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 8": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 9": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 10": { "liste_militaire": "10", "type_orga": "10" }
+		},
+		"Compagnie 10": {
+			"liste_militaire": "1",
+			"type_orga": "9",
+			"Unité 1": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 2": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 3": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 4": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 5": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 6": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 7": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 8": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 9": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 10": { "liste_militaire": "10", "type_orga": "10" }
+		},
+		"Compagnie 11": {
+			"liste_militaire": "1",
+			"type_orga": "9",
+			"Unité 1": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 2": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 3": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 4": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 5": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 6": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 7": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 8": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 9": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 10": { "liste_militaire": "10", "type_orga": "10" }
+		},
+		"Compagnie 12": {
+			"liste_militaire": "1",
+			"type_orga": "9",
+			"Unité 1": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 2": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 3": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 4": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 5": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 6": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 7": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 8": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 9": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 10": { "liste_militaire": "10", "type_orga": "10" }
+		},
+		"Compagnie 13": {
+			"liste_militaire": "1",
+			"type_orga": "9",
+			"Unité 1": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 2": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 3": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 4": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 5": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 6": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 7": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 8": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 9": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 10": { "liste_militaire": "10", "type_orga": "10" }
+		},
+		"Compagnie 14": {
+			"liste_militaire": "1",
+			"type_orga": "9",
+			"Unité 1": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 2": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 3": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 4": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 5": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 6": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 7": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 8": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 9": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 10": { "liste_militaire": "10", "type_orga": "10" }
+		},
+		"Compagnie 15": {
+			"liste_militaire": "1",
+			"type_orga": "9",
+			"Unité 1": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 2": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 3": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 4": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 5": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 6": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 7": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 8": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 9": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 10": { "liste_militaire": "10", "type_orga": "10" }
+		},
+		"Compagnie 16": {
+			"liste_militaire": "1",
+			"type_orga": "9",
+			"Unité 1": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 2": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 3": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 4": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 5": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 6": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 7": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 8": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 9": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 10": { "liste_militaire": "10", "type_orga": "10" }
+		},
+		"Compagnie 17": {
+			"liste_militaire": "1",
+			"type_orga": "9",
+			"Unité 1": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 2": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 3": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 4": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 5": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 6": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 7": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 8": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 9": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 10": { "liste_militaire": "10", "type_orga": "10" }
+		},
+		"Compagnie 18": {
+			"liste_militaire": "1",
+			"type_orga": "9",
+			"Unité 1": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 2": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 3": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 4": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 5": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 6": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 7": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 8": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 9": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 10": { "liste_militaire": "10", "type_orga": "10" }
+		},
+		"Compagnie 19": {
+			"liste_militaire": "1",
+			"type_orga": "9",
+			"Unité 1": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 2": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 3": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 4": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 5": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 6": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 7": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 8": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 9": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 10": { "liste_militaire": "10", "type_orga": "10" }
+		},
+		"Compagnie 20": {
+			"liste_militaire": "1",
+			"type_orga": "9",
+			"Unité 1": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 2": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 3": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 4": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 5": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 6": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 7": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 8": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 9": { "liste_militaire": "10", "type_orga": "10" },
+			"Unité 10": { "liste_militaire": "10", "type_orga": "10" }
+		}
+	}
+}

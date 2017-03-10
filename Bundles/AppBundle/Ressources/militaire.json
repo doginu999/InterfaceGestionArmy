@@ -1,0 +1,132 @@
+{
+	"1": {
+		"nom": "Speroza", "prenom": "Alix", "password": "cba755cbb6540ba9e6b1f82432e6801cc8d6d184", "age": "18", "naissance": "01-01-1992", "solde": "7000",
+		"specialite": "1", "forme": "0", "cmdt": "1", "origine": "2", "rang": "0", "grade": "1", "sexe": "M", "orga": "Services du ministère"
+	},
+	"2": {
+		"nom": "Esnar-Speroza", "prenom": "Mégane", "age": "20", "naissance": "", "solde": "2500", "specialite": "3", "forme": "0", "cmdt": "0",
+		"origine": "1", "rang": "0", "grade": "12", "sexe": "F", "orga": "Hôpital Civilo-Militaire de Faligadrie/Service des urgences"
+	},
+	"3": {
+		"nom": "O.", "prenom": "Walter", "age": "53", "naissance": "", "solde": "4800", "specialite": "2", "forme": "0", "cmdt": "1",
+		"origine": "1", "rang": "0", "grade": "2", "sexe": "M", "orga": "Marine Nationale"
+	},
+	"4": {
+		"nom": "Olson", "prenom": "Nigel", "age": "25", "naissance": "", "solde": "4800", "specialite": "2", "forme": "0", "cmdt": "1",
+		"origine": "2", "rang": "0", "grade": "2", "sexe": "M", "orga": "Corps Militaire Supérieur Drarekstan"
+	},
+	"5": {
+		"nom": "P.", "prenom": "Thomas", "age": "48", "naissance": "28-01-1962", "solde": "4300", "specialite": "4", "forme": "0", "cmdt": "1",
+		"origine": "1", "rang": "0", "grade": "4", "sexe": "M", "orga": "Renseignement en Sources Ouvertes"
+	},
+	"6": {
+		"nom": "F.", "prenom": "Henry", "age": "43", "naissance": "15-04-1966", "solde": "4300", "specialite": "4", "forme": "0", "cmdt": "1",
+		"origine": "1", "rang": "0", "grade": "4", "sexe": "M", "orga": "Service des Opérations Clandestines"
+	},
+	"7": {
+		"nom": "U.", "prenom": "Rémy", "age": "37", "naissance": "04-09-1972", "solde": "2700", "specialite": "18", "forme": "0", "cmdt": "0",
+		"origine": "1", "rang": "0", "grade": "10", "sexe": "M", "orga": "Service des Opérations Clandestines"
+	},
+	"8": {
+		"nom": "Q.", "prenom": "Yoann", "age": "43", "naissance": "21-03-1966", "solde": "4300", "specialite": "4", "forme": "0", "cmdt": "1",
+		"origine": "1", "rang": "0", "grade": "4", "sexe": "M", "orga": "Renseignement d'Origine Technique"
+	},
+	"9": {
+		"nom": "Y.", "prenom": "Guillaume", "age": "24", "naissance": "10-11-1985", "solde": "2300", "specialite": "6", "forme": "0", "cmdt": "1",
+		"origine": "1", "rang": "0", "grade": "14", "sexe": "M",
+		"orga": "10e Régiment de Projection Rapide/1er Bataillon/2e Escadron/2e Batterie/1ere Compagnie/2e Section/Peloton Hummer"
+	},
+	"10": {
+		"nom": "K.", "prenom": "Raphael", "age": "31", "naissance": "19-10-1978", "solde": "2700", "specialite": "19", "forme": "0", "cmdt": "0",
+		"origine": "1", "rang": "0", "grade": "10", "sexe": "M", "orga": "Renseignement d'Origine Technique"
+	},
+	"11": {
+		"nom": "W.", "prenom": "Fabien", "age": "42", "naissance": "17-02-1968", "solde": "3800", "specialite": "8", "forme": "0", "cmdt": "1",
+		"origine": "1", "rang": "0", "grade": "6", "sexe": "M", "orga": "1er Régiment d'Infanterie"
+	},
+	"12": {
+		"nom": "U.", "prenom": "Henry", "age": "43", "naissance": "01-08-1966", "solde": "4300", "specialite": "4", "forme": "0", "cmdt": "1",
+		"origine": "1", "rang": "0", "grade": "4", "sexe": "M", "orga": "Services Secrets/Service de Soutien"
+	},
+	"13": {
+		"nom": "R.", "prenom": "Rémy", "age": "26", "naissance": "09-09-1983", "solde": "1800", "specialite": "11", "forme": "0", "cmdt": "0",
+		"origine": "1", "rang": "0", "grade": "19", "sexe": "M", "orga": "1er Régiment d'Infanterie/2e Bataillon/2e Escadron/1ere Compagnie/1ere Section/2e Peloton"
+	},
+	"14": {
+		"nom": "Solheim", "prenom": "Cassandra", "age": "27", "naissance": "28-03-1983", "solde": "2500", "specialite": "9", "forme": "0", "cmdt": "1",
+		"origine": "1", "rang": "0", "grade": "12", "sexe": "F", "orga": "1er Régiment d'Infanterie/2e Bataillon/2e Escadron/1ere Compagnie/1ere Section"
+	},
+	"15": {
+		"nom": "Z.", "prenom": "Nicolas", "age": "25", "naissance": "09-04-1985", "solde": "2300", "specialite": "10", "forme": "0", "cmdt": "1",
+		"origine": "1", "rang": "0", "grade": "14", "sexe": "M", "orga": "1er Régiment d'Infanterie/2e Bataillon/2e Escadron/1ere Compagnie/1ere Section/4e Peloton"
+	},
+	"16": {
+		"nom": "I.", "prenom": "Bastien", "age": "48", "naissance": "21-12-1961", "solde": "4500", "specialite": "12", "forme": "0", "cmdt": "1",
+		"origine": "1", "rang": "0", "grade": "3", "sexe": "M", "orga": "Service Juridique des Armées/Service de Liaison entre les Etats et les Industriels de l'Armement"
+	},
+	"17": {
+		"nom": "Kremer", "prenom": "Eric", "age": "45", "naissance": "15-04-1965", "solde": "4300", "specialite": "4", "forme": "0", "cmdt": "1",
+		"origine": "1", "rang": "0", "grade": "4", "sexe": "M", "orga": "Corps Militaire Supérieur Drarekstan/Services Secrets/Stations d'Ambassade"
+	},
+	"18": {
+		"nom": "D.", "prenom": "Lilian", "age": "51", "naissance": "22-10-1958", "solde": "4800", "specialite": "2", "forme": "0", "cmdt": "1",
+		"origine": "1", "rang": "0", "grade": "2", "sexe": "M", "orga": "Forces de Sécurité Drarekstanes"
+	},
+	"19": {
+		"nom": "C.", "prenom": "Bernard", "age": "44", "naissance": "27-01-1966", "solde": "4500", "specialite": "12", "forme": "0", "cmdt": "1",
+		"origine": "1", "rang": "0", "grade": "3", "sexe": "M", "orga": "Corps Militaire Supérieur Drarekstan/Service de Protection des Installations de Défense et de Haute Importance"
+	},
+	"20": {
+		"nom": "Strat", "prenom": "Dominique", "age": "39", "naissance": "10-05-1970", "solde": "3500", "specialite": "13", "forme": "0", "cmdt": "1",
+		"origine": "1", "rang": "0", "grade": "7", "sexe": "M",
+		"orga": "Corps Militaire Supérieur Drarekstan/Service de Protection des Installations de Défense et de Haute Importance/Groupe de Protection du Champ Pétrolifère Drarekstanie-Nord"
+	},
+	"21": {
+		"nom": "D.", "prenom": "Xavier", "age": "37", "naissance": "13-08-1972", "solde": "3500", "specialite": "14", "forme": "0", "cmdt": "0",
+		"origine": "1", "rang": "0", "grade": "7", "sexe": "M",
+		"orga": "Corps Militaire Supérieur Drarekstan/Service de Protection des Installations de Défense et de Haute Importance/Groupe de Protection du Champ Pétrolifère Drarekstanie-Nord"
+	},
+	"22": {
+		"nom": "G.", "prenom": "Olivier", "age": "41", "naissance": "04-01-1969", "solde": "3500", "specialite": "14", "forme": "0", "cmdt": "0",
+		"origine": "1", "rang": "0", "grade": "7", "sexe": "M",
+		"orga": "Corps Militaire Supérieur Drarekstan/Service de Protection des Installations de Défense et de Haute Importance/Groupe de Protection du Champ Pétrolifère Drarekstanie-Nord"
+	},
+	"23": {
+		"nom": "A.", "prenom": "Hervé", "age": "35", "naissance": "27-11-1974", "solde": "3000", "specialite": "20", "forme": "0", "cmdt": "0",
+		"origine": "1", "rang": "0", "grade": "8", "sexe": "M",
+		"orga": "Corps Militaire Supérieur Drarekstan/Service de Protection des Installations de Défense et de Haute Importance/Groupe de Protection du Champ Pétrolifère Drarekstanie-Nord"
+	},
+	"24": {
+		"nom": "D.", "prenom": "Xavier", "age": "37", "naissance": "13-08-1972", "solde": "2900", "specialite": "20", "forme": "0", "cmdt": "0",
+		"origine": "1", "rang": "0", "grade": "9", "sexe": "M",
+		"orga": "Corps Militaire Supérieur Drarekstan/Service de Protection des Installations de Défense et de Haute Importance/Groupe de Protection du Champ Pétrolifère Drarekstanie-Nord"
+	},
+	"25": {
+		"nom": "I.", "prenom": "Joël", "age": "44", "naissance": "06-04-1966", "solde": "3800", "specialite": "16", "forme": "0", "cmdt": "1",
+		"origine": "1", "rang": "0", "grade": "6", "sexe": "M", "orga": "Forces de Sécurité Drarekstanes", "orga": "20e Flotte de Combat Maritime"
+	},
+	"26": {
+		"nom": "U.", "prenom": "Joseph", "age": "23", "naissance": "19-09-1986", "solde": "2300", "specialite": "15", "forme": "0", "cmdt": "0", "origine": "1",
+		"rang": "0", "grade": "14", "sexe": "M", "orga": "20e Flotte de Combat Maritime/Frégate de Combat Polyvalente FCP-1/Sécurité, hangar et pont d'envol/Armement"
+	},
+	"27": {
+		"nom": "I.", "prenom": "John", "age": "35", "naissance": "25-04-1974", "solde": "2700", "specialite": "17", "forme": "0", "cmdt": "1", "origine": "1",
+		"rang": "0", "grade": "10", "sexe": "M", "orga": "1er Régiment de Marines/Bataillon de Combat/Batterie VBAL/Compagnie Quinze"
+	},
+	"28": {
+		"nom": "F.", "prenom": "Antoine", "age": "40", "naissance": "14-08-1969", "solde": "3500", "specialite": "21", "forme": "0", "cmdt": "0", "origine": "1",
+		"rang": "0", "grade": "7", "sexe": "M", "orga": "Corps Militaire Supérieur Drarekstan/Service de Centralisation des SMP"
+	},
+	"29": {
+		"nom": "A.", "prenom": "Hector", "age": "26", "naissance": "26-02-1984", "solde": "2300", "specialite": "22", "forme": "0", "cmdt": "0", "origine": "1",
+		"rang": "0", "grade": "14", "sexe": "M", "orga": "2e Groupe Anti-Emeutes/Bataillon de terrain/2e Escadron"
+	},
+	"30": {
+		"nom": "Y.", "prenom": "Antoine", "age": "35", "naissance": "01-09-1974", "solde": "2700", "specialite": "23", "forme": "0", "cmdt": "0", "origine": "1",
+		"rang": "0", "grade": "10", "sexe": "M", "orga": "Unités d'Intervention de Gades/Bataillon d'intervention"
+	},
+	"31": {
+		"nom": "U", "prenom": "Hubert", "age": "45", "naissance": "03-05-1964", "solde": "3800", "specialite": "24", "forme": "0", "cmdt": "0", "origine": "1",
+		"rang": "0", "grade": "6", "sexe": "M", "orga": "Service de Projection des Militaires en OPEX/Service des Etat-Majors Projetables"
+	}
+}

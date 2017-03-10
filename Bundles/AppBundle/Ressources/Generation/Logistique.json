@@ -1,0 +1,3498 @@
+{
+	"1er Bataillon": {
+		"liste_militaire": "1",
+		"type_orga": "6",
+		"1er Escadron": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"1ere Batterie": {
+				"liste_militaire": "1",
+				"type_orga": "8",
+				"1ere Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "10",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Hummer": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-3": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						},
+						"Peloton de transport de véhicules": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Véhicules CTV-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							}
+						},
+						"Grue Militaire Motorisée": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Grue Militaire Motorisée": "1"
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Hummer": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-3": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						},
+						"Peloton de transport de véhicules": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Véhicules CTV-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							}
+						},
+						"Grue Militaire Motorisée": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Grue Militaire Motorisée": "1"
+							}
+						}
+					},
+					"3e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Hummer": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-3": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						},
+						"Peloton de transport de véhicules": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Véhicules CTV-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							}
+						},
+						"Grue Militaire Motorisée": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Grue Militaire Motorisée": "1"
+							}
+						}
+					}
+				},
+				"2e Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "10",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Hummer": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-3": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						},
+						"Peloton de transport de véhicules": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Véhicules CTV-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							}
+						},
+						"Grue Militaire Motorisée": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Grue Militaire Motorisée": "1"
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Hummer": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-3": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						},
+						"Peloton de transport de véhicules": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Véhicules CTV-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							}
+						},
+						"Grue Militaire Motorisée": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Grue Militaire Motorisée": "1"
+							}
+						}
+					},
+					"3e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Hummer": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-3": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						},
+						"Peloton de transport de véhicules": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Véhicules CTV-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							}
+						},
+						"Grue Militaire Motorisée": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Grue Militaire Motorisée": "1"
+							}
+						}
+					}
+				}
+			},
+			"2e Batterie": {
+				"liste_militaire": "1",
+				"type_orga": "8",
+				"1ere Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "10",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Hummer": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-3": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						},
+						"Peloton de transport de véhicules": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Véhicules CTV-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							}
+						},
+						"Grue Militaire Motorisée": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Grue Militaire Motorisée": "1"
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Hummer": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-3": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						},
+						"Peloton de transport de véhicules": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Véhicules CTV-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							}
+						},
+						"Grue Militaire Motorisée": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Grue Militaire Motorisée": "1"
+							}
+						}
+					},
+					"3e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Hummer": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-3": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						},
+						"Peloton de transport de véhicules": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Véhicules CTV-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							}
+						},
+						"Grue Militaire Motorisée": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Grue Militaire Motorisée": "1"
+							}
+						}
+					}
+				},
+				"2e Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "10",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Hummer": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-3": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						},
+						"Peloton de transport de véhicules": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Véhicules CTV-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							}
+						},
+						"Grue Militaire Motorisée": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Grue Militaire Motorisée": "1"
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Hummer": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-3": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						},
+						"Peloton de transport de véhicules": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Véhicules CTV-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							}
+						},
+						"Grue Militaire Motorisée": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Grue Militaire Motorisée": "1"
+							}
+						}
+					},
+					"3e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Hummer": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-3": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						},
+						"Peloton de transport de véhicules": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Véhicules CTV-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							}
+						},
+						"Grue Militaire Motorisée": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Grue Militaire Motorisée": "1"
+							}
+						}
+					}
+				}
+			}
+		},
+		"2e Escadron": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"1ere Batterie": {
+				"liste_militaire": "1",
+				"type_orga": "8",
+				"1ere Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "10",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Hummer": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-3": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						},
+						"Peloton de transport de véhicules": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Véhicules CTV-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							}
+						},
+						"Grue Militaire Motorisée": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Grue Militaire Motorisée": "1"
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Hummer": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-3": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						},
+						"Peloton de transport de véhicules": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Véhicules CTV-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							}
+						},
+						"Grue Militaire Motorisée": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Grue Militaire Motorisée": "1"
+							}
+						}
+					},
+					"3e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Hummer": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-3": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						},
+						"Peloton de transport de véhicules": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Véhicules CTV-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							}
+						},
+						"Grue Militaire Motorisée": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Grue Militaire Motorisée": "1"
+							}
+						}
+					}
+				},
+				"2e Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "10",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Hummer": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-3": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						},
+						"Peloton de transport de véhicules": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Véhicules CTV-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							}
+						},
+						"Grue Militaire Motorisée": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Grue Militaire Motorisée": "1"
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Hummer": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-3": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						},
+						"Peloton de transport de véhicules": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Véhicules CTV-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							}
+						},
+						"Grue Militaire Motorisée": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Grue Militaire Motorisée": "1"
+							}
+						}
+					},
+					"3e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Hummer": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-3": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						},
+						"Peloton de transport de véhicules": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Véhicules CTV-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							}
+						},
+						"Grue Militaire Motorisée": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Grue Militaire Motorisée": "1"
+							}
+						}
+					}
+				}
+			},
+			"2e Batterie": {
+				"liste_militaire": "1",
+				"type_orga": "8",
+				"1ere Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "10",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Hummer": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-3": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						},
+						"Peloton de transport de véhicules": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Véhicules CTV-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							}
+						},
+						"Grue Militaire Motorisée": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Grue Militaire Motorisée": "1"
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Hummer": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-3": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						},
+						"Peloton de transport de véhicules": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Véhicules CTV-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							}
+						},
+						"Grue Militaire Motorisée": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Grue Militaire Motorisée": "1"
+							}
+						}
+					},
+					"3e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Hummer": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-3": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						},
+						"Peloton de transport de véhicules": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Véhicules CTV-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							}
+						},
+						"Grue Militaire Motorisée": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Grue Militaire Motorisée": "1"
+							}
+						}
+					}
+				},
+				"2e Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "10",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Hummer": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-3": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						},
+						"Peloton de transport de véhicules": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Véhicules CTV-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							}
+						},
+						"Grue Militaire Motorisée": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Grue Militaire Motorisée": "1"
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Hummer": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-3": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						},
+						"Peloton de transport de véhicules": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Véhicules CTV-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							}
+						},
+						"Grue Militaire Motorisée": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Grue Militaire Motorisée": "1"
+							}
+						}
+					},
+					"3e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Hummer": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-3": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						},
+						"Peloton de transport de véhicules": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Véhicules CTV-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							}
+						},
+						"Grue Militaire Motorisée": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Grue Militaire Motorisée": "1"
+							}
+						}
+					}
+				}
+			}
+		}
+	},
+	"2e Bataillon": {
+		"liste_militaire": "1",
+		"type_orga": "6",
+		"1er Escadron": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"1ere Batterie": {
+				"liste_militaire": "1",
+				"type_orga": "8",
+				"1ere Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "10",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Hummer": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-3": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						},
+						"Peloton de transport de véhicules": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Véhicules CTV-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							}
+						},
+						"Grue Militaire Motorisée": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Grue Militaire Motorisée": "1"
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Hummer": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-3": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						},
+						"Peloton de transport de véhicules": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Véhicules CTV-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							}
+						},
+						"Grue Militaire Motorisée": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Grue Militaire Motorisée": "1"
+							}
+						}
+					},
+					"3e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Hummer": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-3": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						},
+						"Peloton de transport de véhicules": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Véhicules CTV-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							}
+						},
+						"Grue Militaire Motorisée": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Grue Militaire Motorisée": "1"
+							}
+						}
+					}
+				},
+				"2e Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "10",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Hummer": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-3": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						},
+						"Peloton de transport de véhicules": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Véhicules CTV-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							}
+						},
+						"Grue Militaire Motorisée": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Grue Militaire Motorisée": "1"
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Hummer": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-3": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						},
+						"Peloton de transport de véhicules": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Véhicules CTV-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							}
+						},
+						"Grue Militaire Motorisée": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Grue Militaire Motorisée": "1"
+							}
+						}
+					},
+					"3e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Hummer": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-3": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						},
+						"Peloton de transport de véhicules": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Véhicules CTV-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							}
+						},
+						"Grue Militaire Motorisée": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Grue Militaire Motorisée": "1"
+							}
+						}
+					}
+				}
+			},
+			"2e Batterie": {
+				"liste_militaire": "1",
+				"type_orga": "8",
+				"1ere Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "10",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Hummer": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-3": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						},
+						"Peloton de transport de véhicules": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Véhicules CTV-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							}
+						},
+						"Grue Militaire Motorisée": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Grue Militaire Motorisée": "1"
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Hummer": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-3": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						},
+						"Peloton de transport de véhicules": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Véhicules CTV-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							}
+						},
+						"Grue Militaire Motorisée": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Grue Militaire Motorisée": "1"
+							}
+						}
+					},
+					"3e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Hummer": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-3": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						},
+						"Peloton de transport de véhicules": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Véhicules CTV-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							}
+						},
+						"Grue Militaire Motorisée": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Grue Militaire Motorisée": "1"
+							}
+						}
+					}
+				},
+				"2e Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "10",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Hummer": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-3": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						},
+						"Peloton de transport de véhicules": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Véhicules CTV-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							}
+						},
+						"Grue Militaire Motorisée": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Grue Militaire Motorisée": "1"
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Hummer": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-3": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						},
+						"Peloton de transport de véhicules": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Véhicules CTV-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							}
+						},
+						"Grue Militaire Motorisée": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Grue Militaire Motorisée": "1"
+							}
+						}
+					},
+					"3e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Hummer": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-3": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						},
+						"Peloton de transport de véhicules": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Véhicules CTV-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							}
+						},
+						"Grue Militaire Motorisée": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Grue Militaire Motorisée": "1"
+							}
+						}
+					}
+				}
+			}
+		},
+		"2e Escadron": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"1ere Batterie": {
+				"liste_militaire": "1",
+				"type_orga": "8",
+				"1ere Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "10",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Hummer": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-3": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						},
+						"Peloton de transport de véhicules": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Véhicules CTV-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							}
+						},
+						"Grue Militaire Motorisée": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Grue Militaire Motorisée": "1"
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Hummer": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-3": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						},
+						"Peloton de transport de véhicules": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Véhicules CTV-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							}
+						},
+						"Grue Militaire Motorisée": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Grue Militaire Motorisée": "1"
+							}
+						}
+					},
+					"3e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Hummer": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-3": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						},
+						"Peloton de transport de véhicules": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Véhicules CTV-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							}
+						},
+						"Grue Militaire Motorisée": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Grue Militaire Motorisée": "1"
+							}
+						}
+					}
+				},
+				"2e Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "10",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Hummer": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-3": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						},
+						"Peloton de transport de véhicules": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Véhicules CTV-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							}
+						},
+						"Grue Militaire Motorisée": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Grue Militaire Motorisée": "1"
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Hummer": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-3": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						},
+						"Peloton de transport de véhicules": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Véhicules CTV-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							}
+						},
+						"Grue Militaire Motorisée": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Grue Militaire Motorisée": "1"
+							}
+						}
+					},
+					"3e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Hummer": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-3": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						},
+						"Peloton de transport de véhicules": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Véhicules CTV-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							}
+						},
+						"Grue Militaire Motorisée": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Grue Militaire Motorisée": "1"
+							}
+						}
+					}
+				}
+			},
+			"2e Batterie": {
+				"liste_militaire": "1",
+				"type_orga": "8",
+				"1ere Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "10",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Hummer": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-3": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						},
+						"Peloton de transport de véhicules": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Véhicules CTV-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							}
+						},
+						"Grue Militaire Motorisée": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Grue Militaire Motorisée": "1"
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Hummer": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-3": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						},
+						"Peloton de transport de véhicules": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Véhicules CTV-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							}
+						},
+						"Grue Militaire Motorisée": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Grue Militaire Motorisée": "1"
+							}
+						}
+					},
+					"3e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Hummer": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-3": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						},
+						"Peloton de transport de véhicules": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Véhicules CTV-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							}
+						},
+						"Grue Militaire Motorisée": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Grue Militaire Motorisée": "1"
+							}
+						}
+					}
+				},
+				"2e Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "10",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Hummer": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-3": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						},
+						"Peloton de transport de véhicules": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Véhicules CTV-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							}
+						},
+						"Grue Militaire Motorisée": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Grue Militaire Motorisée": "1"
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Hummer": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-3": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						},
+						"Peloton de transport de véhicules": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Véhicules CTV-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							}
+						},
+						"Grue Militaire Motorisée": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Grue Militaire Motorisée": "1"
+							}
+						}
+					},
+					"3e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de Commandement": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Hummer": "1"
+							}
+						},
+						"Peloton de transport de matériel": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Matériel CTM-1": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-2": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							},
+							"Camion de Transport de Matériel CTM-3": {
+								"liste_militaire": "3",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Matériel": "1"
+								}
+							}
+						},
+						"Peloton de transport de véhicules": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Camion de Transport de Véhicules CTV-1": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-2": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							},
+							"Camion de Transport de Véhicules CTV-3": {
+								"liste_militaire": "4",
+								"type_orga": "12",
+								"materiel": {
+									"Camion de Transport de Véhicule": "1"
+								}
+							}
+						},
+						"Grue Militaire Motorisée": {
+							"liste_militaire": "5",
+							"type_orga": "11",
+							"materiel": {
+								"Grue Militaire Motorisée": "1"
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}

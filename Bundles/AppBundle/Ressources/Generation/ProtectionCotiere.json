@@ -1,0 +1,408 @@
+{
+	"Commandement ENR": {
+		"liste_militaire": "1",
+		"type_orga": "6",
+		"Embarcation Navale Rapide ENR-1": {
+			"liste_militaire": "7",
+			"type_orga": "7",
+			"materiel": {
+				"Embarcation Navale Rapide": "1"
+			}
+		},
+		"Embarcation Navale Rapide ENR-2": {
+			"liste_militaire": "7",
+			"type_orga": "7",
+			"materiel": {
+				"Embarcation Navale Rapide": "1"
+			}
+		},
+		"Embarcation Navale Rapide ENR-3": {
+			"liste_militaire": "7",
+			"type_orga": "7",
+			"materiel": {
+				"Embarcation Navale Rapide": "1"
+			}
+		},
+		"Embarcation Navale Rapide ENR-4": {
+			"liste_militaire": "7",
+			"type_orga": "7",
+			"materiel": {
+				"Embarcation Navale Rapide": "1"
+			}
+		},
+		"Embarcation Navale Rapide ENR-5": {
+			"liste_militaire": "7",
+			"type_orga": "7",
+			"materiel": {
+				"Embarcation Navale Rapide": "1"
+			}
+		},
+		"Embarcation Navale Rapide ENR-6": {
+			"liste_militaire": "7",
+			"type_orga": "7",
+			"materiel": {
+				"Embarcation Navale Rapide": "1"
+			}
+		},
+		"Embarcation Navale Rapide ENR-7": {
+			"liste_militaire": "7",
+			"type_orga": "7",
+			"materiel": {
+				"Embarcation Navale Rapide": "1"
+			}
+		},
+		"Embarcation Navale Rapide ENR-8": {
+			"liste_militaire": "7",
+			"type_orga": "7",
+			"materiel": {
+				"Embarcation Navale Rapide": "1"
+			}
+		},
+		"Embarcation Navale Rapide ENR-9": {
+			"liste_militaire": "7",
+			"type_orga": "7",
+			"materiel": {
+				"Embarcation Navale Rapide": "1"
+			}
+		},
+		"Embarcation Navale Rapide ENR-10": {
+			"liste_militaire": "7",
+			"type_orga": "7",
+			"materiel": {
+				"Embarcation Navale Rapide": "1"
+			}
+		}
+	},
+	"Commandement Patrouilleur": {
+		"liste_militaire": "1",
+		"type_orga": "6",
+		"Patrouilleur naval PN-1": {
+			"liste_militaire": "2",
+			"type_orga": "7",
+			"materiel": {
+				"Patrouilleur naval": "1"
+			},
+			"Ilôt": {
+				"liste_militaire": "1",
+				"type_orga": "8",
+				"Poste de Commandement": { "liste_militaire": "10", "type_orga": "9" },
+				"Radar": { "liste_militaire": "8", "type_orga": "9" },
+				"Propulsion et Systèmes Vitaux": { "liste_militaire": "8", "type_orga": "9" }
+			},
+			"Vie et ressources": {
+				"liste_militaire": "1",
+				"type_orga": "8",
+				"Maintenance": { "liste_militaire": "10", "type_orga": "9" },
+				"Compagnie médicale": { "liste_militaire": "4", "type_orga": "9" },
+				"Cuisine": { "liste_militaire": "8", "type_orga": "9" }
+			},
+			"Sécurité, hangar et pont d'envol": {
+				"liste_militaire": "1",
+				"type_orga": "8",
+				"Armement": { "liste_militaire": "6", "type_orga": "9" },
+				"Sécurité": { "liste_militaire": "20", "type_orga": "9" },
+				"Pompiers": { "liste_militaire": "20", "type_orga": "9" },
+				"Ravitaillement": { "liste_militaire": "5", "type_orga": "9" },
+				"Pont d'envol": { "liste_militaire": "6", "type_orga": "9" }
+			},
+			"Hélicoptère Multi-Fonctions": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			}
+		},
+		"Patrouilleur naval PN-2": {
+			"liste_militaire": "2",
+			"type_orga": "7",
+			"materiel": {
+				"Patrouilleur naval": "1"
+			},
+			"Ilôt": {
+				"liste_militaire": "1",
+				"type_orga": "8",
+				"Poste de Commandement": { "liste_militaire": "10", "type_orga": "9" },
+				"Radar": { "liste_militaire": "8", "type_orga": "9" },
+				"Propulsion et Systèmes Vitaux": { "liste_militaire": "8", "type_orga": "9" }
+			},
+			"Vie et ressources": {
+				"liste_militaire": "1",
+				"type_orga": "8",
+				"Maintenance": { "liste_militaire": "10", "type_orga": "9" },
+				"Compagnie médicale": { "liste_militaire": "4", "type_orga": "9" },
+				"Cuisine": { "liste_militaire": "8", "type_orga": "9" }
+			},
+			"Sécurité, hangar et pont d'envol": {
+				"liste_militaire": "1",
+				"type_orga": "8",
+				"Armement": { "liste_militaire": "6", "type_orga": "9" },
+				"Sécurité": { "liste_militaire": "20", "type_orga": "9" },
+				"Pompiers": { "liste_militaire": "20", "type_orga": "9" },
+				"Ravitaillement": { "liste_militaire": "5", "type_orga": "9" },
+				"Pont d'envol": { "liste_militaire": "6", "type_orga": "9" }
+			},
+			"Hélicoptère Multi-Fonctions": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			}
+		}
+	},
+	"Commandement Frégate": {
+		"liste_militaire": "1",
+		"type_orga": "6",
+		"Frégate de Combat Polyvalente FCP-1": {
+			"liste_militaire": "2",
+			"type_orga": "7",
+			"materiel": {
+				"Frégate de Combat Polyvalente": "1"
+			},
+			"Ilôt": {
+				"liste_militaire": "1",
+				"type_orga": "8",
+				"Poste de Commandement": { "liste_militaire": "10", "type_orga": "9" },
+				"Radar": { "liste_militaire": "10", "type_orga": "9" },
+				"Propulsion et Systèmes Vitaux": { "liste_militaire": "10", "type_orga": "9" },
+				"Renseignement Embarqué": { "liste_militaire": "5", "type_orga": "9" }
+			},
+			"Vie et ressources": {
+				"liste_militaire": "1",
+				"type_orga": "8",
+				"Maintenance": { "liste_militaire": "14", "type_orga": "9" },
+				"Compagnie médicale": { "liste_militaire": "4", "type_orga": "9" },
+				"Cuisine": { "liste_militaire": "14", "type_orga": "9" }
+			},
+			"Sécurité, hangar et pont d'envol": {
+				"liste_militaire": "1",
+				"type_orga": "8",
+				"Armement": { "liste_militaire": "6", "type_orga": "9" },
+				"Sécurité": { "liste_militaire": "30", "type_orga": "9" },
+				"Pompiers": { "liste_militaire": "20", "type_orga": "9" },
+				"Ravitaillement": { "liste_militaire": "5", "type_orga": "9" },
+				"Pont d'envol": { "liste_militaire": "8", "type_orga": "9" }
+			},
+			"Groupe HMF": {
+				"liste_militaire": "1",
+				"type_orga": "8",
+				"Hélicoptère Multi-Fonctions HMF-1": {
+					"liste_militaire": "8",
+					"type_orga": "9",
+					"materiel": {
+						"Hélicoptère Multi-Fonctions": "1"
+					}
+				},
+				"Hélicoptère Multi-Fonctions HMF-2": {
+					"liste_militaire": "8",
+					"type_orga": "9",
+					"materiel": {
+						"Hélicoptère Multi-Fonctions": "1"
+					}
+				}
+			}
+		},
+		"Frégate de Combat Polyvalente FCP-2": {
+			"liste_militaire": "2",
+			"type_orga": "7",
+			"materiel": {
+				"Frégate de Combat Polyvalente": "1"
+			},
+			"Ilôt": {
+				"liste_militaire": "1",
+				"type_orga": "8",
+				"Poste de Commandement": { "liste_militaire": "10", "type_orga": "9" },
+				"Radar": { "liste_militaire": "10", "type_orga": "9" },
+				"Propulsion et Systèmes Vitaux": { "liste_militaire": "10", "type_orga": "9" },
+				"Renseignement Embarqué": { "liste_militaire": "5", "type_orga": "9" }
+			},
+			"Vie et ressources": {
+				"liste_militaire": "1",
+				"type_orga": "8",
+				"Maintenance": { "liste_militaire": "14", "type_orga": "9" },
+				"Compagnie médicale": { "liste_militaire": "4", "type_orga": "9" },
+				"Cuisine": { "liste_militaire": "14", "type_orga": "9" }
+			},
+			"Sécurité, hangar et pont d'envol": {
+				"liste_militaire": "1",
+				"type_orga": "8",
+				"Armement": { "liste_militaire": "6", "type_orga": "9" },
+				"Sécurité": { "liste_militaire": "30", "type_orga": "9" },
+				"Pompiers": { "liste_militaire": "20", "type_orga": "9" },
+				"Ravitaillement": { "liste_militaire": "5", "type_orga": "9" },
+				"Pont d'envol": { "liste_militaire": "8", "type_orga": "9" }
+			},
+			"Groupe HMF": {
+				"liste_militaire": "1",
+				"type_orga": "8",
+				"Hélicoptère Multi-Fonctions HMF-1": {
+					"liste_militaire": "8",
+					"type_orga": "9",
+					"materiel": {
+						"Hélicoptère Multi-Fonctions": "1"
+					}
+				},
+				"Hélicoptère Multi-Fonctions HMF-2": {
+					"liste_militaire": "8",
+					"type_orga": "9",
+					"materiel": {
+						"Hélicoptère Multi-Fonctions": "1"
+					}
+				}
+			}
+		},
+		"Frégate de Combat Polyvalente FCP-3": {
+			"liste_militaire": "2",
+			"type_orga": "7",
+			"materiel": {
+				"Frégate de Combat Polyvalente": "1"
+			},
+			"Ilôt": {
+				"liste_militaire": "1",
+				"type_orga": "8",
+				"Poste de Commandement": { "liste_militaire": "10", "type_orga": "9" },
+				"Radar": { "liste_militaire": "10", "type_orga": "9" },
+				"Propulsion et Systèmes Vitaux": { "liste_militaire": "10", "type_orga": "9" },
+				"Renseignement Embarqué": { "liste_militaire": "5", "type_orga": "9" }
+			},
+			"Vie et ressources": {
+				"liste_militaire": "1",
+				"type_orga": "8",
+				"Maintenance": { "liste_militaire": "14", "type_orga": "9" },
+				"Compagnie médicale": { "liste_militaire": "4", "type_orga": "9" },
+				"Cuisine": { "liste_militaire": "14", "type_orga": "9" }
+			},
+			"Sécurité, hangar et pont d'envol": {
+				"liste_militaire": "1",
+				"type_orga": "8",
+				"Armement": { "liste_militaire": "6", "type_orga": "9" },
+				"Sécurité": { "liste_militaire": "30", "type_orga": "9" },
+				"Pompiers": { "liste_militaire": "20", "type_orga": "9" },
+				"Ravitaillement": { "liste_militaire": "5", "type_orga": "9" },
+				"Pont d'envol": { "liste_militaire": "8", "type_orga": "9" }
+			},
+			"Groupe HMF": {
+				"liste_militaire": "1",
+				"type_orga": "8",
+				"Hélicoptère Multi-Fonctions HMF-1": {
+					"liste_militaire": "8",
+					"type_orga": "9",
+					"materiel": {
+						"Hélicoptère Multi-Fonctions": "1"
+					}
+				},
+				"Hélicoptère Multi-Fonctions HMF-2": {
+					"liste_militaire": "8",
+					"type_orga": "9",
+					"materiel": {
+						"Hélicoptère Multi-Fonctions": "1"
+					}
+				}
+			}
+		}
+	},
+	"Transporteur Autonome Léger": {
+		"liste_militaire": "2",
+		"type_orga": "6",
+		"materiel": {
+			"Transporteur Autonome Léger": "1"
+		},
+		"Ilôt": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"Poste de Commandement": { "liste_militaire": "10", "type_orga": "8" },
+			"Propulsion et Systèmes Vitaux": { "liste_militaire": "8", "type_orga": "8" }
+		},
+		"Vie et ressources": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"Maintenance": { "liste_militaire": "12", "type_orga": "8" },
+			"Compagnie médicale": { "liste_militaire": "4", "type_orga": "8" },
+			"Cuisine": { "liste_militaire": "12", "type_orga": "8" }
+		},
+		"Sécurité, hangar et pont d'envol": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"Sécurité": { "liste_militaire": "20", "type_orga": "8" },
+			"Pompiers": { "liste_militaire": "20", "type_orga": "8" },
+			"Ravitaillement": { "liste_militaire": "5", "type_orga": "8" }
+		}
+	},
+	"Commandement Anti-Mines": {
+		"liste_militaire": "1",
+		"type_orga": "6",
+		"Chasseur de Mines CM-1": {
+			"liste_militaire": "2",
+			"type_orga": "7",
+			"materiel": {
+				"Chasseur de mines": "1"
+			},
+			"Ilôt": {
+				"liste_militaire": "1",
+				"type_orga": "8",
+				"Poste de Commandement": { "liste_militaire": "10", "type_orga": "9" },
+				"Radar": { "liste_militaire": "6", "type_orga": "9" },
+				"Propulsion et Systèmes Vitaux": { "liste_militaire": "8", "type_orga": "9" }
+			},
+			"Vie et ressources": {
+				"liste_militaire": "1",
+				"type_orga": "8",
+				"Maintenance": { "liste_militaire": "14", "type_orga": "9" },
+				"Compagnie médicale": { "liste_militaire": "4", "type_orga": "9" },
+				"Cuisine": { "liste_militaire": "12", "type_orga": "9" }
+			},
+			"Sécurité, hangar et pont d'envol": {
+				"liste_militaire": "1",
+				"type_orga": "8",
+				"Sécurité": { "liste_militaire": "20", "type_orga": "9" },
+				"Ravitaillement": { "liste_militaire": "5", "type_orga": "9" },
+				"Pompiers": { "liste_militaire": "30", "type_orga": "9" },
+				"Pont d'envol": { "liste_militaire": "10", "type_orga": "9" }
+			},
+			"Hélicoptère Multi-Fonctions": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			}
+		},
+		"Chasseur de Mines CM-2": {
+			"liste_militaire": "2",
+			"type_orga": "7",
+			"materiel": {
+				"Chasseur de mines": "1"
+			},
+			"Ilôt": {
+				"liste_militaire": "1",
+				"type_orga": "8",
+				"Poste de Commandement": { "liste_militaire": "10", "type_orga": "9" },
+				"Radar": { "liste_militaire": "6", "type_orga": "9" },
+				"Propulsion et Systèmes Vitaux": { "liste_militaire": "8", "type_orga": "9" }
+			},
+			"Vie et ressources": {
+				"liste_militaire": "1",
+				"type_orga": "8",
+				"Maintenance": { "liste_militaire": "14", "type_orga": "9" },
+				"Compagnie médicale": { "liste_militaire": "4", "type_orga": "9" },
+				"Cuisine": { "liste_militaire": "12", "type_orga": "9" }
+			},
+			"Sécurité, hangar et pont d'envol": {
+				"liste_militaire": "1",
+				"type_orga": "8",
+				"Sécurité": { "liste_militaire": "20", "type_orga": "9" },
+				"Ravitaillement": { "liste_militaire": "5", "type_orga": "9" },
+				"Pompiers": { "liste_militaire": "30", "type_orga": "9" },
+				"Pont d'envol": { "liste_militaire": "10", "type_orga": "9" }
+			},
+			"Hélicoptère Multi-Fonctions": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			}
+		}
+	}
+}

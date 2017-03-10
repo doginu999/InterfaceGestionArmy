@@ -1,0 +1,26 @@
+{
+	"materiel": {
+		"Sous-marin Nucléaire d'Attaque": "1"
+	},
+	"Ilôt": {
+		"liste_militaire": "1",
+		"type_orga": "6",
+		"Poste de Commandement": { "liste_militaire": "10", "type_orga": "7" },
+		"Propulsion": { "liste_militaire": "6", "type_orga": "7" }
+	},
+	"Vie et ressources": {
+		"liste_militaire": "1",
+		"type_orga": "6",
+		"Contrôle des Réacteurs": { "liste_militaire": "6", "type_orga": "7" },
+		"Compagnie médicale": { "liste_militaire": "2", "type_orga": "7" },
+		"Maintenance": { "liste_militaire": "8", "type_orga": "7" },
+		"Cuisine": { "liste_militaire": "4", "type_orga": "7" },
+		"Spécialistes Nucléaires": { "liste_militaire": "4", "type_orga": "7" }
+	},
+	"Sécurité": {
+		"liste_militaire": "1",
+		"type_orga": "6",
+		"Armement": { "liste_militaire": "4", "type_orga": "7" },
+		"Pompiers": { "liste_militaire": "14", "type_orga": "7" }
+	}
+}

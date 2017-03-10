@@ -1,0 +1,474 @@
+{
+	"Bataillon ATA": {
+		"liste_militaire": "1",
+		"type_orga": "6",
+		"1er Escadron": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"Avion de Transport Avancé ATA-1": {
+				"liste_militaire": "11",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de Transport Avancé": "1"
+				}
+			},
+			"Avion de Transport Avancé ATA-2": {
+				"liste_militaire": "11",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de Transport Avancé": "1"
+				}
+			},
+			"Avion de Transport Avancé ATA-3": {
+				"liste_militaire": "11",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de Transport Avancé": "1"
+				}
+			},
+			"Avion de Transport Avancé ATA-4": {
+				"liste_militaire": "11",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de Transport Avancé": "1"
+				}
+			},
+			"Avion de Transport Avancé ATA-5": {
+				"liste_militaire": "11",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de Transport Avancé": "1"
+				}
+			},
+			"Avion de Transport Avancé ATA-6": {
+				"liste_militaire": "11",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de Transport Avancé": "1"
+				}
+			}
+		},
+		"2e Escadron": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"Avion de Transport Avancé ATA-1": {
+				"liste_militaire": "11",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de Transport Avancé": "1"
+				}
+			},
+			"Avion de Transport Avancé ATA-2": {
+				"liste_militaire": "11",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de Transport Avancé": "1"
+				}
+			},
+			"Avion de Transport Avancé ATA-3": {
+				"liste_militaire": "11",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de Transport Avancé": "1"
+				}
+			},
+			"Avion de Transport Avancé ATA-4": {
+				"liste_militaire": "11",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de Transport Avancé": "1"
+				}
+			},
+			"Avion de Transport Avancé ATA-5": {
+				"liste_militaire": "11",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de Transport Avancé": "1"
+				}
+			},
+			"Avion de Transport Avancé ATA-6": {
+				"liste_militaire": "11",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de Transport Avancé": "1"
+				}
+			}
+		}
+	},
+	"Bataillon ALT": {
+		"liste_militaire": "1",
+		"type_orga": "6",
+		"Avion Léger de Transport ALT-1": {
+			"liste_militaire": "11",
+			"type_orga": "7",
+			"materiel": {
+				"Avion Léger de Transport": "1"
+			}
+		},
+		"Avion Léger de Transport ALT-2": {
+			"liste_militaire": "11",
+			"type_orga": "7",
+			"materiel": {
+				"Avion Léger de Transport": "1"
+			}
+		},
+		"Avion Léger de Transport ALT-3": {
+			"liste_militaire": "11",
+			"type_orga": "7",
+			"materiel": {
+				"Avion Léger de Transport": "1"
+			}
+		},
+		"Avion Léger de Transport ALT-4": {
+			"liste_militaire": "11",
+			"type_orga": "7",
+			"materiel": {
+				"Avion Léger de Transport": "1"
+			}
+		},
+		"Avion Léger de Transport ALT-5": {
+			"liste_militaire": "11",
+			"type_orga": "7",
+			"materiel": {
+				"Avion Léger de Transport": "1"
+			}
+		},
+		"Avion Léger de Transport ALT-6": {
+			"liste_militaire": "11",
+			"type_orga": "7",
+			"materiel": {
+				"Avion Léger de Transport": "1"
+			}
+		},
+		"Avion Léger de Transport ALT-7": {
+			"liste_militaire": "11",
+			"type_orga": "7",
+			"materiel": {
+				"Avion Léger de Transport": "1"
+			}
+		},
+		"Avion Léger de Transport ALT-8": {
+			"liste_militaire": "11",
+			"type_orga": "7",
+			"materiel": {
+				"Avion Léger de Transport": "1"
+			}
+		}
+	},
+	"Bataillon T-35": {
+		"liste_militaire": "1",
+		"type_orga": "6",
+		"Transporteur T-35-1": {
+			"liste_militaire": "10",
+			"type_orga": "7",
+			"materiel": {
+				"Transporteur T-35": "1"
+			}
+		},
+		"Transporteur T-35-2": {
+			"liste_militaire": "10",
+			"type_orga": "7",
+			"materiel": {
+				"Transporteur T-35": "1"
+			}
+		},
+		"Transporteur T-35-3": {
+			"liste_militaire": "10",
+			"type_orga": "7",
+			"materiel": {
+				"Transporteur T-35": "1"
+			}
+		},
+		"Transporteur T-35-4": {
+			"liste_militaire": "10",
+			"type_orga": "7",
+			"materiel": {
+				"Transporteur T-35": "1"
+			}
+		},
+		"Transporteur T-35-5": {
+			"liste_militaire": "10",
+			"type_orga": "7",
+			"materiel": {
+				"Transporteur T-35": "1"
+			}
+		},
+		"Transporteur T-35-6": {
+			"liste_militaire": "10",
+			"type_orga": "7",
+			"materiel": {
+				"Transporteur T-35": "1"
+			}
+		},
+		"Transporteur T-35-7": {
+			"liste_militaire": "10",
+			"type_orga": "7",
+			"materiel": {
+				"Transporteur T-35": "1"
+			}
+		},
+		"Transporteur T-35-8": {
+			"liste_militaire": "10",
+			"type_orga": "7",
+			"materiel": {
+				"Transporteur T-35": "1"
+			}
+		},
+		"Transporteur T-35-9": {
+			"liste_militaire": "10",
+			"type_orga": "7",
+			"materiel": {
+				"Transporteur T-35": "1"
+			}
+		},
+		"Transporteur T-35-10": {
+			"liste_militaire": "10",
+			"type_orga": "7",
+			"materiel": {
+				"Transporteur T-35": "1"
+			}
+		}
+	},
+	"Bataillon ATAC": {
+		"liste_militaire": "1",
+		"type_orga": "6",
+		"Avion de Transport à Apparence Civile ATAC-1": {
+			"liste_militaire": "12",
+			"type_orga": "7",
+			"materiel": {
+				"Avion de Transport à Apparence Civile": "1"
+			}
+		},
+		"Avion de Transport à Apparence Civile ATAC-2": {
+			"liste_militaire": "12",
+			"type_orga": "7",
+			"materiel": {
+				"Avion de Transport à Apparence Civile": "1"
+			}
+		},
+		"Avion de Transport à Apparence Civile ATAC-3": {
+			"liste_militaire": "12",
+			"type_orga": "7",
+			"materiel": {
+				"Avion de Transport à Apparence Civile": "1"
+			}
+		},
+		"Avion de Transport à Apparence Civile ATAC-4": {
+			"liste_militaire": "12",
+			"type_orga": "7",
+			"materiel": {
+				"Avion de Transport à Apparence Civile": "1"
+			}
+		}
+	},
+	"Bataillon AES": {
+		"liste_militaire": "1",
+		"type_orga": "6",
+		"Avion d'Evacuation Sanitaire AES-1": {
+			"liste_militaire": "10",
+			"type_orga": "7",
+			"materiel": {
+				"Avion d'Evacuation Sanitaire": "1"
+			}
+		},
+		"Avion d'Evacuation Sanitaire AES-2": {
+			"liste_militaire": "10",
+			"type_orga": "7",
+			"materiel": {
+				"Avion d'Evacuation Sanitaire": "1"
+			}
+		}
+	},
+	"Bataillon ATTP": {
+		"liste_militaire": "1",
+		"type_orga": "6",
+		"Avion de Transport à Turbo-Propulseurs ATTP-1": {
+			"liste_militaire": "11",
+			"type_orga": "7",
+			"materiel": {
+				"Avion de Transport à Turbo-Propulseurs": "1"
+			}
+		},
+		"Avion de Transport à Turbo-Propulseurs ATTP-2": {
+			"liste_militaire": "11",
+			"type_orga": "7",
+			"materiel": {
+				"Avion de Transport à Turbo-Propulseurs": "1"
+			}
+		},
+		"Avion de Transport à Turbo-Propulseurs ATTP-3": {
+			"liste_militaire": "11",
+			"type_orga": "7",
+			"materiel": {
+				"Avion de Transport à Turbo-Propulseurs": "1"
+			}
+		},
+		"Avion de Transport à Turbo-Propulseurs ATTP-4": {
+			"liste_militaire": "11",
+			"type_orga": "7",
+			"materiel": {
+				"Avion de Transport à Turbo-Propulseurs": "1"
+			}
+		}
+	},
+	"Bataillon de Ravitaillement": {
+		"liste_militaire": "1",
+		"type_orga": "6",
+		"1er Escadron": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"Camion-citerne CC-1": {
+				"liste_militaire": "3",
+				"type_orga": "8",
+				"materiel": {
+					"Camion-Citerne": "1"
+				}
+			},
+			"Camion-citerne CC-2": {
+				"liste_militaire": "3",
+				"type_orga": "8",
+				"materiel": {
+					"Camion-Citerne": "1"
+				}
+			},
+			"Camion-citerne CC-3": {
+				"liste_militaire": "3",
+				"type_orga": "8",
+				"materiel": {
+					"Camion-Citerne": "1"
+				}
+			},
+			"Camion-citerne CC-4": {
+				"liste_militaire": "3",
+				"type_orga": "8",
+				"materiel": {
+					"Camion-Citerne": "1"
+				}
+			},
+			"Camion-citerne CC-5": {
+				"liste_militaire": "3",
+				"type_orga": "8",
+				"materiel": {
+					"Camion-Citerne": "1"
+				}
+			}
+		},
+		"2e Escadron": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"Camion-citerne CC-1": {
+				"liste_militaire": "3",
+				"type_orga": "8",
+				"materiel": {
+					"Camion-Citerne": "1"
+				}
+			},
+			"Camion-citerne CC-2": {
+				"liste_militaire": "3",
+				"type_orga": "8",
+				"materiel": {
+					"Camion-Citerne": "1"
+				}
+			},
+			"Camion-citerne CC-3": {
+				"liste_militaire": "3",
+				"type_orga": "8",
+				"materiel": {
+					"Camion-Citerne": "1"
+				}
+			},
+			"Camion-citerne CC-4": {
+				"liste_militaire": "3",
+				"type_orga": "8",
+				"materiel": {
+					"Camion-Citerne": "1"
+				}
+			},
+			"Camion-citerne CC-5": {
+				"liste_militaire": "3",
+				"type_orga": "8",
+				"materiel": {
+					"Camion-Citerne": "1"
+				}
+			}
+		},
+		"3e Escadron": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"Camion-citerne CC-1": {
+				"liste_militaire": "3",
+				"type_orga": "8",
+				"materiel": {
+					"Camion-Citerne": "1"
+				}
+			},
+			"Camion-citerne CC-2": {
+				"liste_militaire": "3",
+				"type_orga": "8",
+				"materiel": {
+					"Camion-Citerne": "1"
+				}
+			},
+			"Camion-citerne CC-3": {
+				"liste_militaire": "3",
+				"type_orga": "8",
+				"materiel": {
+					"Camion-Citerne": "1"
+				}
+			},
+			"Camion-citerne CC-4": {
+				"liste_militaire": "3",
+				"type_orga": "8",
+				"materiel": {
+					"Camion-Citerne": "1"
+				}
+			},
+			"Camion-citerne CC-5": {
+				"liste_militaire": "3",
+				"type_orga": "8",
+				"materiel": {
+					"Camion-Citerne": "1"
+				}
+			}
+		}
+	},
+	"Bataillon de Transport de Matériel": {
+		"liste_militaire": "1",
+		"type_orga": "6",
+		"Camion de Transport de Matériel CTM-1": {
+			"liste_militaire": "4",
+			"type_orga": "7",
+			"materiel": {
+				"Camion de Transport de Matériel": "1"
+			}
+		},
+		"Camion de Transport de Matériel CTM-2": {
+			"liste_militaire": "4",
+			"type_orga": "7",
+			"materiel": {
+				"Camion de Transport de Matériel": "1"
+			}
+		},
+		"Camion de Transport de Matériel CTM-3": {
+			"liste_militaire": "4",
+			"type_orga": "7",
+			"materiel": {
+				"Camion de Transport de Matériel": "1"
+			}
+		},
+		"Camion de Transport de Matériel CTM-4": {
+			"liste_militaire": "4",
+			"type_orga": "7",
+			"materiel": {
+				"Camion de Transport de Matériel": "1"
+			}
+		},
+		"Camion de Transport de Matériel CTM-5": {
+			"liste_militaire": "4",
+			"type_orga": "7",
+			"materiel": {
+				"Camion de Transport de Matériel": "1"
+			}
+		}
+	}
+}

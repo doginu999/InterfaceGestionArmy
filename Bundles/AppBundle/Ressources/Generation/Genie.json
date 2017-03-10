@@ -1,0 +1,4765 @@
+{
+	"Bataillon de Déminage": {
+		"liste_militaire": "1",
+		"type_orga": "6",
+		"1ere Section": {
+			"liste_militaire": "10",
+			"type_orga": "10",
+			"materiel": {
+				"Hummer": "2",
+				"Véhicule Blindé de Déminage": "1",
+				"Robot de déminage": "2"
+			}
+		},
+		"2e Section": {
+			"liste_militaire": "10",
+			"type_orga": "10",
+			"materiel": {
+				"Hummer": "2",
+				"Véhicule Blindé de Déminage": "1",
+				"Robot de déminage": "2"
+			}
+		},
+		"3e Section": {
+			"liste_militaire": "10",
+			"type_orga": "10",
+			"materiel": {
+				"Hummer": "2",
+				"Véhicule Blindé de Déminage": "1",
+				"Robot de déminage": "2"
+			}
+		},
+		"4e Section": {
+			"liste_militaire": "10",
+			"type_orga": "10",
+			"materiel": {
+				"Hummer": "2",
+				"Véhicule Blindé de Déminage": "1",
+				"Robot de déminage": "2"
+			}
+		}
+	},
+	"Bataillon Tactique": {
+		"liste_militaire": "1",
+		"type_orga": "6",
+		"1ere Compagnie": {
+			"liste_militaire": "1",
+			"type_orga": "9",
+			"1ere Section": {
+				"liste_militaire": "1",
+				"type_orga": "10",
+				"Véhicule Polyvalent du Génie": {
+					"liste_militaire": "4",
+					"type_orga": "11",
+					"materiel": {
+						"Véhicule Polyvalent du Génie": "1"
+					}
+				},
+				"Véhicule d'Amélioration de la Traficabilité": {
+					"liste_militaire": "3",
+					"type_orga": "11",
+					"materiel": {
+						"Véhicule d'Amélioration de la Traficabilité": "1"
+					}
+				},
+				"Peloton TF": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Transporteur Flottant TF-1": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Transporteur flottant": "1"
+						}
+					},
+					"Transporteur Flottant TF-2": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Transporteur flottant": "1"
+						}
+					}
+				},
+				"Station Radar Mobile": {
+					"liste_militaire": "4",
+					"type_orga": "11",
+					"materiel": {
+						"Station Radar Mobile": "1"
+					}
+				},
+				"Pont Auto-Moteur": {
+					"liste_militaire": "5",
+					"type_orga": "11",
+					"materiel": {
+						"Pont Auto-Moteur": "1"
+					}
+				},
+				"Excavateur": {
+					"liste_militaire": "4",
+					"type_orga": "11",
+					"materiel": {
+						"Excavateur": "1"
+					}
+				}
+			},
+			"2e Section": {
+				"liste_militaire": "1",
+				"type_orga": "10",
+				"Véhicule Polyvalent du Génie": {
+					"liste_militaire": "4",
+					"type_orga": "11",
+					"materiel": {
+						"Véhicule Polyvalent du Génie": "1"
+					}
+				},
+				"Véhicule d'Amélioration de la Traficabilité": {
+					"liste_militaire": "3",
+					"type_orga": "11",
+					"materiel": {
+						"Véhicule d'Amélioration de la Traficabilité": "1"
+					}
+				},
+				"Peloton TF": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Transporteur Flottant TF-1": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Transporteur flottant": "1"
+						}
+					},
+					"Transporteur Flottant TF-2": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Transporteur flottant": "1"
+						}
+					}
+				},
+				"Station Radar Mobile": {
+					"liste_militaire": "4",
+					"type_orga": "11",
+					"materiel": {
+						"Station Radar Mobile": "1"
+					}
+				},
+				"Pont Auto-Moteur": {
+					"liste_militaire": "5",
+					"type_orga": "11",
+					"materiel": {
+						"Pont Auto-Moteur": "1"
+					}
+				},
+				"Excavateur": {
+					"liste_militaire": "4",
+					"type_orga": "11",
+					"materiel": {
+						"Excavateur": "1"
+					}
+				}
+			},
+			"3e Section": {
+				"liste_militaire": "1",
+				"type_orga": "10",
+				"Véhicule Polyvalent du Génie": {
+					"liste_militaire": "4",
+					"type_orga": "11",
+					"materiel": {
+						"Véhicule Polyvalent du Génie": "1"
+					}
+				},
+				"Véhicule d'Amélioration de la Traficabilité": {
+					"liste_militaire": "3",
+					"type_orga": "11",
+					"materiel": {
+						"Véhicule d'Amélioration de la Traficabilité": "1"
+					}
+				},
+				"Peloton TF": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Transporteur Flottant TF-1": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Transporteur flottant": "1"
+						}
+					},
+					"Transporteur Flottant TF-2": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Transporteur flottant": "1"
+						}
+					}
+				},
+				"Station Radar Mobile": {
+					"liste_militaire": "4",
+					"type_orga": "11",
+					"materiel": {
+						"Station Radar Mobile": "1"
+					}
+				},
+				"Pont Auto-Moteur": {
+					"liste_militaire": "5",
+					"type_orga": "11",
+					"materiel": {
+						"Pont Auto-Moteur": "1"
+					}
+				},
+				"Excavateur": {
+					"liste_militaire": "4",
+					"type_orga": "11",
+					"materiel": {
+						"Excavateur": "1"
+					}
+				}
+			}
+		},
+		"2e Compagnie": {
+			"liste_militaire": "1",
+			"type_orga": "9",
+			"1ere Section": {
+				"liste_militaire": "1",
+				"type_orga": "10",
+				"Véhicule Polyvalent du Génie": {
+					"liste_militaire": "4",
+					"type_orga": "11",
+					"materiel": {
+						"Véhicule Polyvalent du Génie": "1"
+					}
+				},
+				"Véhicule d'Amélioration de la Traficabilité": {
+					"liste_militaire": "3",
+					"type_orga": "11",
+					"materiel": {
+						"Véhicule d'Amélioration de la Traficabilité": "1"
+					}
+				},
+				"Peloton TF": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Transporteur Flottant TF-1": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Transporteur flottant": "1"
+						}
+					},
+					"Transporteur Flottant TF-2": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Transporteur flottant": "1"
+						}
+					}
+				},
+				"Station Radar Mobile": {
+					"liste_militaire": "4",
+					"type_orga": "11",
+					"materiel": {
+						"Station Radar Mobile": "1"
+					}
+				},
+				"Pont Auto-Moteur": {
+					"liste_militaire": "5",
+					"type_orga": "11",
+					"materiel": {
+						"Pont Auto-Moteur": "1"
+					}
+				},
+				"Excavateur": {
+					"liste_militaire": "4",
+					"type_orga": "11",
+					"materiel": {
+						"Excavateur": "1"
+					}
+				}
+			},
+			"2e Section": {
+				"liste_militaire": "1",
+				"type_orga": "10",
+				"Véhicule Polyvalent du Génie": {
+					"liste_militaire": "4",
+					"type_orga": "11",
+					"materiel": {
+						"Véhicule Polyvalent du Génie": "1"
+					}
+				},
+				"Véhicule d'Amélioration de la Traficabilité": {
+					"liste_militaire": "3",
+					"type_orga": "11",
+					"materiel": {
+						"Véhicule d'Amélioration de la Traficabilité": "1"
+					}
+				},
+				"Peloton TF": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Transporteur Flottant TF-1": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Transporteur flottant": "1"
+						}
+					},
+					"Transporteur Flottant TF-2": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Transporteur flottant": "1"
+						}
+					}
+				},
+				"Station Radar Mobile": {
+					"liste_militaire": "4",
+					"type_orga": "11",
+					"materiel": {
+						"Station Radar Mobile": "1"
+					}
+				},
+				"Pont Auto-Moteur": {
+					"liste_militaire": "5",
+					"type_orga": "11",
+					"materiel": {
+						"Pont Auto-Moteur": "1"
+					}
+				},
+				"Excavateur": {
+					"liste_militaire": "4",
+					"type_orga": "11",
+					"materiel": {
+						"Excavateur": "1"
+					}
+				}
+			},
+			"3e Section": {
+				"liste_militaire": "1",
+				"type_orga": "10",
+				"Véhicule Polyvalent du Génie": {
+					"liste_militaire": "4",
+					"type_orga": "11",
+					"materiel": {
+						"Véhicule Polyvalent du Génie": "1"
+					}
+				},
+				"Véhicule d'Amélioration de la Traficabilité": {
+					"liste_militaire": "3",
+					"type_orga": "11",
+					"materiel": {
+						"Véhicule d'Amélioration de la Traficabilité": "1"
+					}
+				},
+				"Peloton TF": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Transporteur Flottant TF-1": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Transporteur flottant": "1"
+						}
+					},
+					"Transporteur Flottant TF-2": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Transporteur flottant": "1"
+						}
+					}
+				},
+				"Station Radar Mobile": {
+					"liste_militaire": "4",
+					"type_orga": "11",
+					"materiel": {
+						"Station Radar Mobile": "1"
+					}
+				},
+				"Pont Auto-Moteur": {
+					"liste_militaire": "5",
+					"type_orga": "11",
+					"materiel": {
+						"Pont Auto-Moteur": "1"
+					}
+				},
+				"Excavateur": {
+					"liste_militaire": "4",
+					"type_orga": "11",
+					"materiel": {
+						"Excavateur": "1"
+					}
+				}
+			}
+		},
+		"3e Compagnie": {
+			"liste_militaire": "1",
+			"type_orga": "9",
+			"1ere Section": {
+				"liste_militaire": "1",
+				"type_orga": "10",
+				"Véhicule Polyvalent du Génie": {
+					"liste_militaire": "4",
+					"type_orga": "11",
+					"materiel": {
+						"Véhicule Polyvalent du Génie": "1"
+					}
+				},
+				"Véhicule d'Amélioration de la Traficabilité": {
+					"liste_militaire": "3",
+					"type_orga": "11",
+					"materiel": {
+						"Véhicule d'Amélioration de la Traficabilité": "1"
+					}
+				},
+				"Peloton TF": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Transporteur Flottant TF-1": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Transporteur flottant": "1"
+						}
+					},
+					"Transporteur Flottant TF-2": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Transporteur flottant": "1"
+						}
+					}
+				},
+				"Station Radar Mobile": {
+					"liste_militaire": "4",
+					"type_orga": "11",
+					"materiel": {
+						"Station Radar Mobile": "1"
+					}
+				},
+				"Pont Auto-Moteur": {
+					"liste_militaire": "5",
+					"type_orga": "11",
+					"materiel": {
+						"Pont Auto-Moteur": "1"
+					}
+				},
+				"Excavateur": {
+					"liste_militaire": "4",
+					"type_orga": "11",
+					"materiel": {
+						"Excavateur": "1"
+					}
+				}
+			},
+			"2e Section": {
+				"liste_militaire": "1",
+				"type_orga": "10",
+				"Véhicule Polyvalent du Génie": {
+					"liste_militaire": "4",
+					"type_orga": "11",
+					"materiel": {
+						"Véhicule Polyvalent du Génie": "1"
+					}
+				},
+				"Véhicule d'Amélioration de la Traficabilité": {
+					"liste_militaire": "3",
+					"type_orga": "11",
+					"materiel": {
+						"Véhicule d'Amélioration de la Traficabilité": "1"
+					}
+				},
+				"Peloton TF": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Transporteur Flottant TF-1": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Transporteur flottant": "1"
+						}
+					},
+					"Transporteur Flottant TF-2": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Transporteur flottant": "1"
+						}
+					}
+				},
+				"Station Radar Mobile": {
+					"liste_militaire": "4",
+					"type_orga": "11",
+					"materiel": {
+						"Station Radar Mobile": "1"
+					}
+				},
+				"Pont Auto-Moteur": {
+					"liste_militaire": "5",
+					"type_orga": "11",
+					"materiel": {
+						"Pont Auto-Moteur": "1"
+					}
+				},
+				"Excavateur": {
+					"liste_militaire": "4",
+					"type_orga": "11",
+					"materiel": {
+						"Excavateur": "1"
+					}
+				}
+			},
+			"3e Section": {
+				"liste_militaire": "1",
+				"type_orga": "10",
+				"Véhicule Polyvalent du Génie": {
+					"liste_militaire": "4",
+					"type_orga": "11",
+					"materiel": {
+						"Véhicule Polyvalent du Génie": "1"
+					}
+				},
+				"Véhicule d'Amélioration de la Traficabilité": {
+					"liste_militaire": "3",
+					"type_orga": "11",
+					"materiel": {
+						"Véhicule d'Amélioration de la Traficabilité": "1"
+					}
+				},
+				"Peloton TF": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Transporteur Flottant TF-1": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Transporteur flottant": "1"
+						}
+					},
+					"Transporteur Flottant TF-2": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Transporteur flottant": "1"
+						}
+					}
+				},
+				"Station Radar Mobile": {
+					"liste_militaire": "4",
+					"type_orga": "11",
+					"materiel": {
+						"Station Radar Mobile": "1"
+					}
+				},
+				"Pont Auto-Moteur": {
+					"liste_militaire": "5",
+					"type_orga": "11",
+					"materiel": {
+						"Pont Auto-Moteur": "1"
+					}
+				},
+				"Excavateur": {
+					"liste_militaire": "4",
+					"type_orga": "11",
+					"materiel": {
+						"Excavateur": "1"
+					}
+				}
+			}
+		},
+		"4e Compagnie": {
+			"liste_militaire": "1",
+			"type_orga": "9",
+			"1ere Section": {
+				"liste_militaire": "1",
+				"type_orga": "10",
+				"Véhicule Polyvalent du Génie": {
+					"liste_militaire": "4",
+					"type_orga": "11",
+					"materiel": {
+						"Véhicule Polyvalent du Génie": "1"
+					}
+				},
+				"Véhicule d'Amélioration de la Traficabilité": {
+					"liste_militaire": "3",
+					"type_orga": "11",
+					"materiel": {
+						"Véhicule d'Amélioration de la Traficabilité": "1"
+					}
+				},
+				"Peloton TF": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Transporteur Flottant TF-1": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Transporteur flottant": "1"
+						}
+					},
+					"Transporteur Flottant TF-2": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Transporteur flottant": "1"
+						}
+					}
+				},
+				"Station Radar Mobile": {
+					"liste_militaire": "4",
+					"type_orga": "11",
+					"materiel": {
+						"Station Radar Mobile": "1"
+					}
+				},
+				"Pont Auto-Moteur": {
+					"liste_militaire": "5",
+					"type_orga": "11",
+					"materiel": {
+						"Pont Auto-Moteur": "1"
+					}
+				},
+				"Excavateur": {
+					"liste_militaire": "4",
+					"type_orga": "11",
+					"materiel": {
+						"Excavateur": "1"
+					}
+				}
+			},
+			"2e Section": {
+				"liste_militaire": "1",
+				"type_orga": "10",
+				"Véhicule Polyvalent du Génie": {
+					"liste_militaire": "4",
+					"type_orga": "11",
+					"materiel": {
+						"Véhicule Polyvalent du Génie": "1"
+					}
+				},
+				"Véhicule d'Amélioration de la Traficabilité": {
+					"liste_militaire": "3",
+					"type_orga": "11",
+					"materiel": {
+						"Véhicule d'Amélioration de la Traficabilité": "1"
+					}
+				},
+				"Peloton TF": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Transporteur Flottant TF-1": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Transporteur flottant": "1"
+						}
+					},
+					"Transporteur Flottant TF-2": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Transporteur flottant": "1"
+						}
+					}
+				},
+				"Station Radar Mobile": {
+					"liste_militaire": "4",
+					"type_orga": "11",
+					"materiel": {
+						"Station Radar Mobile": "1"
+					}
+				},
+				"Pont Auto-Moteur": {
+					"liste_militaire": "5",
+					"type_orga": "11",
+					"materiel": {
+						"Pont Auto-Moteur": "1"
+					}
+				},
+				"Excavateur": {
+					"liste_militaire": "4",
+					"type_orga": "11",
+					"materiel": {
+						"Excavateur": "1"
+					}
+				}
+			},
+			"3e Section": {
+				"liste_militaire": "1",
+				"type_orga": "10",
+				"Véhicule Polyvalent du Génie": {
+					"liste_militaire": "4",
+					"type_orga": "11",
+					"materiel": {
+						"Véhicule Polyvalent du Génie": "1"
+					}
+				},
+				"Véhicule d'Amélioration de la Traficabilité": {
+					"liste_militaire": "3",
+					"type_orga": "11",
+					"materiel": {
+						"Véhicule d'Amélioration de la Traficabilité": "1"
+					}
+				},
+				"Peloton TF": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Transporteur Flottant TF-1": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Transporteur flottant": "1"
+						}
+					},
+					"Transporteur Flottant TF-2": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Transporteur flottant": "1"
+						}
+					}
+				},
+				"Station Radar Mobile": {
+					"liste_militaire": "4",
+					"type_orga": "11",
+					"materiel": {
+						"Station Radar Mobile": "1"
+					}
+				},
+				"Pont Auto-Moteur": {
+					"liste_militaire": "5",
+					"type_orga": "11",
+					"materiel": {
+						"Pont Auto-Moteur": "1"
+					}
+				},
+				"Excavateur": {
+					"liste_militaire": "4",
+					"type_orga": "11",
+					"materiel": {
+						"Excavateur": "1"
+					}
+				}
+			}
+		},
+		"5e Compagnie": {
+			"liste_militaire": "1",
+			"type_orga": "9",
+			"1ere Section": {
+				"liste_militaire": "1",
+				"type_orga": "10",
+				"Véhicule Polyvalent du Génie": {
+					"liste_militaire": "4",
+					"type_orga": "11",
+					"materiel": {
+						"Véhicule Polyvalent du Génie": "1"
+					}
+				},
+				"Véhicule d'Amélioration de la Traficabilité": {
+					"liste_militaire": "3",
+					"type_orga": "11",
+					"materiel": {
+						"Véhicule d'Amélioration de la Traficabilité": "1"
+					}
+				},
+				"Peloton TF": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Transporteur Flottant TF-1": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Transporteur flottant": "1"
+						}
+					},
+					"Transporteur Flottant TF-2": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Transporteur flottant": "1"
+						}
+					}
+				},
+				"Station Radar Mobile": {
+					"liste_militaire": "4",
+					"type_orga": "11",
+					"materiel": {
+						"Station Radar Mobile": "1"
+					}
+				},
+				"Pont Auto-Moteur": {
+					"liste_militaire": "5",
+					"type_orga": "11",
+					"materiel": {
+						"Pont Auto-Moteur": "1"
+					}
+				},
+				"Excavateur": {
+					"liste_militaire": "4",
+					"type_orga": "11",
+					"materiel": {
+						"Excavateur": "1"
+					}
+				}
+			},
+			"2e Section": {
+				"liste_militaire": "1",
+				"type_orga": "10",
+				"Véhicule Polyvalent du Génie": {
+					"liste_militaire": "4",
+					"type_orga": "11",
+					"materiel": {
+						"Véhicule Polyvalent du Génie": "1"
+					}
+				},
+				"Véhicule d'Amélioration de la Traficabilité": {
+					"liste_militaire": "3",
+					"type_orga": "11",
+					"materiel": {
+						"Véhicule d'Amélioration de la Traficabilité": "1"
+					}
+				},
+				"Peloton TF": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Transporteur Flottant TF-1": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Transporteur flottant": "1"
+						}
+					},
+					"Transporteur Flottant TF-2": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Transporteur flottant": "1"
+						}
+					}
+				},
+				"Station Radar Mobile": {
+					"liste_militaire": "4",
+					"type_orga": "11",
+					"materiel": {
+						"Station Radar Mobile": "1"
+					}
+				},
+				"Pont Auto-Moteur": {
+					"liste_militaire": "5",
+					"type_orga": "11",
+					"materiel": {
+						"Pont Auto-Moteur": "1"
+					}
+				},
+				"Excavateur": {
+					"liste_militaire": "4",
+					"type_orga": "11",
+					"materiel": {
+						"Excavateur": "1"
+					}
+				}
+			},
+			"3e Section": {
+				"liste_militaire": "1",
+				"type_orga": "10",
+				"Véhicule Polyvalent du Génie": {
+					"liste_militaire": "4",
+					"type_orga": "11",
+					"materiel": {
+						"Véhicule Polyvalent du Génie": "1"
+					}
+				},
+				"Véhicule d'Amélioration de la Traficabilité": {
+					"liste_militaire": "3",
+					"type_orga": "11",
+					"materiel": {
+						"Véhicule d'Amélioration de la Traficabilité": "1"
+					}
+				},
+				"Peloton TF": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Transporteur Flottant TF-1": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Transporteur flottant": "1"
+						}
+					},
+					"Transporteur Flottant TF-2": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Transporteur flottant": "1"
+						}
+					}
+				},
+				"Station Radar Mobile": {
+					"liste_militaire": "4",
+					"type_orga": "11",
+					"materiel": {
+						"Station Radar Mobile": "1"
+					}
+				},
+				"Pont Auto-Moteur": {
+					"liste_militaire": "5",
+					"type_orga": "11",
+					"materiel": {
+						"Pont Auto-Moteur": "1"
+					}
+				},
+				"Excavateur": {
+					"liste_militaire": "4",
+					"type_orga": "11",
+					"materiel": {
+						"Excavateur": "1"
+					}
+				}
+			}
+		}
+	},
+	"Bataillon des Actions Civilo-Militaires": {
+		"liste_militaire": "1",
+		"type_orga": "6",
+		"1ere Compagnie": {
+			"liste_militaire": "1",
+			"type_orga": "9",
+			"1ere Section": {
+				"liste_militaire": "1",
+				"type_orga": "10",
+				"Pont Auto-Moteur": {
+					"liste_militaire": "5",
+					"type_orga": "11",
+					"materiel": {
+						"Pont Auto-Moteur": "1"
+					}
+				},
+				"Peloton de Transport de Matériel": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Camion de Transport de Matériel CTM-1": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-2": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-3": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-4": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					}
+				},
+				"Peloton CBM": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Camion-benne Militaire CBM-1": {
+						"liste_militaire": "2",
+						"type_orga": "12",
+						"materiel": {
+							"Camion-Benne Militaire": "1"
+						}
+					},
+					"Camion-benne Militaire CBM-2": {
+						"liste_militaire": "2",
+						"type_orga": "12",
+						"materiel": {
+							"Camion-Benne Militaire": "1"
+						}
+					}
+				},
+				"Peloton GEME": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Groupe Electrogène Militaire Embarqué GEME-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Groupe Electrogène Militaire Embarqué": "1"
+						}
+					},
+					"Groupe Electrogène Militaire Embarqué GEME-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Groupe Electrogène Militaire Embarqué": "1"
+						}
+					}
+				},
+				"Peloton GMM": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Grue Militaire Motorisée GMM-1": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Grue Militaire Motorisée": "1"
+						}
+					},
+					"Grue Militaire Motorisée GMM-2": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Grue Militaire Motorisée": "1"
+						}
+					}
+				},
+				"Peloton Tractopelle": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Tractopelle Tr-1": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-2": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-3": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-4": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					}
+				},
+				"Peloton VMDE": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Véhicule Militaire de Dépollution d'Eau VMDE-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Militaire de Dépollution d'Eau": "1"
+						}
+					},
+					"Véhicule Militaire de Dépollution d'Eau VMDE-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Militaire de Dépollution d'Eau": "1"
+						}
+					}
+				},
+				"Peloton VPG": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Véhicule Polyvalent du Génie VPG-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Polyvalent du Génie": "1"
+						}
+					},
+					"Véhicule Polyvalent du Génie VPG-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Polyvalent du Génie": "1"
+						}
+					}
+				},
+				"Peloton Bétonnière": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Bétonnière Bé-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					},
+					"Bétonnière Bé-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					},
+					"Bétonnière Bé-3": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					}
+				}
+			},
+			"2e Section": {
+				"liste_militaire": "1",
+				"type_orga": "10",
+				"Pont Auto-Moteur": {
+					"liste_militaire": "5",
+					"type_orga": "11",
+					"materiel": {
+						"Pont Auto-Moteur": "1"
+					}
+				},
+				"Peloton de Transport de Matériel": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Camion de Transport de Matériel CTM-1": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-2": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-3": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-4": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					}
+				},
+				"Peloton CBM": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Camion-benne Militaire CBM-1": {
+						"liste_militaire": "2",
+						"type_orga": "12",
+						"materiel": {
+							"Camion-Benne Militaire": "1"
+						}
+					},
+					"Camion-benne Militaire CBM-2": {
+						"liste_militaire": "2",
+						"type_orga": "12",
+						"materiel": {
+							"Camion-Benne Militaire": "1"
+						}
+					}
+				},
+				"Peloton GEME": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Groupe Electrogène Militaire Embarqué GEME-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Groupe Electrogène Militaire Embarqué": "1"
+						}
+					},
+					"Groupe Electrogène Militaire Embarqué GEME-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Groupe Electrogène Militaire Embarqué": "1"
+						}
+					}
+				},
+				"Peloton GMM": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Grue Militaire Motorisée GMM-1": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Grue Militaire Motorisée": "1"
+						}
+					},
+					"Grue Militaire Motorisée GMM-2": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Grue Militaire Motorisée": "1"
+						}
+					}
+				},
+				"Peloton Tractopelle": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Tractopelle Tr-1": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-2": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-3": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-4": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					}
+				},
+				"Peloton VMDE": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Véhicule Militaire de Dépollution d'Eau VMDE-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Militaire de Dépollution d'Eau": "1"
+						}
+					},
+					"Véhicule Militaire de Dépollution d'Eau VMDE-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Militaire de Dépollution d'Eau": "1"
+						}
+					}
+				},
+				"Peloton VPG": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Véhicule Polyvalent du Génie VPG-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Polyvalent du Génie": "1"
+						}
+					},
+					"Véhicule Polyvalent du Génie VPG-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Polyvalent du Génie": "1"
+						}
+					}
+				},
+				"Peloton Bétonnière": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Bétonnière Bé-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					},
+					"Bétonnière Bé-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					},
+					"Bétonnière Bé-3": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					}
+				}
+			}
+		},
+		"2e Compagnie": {
+			"liste_militaire": "1",
+			"type_orga": "9",
+			"1ere Section": {
+				"liste_militaire": "1",
+				"type_orga": "10",
+				"Pont Auto-Moteur": {
+					"liste_militaire": "5",
+					"type_orga": "11",
+					"materiel": {
+						"Pont Auto-Moteur": "1"
+					}
+				},
+				"Peloton de Transport de Matériel": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Camion de Transport de Matériel CTM-1": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-2": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-3": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-4": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					}
+				},
+				"Peloton CBM": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Camion-benne Militaire CBM-1": {
+						"liste_militaire": "2",
+						"type_orga": "12",
+						"materiel": {
+							"Camion-Benne Militaire": "1"
+						}
+					},
+					"Camion-benne Militaire CBM-2": {
+						"liste_militaire": "2",
+						"type_orga": "12",
+						"materiel": {
+							"Camion-Benne Militaire": "1"
+						}
+					}
+				},
+				"Peloton GEME": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Groupe Electrogène Militaire Embarqué GEME-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Groupe Electrogène Militaire Embarqué": "1"
+						}
+					},
+					"Groupe Electrogène Militaire Embarqué GEME-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Groupe Electrogène Militaire Embarqué": "1"
+						}
+					}
+				},
+				"Peloton GMM": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Grue Militaire Motorisée GMM-1": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Grue Militaire Motorisée": "1"
+						}
+					},
+					"Grue Militaire Motorisée GMM-2": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Grue Militaire Motorisée": "1"
+						}
+					}
+				},
+				"Peloton Tractopelle": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Tractopelle Tr-1": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-2": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-3": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-4": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					}
+				},
+				"Peloton VMDE": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Véhicule Militaire de Dépollution d'Eau VMDE-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Militaire de Dépollution d'Eau": "1"
+						}
+					},
+					"Véhicule Militaire de Dépollution d'Eau VMDE-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Militaire de Dépollution d'Eau": "1"
+						}
+					}
+				},
+				"Peloton VPG": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Véhicule Polyvalent du Génie VPG-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Polyvalent du Génie": "1"
+						}
+					},
+					"Véhicule Polyvalent du Génie VPG-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Polyvalent du Génie": "1"
+						}
+					}
+				},
+				"Peloton Bétonnière": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Bétonnière Bé-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					},
+					"Bétonnière Bé-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					},
+					"Bétonnière Bé-3": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					}
+				}
+			},
+			"2e Section": {
+				"liste_militaire": "1",
+				"type_orga": "10",
+				"Pont Auto-Moteur": {
+					"liste_militaire": "5",
+					"type_orga": "11",
+					"materiel": {
+						"Pont Auto-Moteur": "1"
+					}
+				},
+				"Peloton de Transport de Matériel": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Camion de Transport de Matériel CTM-1": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-2": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-3": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-4": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					}
+				},
+				"Peloton CBM": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Camion-benne Militaire CBM-1": {
+						"liste_militaire": "2",
+						"type_orga": "12",
+						"materiel": {
+							"Camion-Benne Militaire": "1"
+						}
+					},
+					"Camion-benne Militaire CBM-2": {
+						"liste_militaire": "2",
+						"type_orga": "12",
+						"materiel": {
+							"Camion-Benne Militaire": "1"
+						}
+					}
+				},
+				"Peloton GEME": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Groupe Electrogène Militaire Embarqué GEME-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Groupe Electrogène Militaire Embarqué": "1"
+						}
+					},
+					"Groupe Electrogène Militaire Embarqué GEME-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Groupe Electrogène Militaire Embarqué": "1"
+						}
+					}
+				},
+				"Peloton GMM": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Grue Militaire Motorisée GMM-1": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Grue Militaire Motorisée": "1"
+						}
+					},
+					"Grue Militaire Motorisée GMM-2": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Grue Militaire Motorisée": "1"
+						}
+					}
+				},
+				"Peloton Tractopelle": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Tractopelle Tr-1": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-2": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-3": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-4": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					}
+				},
+				"Peloton VMDE": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Véhicule Militaire de Dépollution d'Eau VMDE-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Militaire de Dépollution d'Eau": "1"
+						}
+					},
+					"Véhicule Militaire de Dépollution d'Eau VMDE-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Militaire de Dépollution d'Eau": "1"
+						}
+					}
+				},
+				"Peloton VPG": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Véhicule Polyvalent du Génie VPG-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Polyvalent du Génie": "1"
+						}
+					},
+					"Véhicule Polyvalent du Génie VPG-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Polyvalent du Génie": "1"
+						}
+					}
+				},
+				"Peloton Bétonnière": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Bétonnière Bé-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					},
+					"Bétonnière Bé-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					},
+					"Bétonnière Bé-3": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					}
+				}
+			}
+		},
+		"3e Compagnie": {
+			"liste_militaire": "1",
+			"type_orga": "9",
+			"1ere Section": {
+				"liste_militaire": "1",
+				"type_orga": "10",
+				"Pont Auto-Moteur": {
+					"liste_militaire": "5",
+					"type_orga": "11",
+					"materiel": {
+						"Pont Auto-Moteur": "1"
+					}
+				},
+				"Peloton de Transport de Matériel": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Camion de Transport de Matériel CTM-1": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-2": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-3": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-4": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					}
+				},
+				"Peloton CBM": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Camion-benne Militaire CBM-1": {
+						"liste_militaire": "2",
+						"type_orga": "12",
+						"materiel": {
+							"Camion-Benne Militaire": "1"
+						}
+					},
+					"Camion-benne Militaire CBM-2": {
+						"liste_militaire": "2",
+						"type_orga": "12",
+						"materiel": {
+							"Camion-Benne Militaire": "1"
+						}
+					}
+				},
+				"Peloton GEME": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Groupe Electrogène Militaire Embarqué GEME-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Groupe Electrogène Militaire Embarqué": "1"
+						}
+					},
+					"Groupe Electrogène Militaire Embarqué GEME-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Groupe Electrogène Militaire Embarqué": "1"
+						}
+					}
+				},
+				"Peloton GMM": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Grue Militaire Motorisée GMM-1": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Grue Militaire Motorisée": "1"
+						}
+					},
+					"Grue Militaire Motorisée GMM-2": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Grue Militaire Motorisée": "1"
+						}
+					}
+				},
+				"Peloton Tractopelle": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Tractopelle Tr-1": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-2": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-3": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-4": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					}
+				},
+				"Peloton VMDE": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Véhicule Militaire de Dépollution d'Eau VMDE-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Militaire de Dépollution d'Eau": "1"
+						}
+					},
+					"Véhicule Militaire de Dépollution d'Eau VMDE-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Militaire de Dépollution d'Eau": "1"
+						}
+					}
+				},
+				"Peloton VPG": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Véhicule Polyvalent du Génie VPG-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Polyvalent du Génie": "1"
+						}
+					},
+					"Véhicule Polyvalent du Génie VPG-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Polyvalent du Génie": "1"
+						}
+					}
+				},
+				"Peloton Bétonnière": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Bétonnière Bé-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					},
+					"Bétonnière Bé-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					},
+					"Bétonnière Bé-3": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					}
+				}
+			},
+			"2e Section": {
+				"liste_militaire": "1",
+				"type_orga": "10",
+				"Pont Auto-Moteur": {
+					"liste_militaire": "5",
+					"type_orga": "11",
+					"materiel": {
+						"Pont Auto-Moteur": "1"
+					}
+				},
+				"Peloton de Transport de Matériel": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Camion de Transport de Matériel CTM-1": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-2": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-3": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-4": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					}
+				},
+				"Peloton CBM": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Camion-benne Militaire CBM-1": {
+						"liste_militaire": "2",
+						"type_orga": "12",
+						"materiel": {
+							"Camion-Benne Militaire": "1"
+						}
+					},
+					"Camion-benne Militaire CBM-2": {
+						"liste_militaire": "2",
+						"type_orga": "12",
+						"materiel": {
+							"Camion-Benne Militaire": "1"
+						}
+					}
+				},
+				"Peloton GEME": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Groupe Electrogène Militaire Embarqué GEME-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Groupe Electrogène Militaire Embarqué": "1"
+						}
+					},
+					"Groupe Electrogène Militaire Embarqué GEME-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Groupe Electrogène Militaire Embarqué": "1"
+						}
+					}
+				},
+				"Peloton GMM": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Grue Militaire Motorisée GMM-1": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Grue Militaire Motorisée": "1"
+						}
+					},
+					"Grue Militaire Motorisée GMM-2": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Grue Militaire Motorisée": "1"
+						}
+					}
+				},
+				"Peloton Tractopelle": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Tractopelle Tr-1": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-2": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-3": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-4": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					}
+				},
+				"Peloton VMDE": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Véhicule Militaire de Dépollution d'Eau VMDE-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Militaire de Dépollution d'Eau": "1"
+						}
+					},
+					"Véhicule Militaire de Dépollution d'Eau VMDE-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Militaire de Dépollution d'Eau": "1"
+						}
+					}
+				},
+				"Peloton VPG": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Véhicule Polyvalent du Génie VPG-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Polyvalent du Génie": "1"
+						}
+					},
+					"Véhicule Polyvalent du Génie VPG-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Polyvalent du Génie": "1"
+						}
+					}
+				},
+				"Peloton Bétonnière": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Bétonnière Bé-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					},
+					"Bétonnière Bé-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					},
+					"Bétonnière Bé-3": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					}
+				}
+			}
+		},
+		"4e Compagnie": {
+			"liste_militaire": "1",
+			"type_orga": "9",
+			"1ere Section": {
+				"liste_militaire": "1",
+				"type_orga": "10",
+				"Pont Auto-Moteur": {
+					"liste_militaire": "5",
+					"type_orga": "11",
+					"materiel": {
+						"Pont Auto-Moteur": "1"
+					}
+				},
+				"Peloton de Transport de Matériel": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Camion de Transport de Matériel CTM-1": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-2": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-3": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-4": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					}
+				},
+				"Peloton CBM": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Camion-benne Militaire CBM-1": {
+						"liste_militaire": "2",
+						"type_orga": "12",
+						"materiel": {
+							"Camion-Benne Militaire": "1"
+						}
+					},
+					"Camion-benne Militaire CBM-2": {
+						"liste_militaire": "2",
+						"type_orga": "12",
+						"materiel": {
+							"Camion-Benne Militaire": "1"
+						}
+					}
+				},
+				"Peloton GEME": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Groupe Electrogène Militaire Embarqué GEME-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Groupe Electrogène Militaire Embarqué": "1"
+						}
+					},
+					"Groupe Electrogène Militaire Embarqué GEME-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Groupe Electrogène Militaire Embarqué": "1"
+						}
+					}
+				},
+				"Peloton GMM": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Grue Militaire Motorisée GMM-1": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Grue Militaire Motorisée": "1"
+						}
+					},
+					"Grue Militaire Motorisée GMM-2": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Grue Militaire Motorisée": "1"
+						}
+					}
+				},
+				"Peloton Tractopelle": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Tractopelle Tr-1": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-2": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-3": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-4": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					}
+				},
+				"Peloton VMDE": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Véhicule Militaire de Dépollution d'Eau VMDE-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Militaire de Dépollution d'Eau": "1"
+						}
+					},
+					"Véhicule Militaire de Dépollution d'Eau VMDE-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Militaire de Dépollution d'Eau": "1"
+						}
+					}
+				},
+				"Peloton VPG": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Véhicule Polyvalent du Génie VPG-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Polyvalent du Génie": "1"
+						}
+					},
+					"Véhicule Polyvalent du Génie VPG-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Polyvalent du Génie": "1"
+						}
+					}
+				},
+				"Peloton Bétonnière": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Bétonnière Bé-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					},
+					"Bétonnière Bé-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					},
+					"Bétonnière Bé-3": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					}
+				}
+			},
+			"2e Section": {
+				"liste_militaire": "1",
+				"type_orga": "10",
+				"Pont Auto-Moteur": {
+					"liste_militaire": "5",
+					"type_orga": "11",
+					"materiel": {
+						"Pont Auto-Moteur": "1"
+					}
+				},
+				"Peloton de Transport de Matériel": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Camion de Transport de Matériel CTM-1": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-2": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-3": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-4": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					}
+				},
+				"Peloton CBM": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Camion-benne Militaire CBM-1": {
+						"liste_militaire": "2",
+						"type_orga": "12",
+						"materiel": {
+							"Camion-Benne Militaire": "1"
+						}
+					},
+					"Camion-benne Militaire CBM-2": {
+						"liste_militaire": "2",
+						"type_orga": "12",
+						"materiel": {
+							"Camion-Benne Militaire": "1"
+						}
+					}
+				},
+				"Peloton GEME": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Groupe Electrogène Militaire Embarqué GEME-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Groupe Electrogène Militaire Embarqué": "1"
+						}
+					},
+					"Groupe Electrogène Militaire Embarqué GEME-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Groupe Electrogène Militaire Embarqué": "1"
+						}
+					}
+				},
+				"Peloton GMM": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Grue Militaire Motorisée GMM-1": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Grue Militaire Motorisée": "1"
+						}
+					},
+					"Grue Militaire Motorisée GMM-2": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Grue Militaire Motorisée": "1"
+						}
+					}
+				},
+				"Peloton Tractopelle": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Tractopelle Tr-1": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-2": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-3": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-4": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					}
+				},
+				"Peloton VMDE": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Véhicule Militaire de Dépollution d'Eau VMDE-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Militaire de Dépollution d'Eau": "1"
+						}
+					},
+					"Véhicule Militaire de Dépollution d'Eau VMDE-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Militaire de Dépollution d'Eau": "1"
+						}
+					}
+				},
+				"Peloton VPG": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Véhicule Polyvalent du Génie VPG-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Polyvalent du Génie": "1"
+						}
+					},
+					"Véhicule Polyvalent du Génie VPG-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Polyvalent du Génie": "1"
+						}
+					}
+				},
+				"Peloton Bétonnière": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Bétonnière Bé-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					},
+					"Bétonnière Bé-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					},
+					"Bétonnière Bé-3": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					}
+				}
+			}
+		},
+		"5e Compagnie": {
+			"liste_militaire": "1",
+			"type_orga": "9",
+			"1ere Section": {
+				"liste_militaire": "1",
+				"type_orga": "10",
+				"Pont Auto-Moteur": {
+					"liste_militaire": "5",
+					"type_orga": "11",
+					"materiel": {
+						"Pont Auto-Moteur": "1"
+					}
+				},
+				"Peloton de Transport de Matériel": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Camion de Transport de Matériel CTM-1": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-2": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-3": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-4": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					}
+				},
+				"Peloton CBM": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Camion-benne Militaire CBM-1": {
+						"liste_militaire": "2",
+						"type_orga": "12",
+						"materiel": {
+							"Camion-Benne Militaire": "1"
+						}
+					},
+					"Camion-benne Militaire CBM-2": {
+						"liste_militaire": "2",
+						"type_orga": "12",
+						"materiel": {
+							"Camion-Benne Militaire": "1"
+						}
+					}
+				},
+				"Peloton GEME": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Groupe Electrogène Militaire Embarqué GEME-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Groupe Electrogène Militaire Embarqué": "1"
+						}
+					},
+					"Groupe Electrogène Militaire Embarqué GEME-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Groupe Electrogène Militaire Embarqué": "1"
+						}
+					}
+				},
+				"Peloton GMM": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Grue Militaire Motorisée GMM-1": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Grue Militaire Motorisée": "1"
+						}
+					},
+					"Grue Militaire Motorisée GMM-2": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Grue Militaire Motorisée": "1"
+						}
+					}
+				},
+				"Peloton Tractopelle": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Tractopelle Tr-1": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-2": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-3": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-4": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					}
+				},
+				"Peloton VMDE": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Véhicule Militaire de Dépollution d'Eau VMDE-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Militaire de Dépollution d'Eau": "1"
+						}
+					},
+					"Véhicule Militaire de Dépollution d'Eau VMDE-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Militaire de Dépollution d'Eau": "1"
+						}
+					}
+				},
+				"Peloton VPG": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Véhicule Polyvalent du Génie VPG-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Polyvalent du Génie": "1"
+						}
+					},
+					"Véhicule Polyvalent du Génie VPG-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Polyvalent du Génie": "1"
+						}
+					}
+				},
+				"Peloton Bétonnière": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Bétonnière Bé-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					},
+					"Bétonnière Bé-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					},
+					"Bétonnière Bé-3": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					}
+				}
+			},
+			"2e Section": {
+				"liste_militaire": "1",
+				"type_orga": "10",
+				"Pont Auto-Moteur": {
+					"liste_militaire": "5",
+					"type_orga": "11",
+					"materiel": {
+						"Pont Auto-Moteur": "1"
+					}
+				},
+				"Peloton de Transport de Matériel": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Camion de Transport de Matériel CTM-1": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-2": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-3": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-4": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					}
+				},
+				"Peloton CBM": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Camion-benne Militaire CBM-1": {
+						"liste_militaire": "2",
+						"type_orga": "12",
+						"materiel": {
+							"Camion-Benne Militaire": "1"
+						}
+					},
+					"Camion-benne Militaire CBM-2": {
+						"liste_militaire": "2",
+						"type_orga": "12",
+						"materiel": {
+							"Camion-Benne Militaire": "1"
+						}
+					}
+				},
+				"Peloton GEME": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Groupe Electrogène Militaire Embarqué GEME-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Groupe Electrogène Militaire Embarqué": "1"
+						}
+					},
+					"Groupe Electrogène Militaire Embarqué GEME-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Groupe Electrogène Militaire Embarqué": "1"
+						}
+					}
+				},
+				"Peloton GMM": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Grue Militaire Motorisée GMM-1": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Grue Militaire Motorisée": "1"
+						}
+					},
+					"Grue Militaire Motorisée GMM-2": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Grue Militaire Motorisée": "1"
+						}
+					}
+				},
+				"Peloton Tractopelle": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Tractopelle Tr-1": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-2": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-3": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-4": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					}
+				},
+				"Peloton VMDE": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Véhicule Militaire de Dépollution d'Eau VMDE-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Militaire de Dépollution d'Eau": "1"
+						}
+					},
+					"Véhicule Militaire de Dépollution d'Eau VMDE-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Militaire de Dépollution d'Eau": "1"
+						}
+					}
+				},
+				"Peloton VPG": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Véhicule Polyvalent du Génie VPG-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Polyvalent du Génie": "1"
+						}
+					},
+					"Véhicule Polyvalent du Génie VPG-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Polyvalent du Génie": "1"
+						}
+					}
+				},
+				"Peloton Bétonnière": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Bétonnière Bé-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					},
+					"Bétonnière Bé-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					},
+					"Bétonnière Bé-3": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					}
+				}
+			}
+		},
+		"6e Compagnie": {
+			"liste_militaire": "1",
+			"type_orga": "9",
+			"1ere Section": {
+				"liste_militaire": "1",
+				"type_orga": "10",
+				"Pont Auto-Moteur": {
+					"liste_militaire": "5",
+					"type_orga": "11",
+					"materiel": {
+						"Pont Auto-Moteur": "1"
+					}
+				},
+				"Peloton de Transport de Matériel": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Camion de Transport de Matériel CTM-1": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-2": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-3": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-4": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					}
+				},
+				"Peloton CBM": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Camion-benne Militaire CBM-1": {
+						"liste_militaire": "2",
+						"type_orga": "12",
+						"materiel": {
+							"Camion-Benne Militaire": "1"
+						}
+					},
+					"Camion-benne Militaire CBM-2": {
+						"liste_militaire": "2",
+						"type_orga": "12",
+						"materiel": {
+							"Camion-Benne Militaire": "1"
+						}
+					}
+				},
+				"Peloton GEME": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Groupe Electrogène Militaire Embarqué GEME-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Groupe Electrogène Militaire Embarqué": "1"
+						}
+					},
+					"Groupe Electrogène Militaire Embarqué GEME-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Groupe Electrogène Militaire Embarqué": "1"
+						}
+					}
+				},
+				"Peloton GMM": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Grue Militaire Motorisée GMM-1": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Grue Militaire Motorisée": "1"
+						}
+					},
+					"Grue Militaire Motorisée GMM-2": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Grue Militaire Motorisée": "1"
+						}
+					}
+				},
+				"Peloton Tractopelle": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Tractopelle Tr-1": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-2": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-3": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-4": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					}
+				},
+				"Peloton VMDE": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Véhicule Militaire de Dépollution d'Eau VMDE-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Militaire de Dépollution d'Eau": "1"
+						}
+					},
+					"Véhicule Militaire de Dépollution d'Eau VMDE-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Militaire de Dépollution d'Eau": "1"
+						}
+					}
+				},
+				"Peloton VPG": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Véhicule Polyvalent du Génie VPG-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Polyvalent du Génie": "1"
+						}
+					},
+					"Véhicule Polyvalent du Génie VPG-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Polyvalent du Génie": "1"
+						}
+					}
+				},
+				"Peloton Bétonnière": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Bétonnière Bé-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					},
+					"Bétonnière Bé-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					},
+					"Bétonnière Bé-3": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					}
+				}
+			},
+			"2e Section": {
+				"liste_militaire": "1",
+				"type_orga": "10",
+				"Pont Auto-Moteur": {
+					"liste_militaire": "5",
+					"type_orga": "11",
+					"materiel": {
+						"Pont Auto-Moteur": "1"
+					}
+				},
+				"Peloton de Transport de Matériel": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Camion de Transport de Matériel CTM-1": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-2": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-3": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-4": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					}
+				},
+				"Peloton CBM": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Camion-benne Militaire CBM-1": {
+						"liste_militaire": "2",
+						"type_orga": "12",
+						"materiel": {
+							"Camion-Benne Militaire": "1"
+						}
+					},
+					"Camion-benne Militaire CBM-2": {
+						"liste_militaire": "2",
+						"type_orga": "12",
+						"materiel": {
+							"Camion-Benne Militaire": "1"
+						}
+					}
+				},
+				"Peloton GEME": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Groupe Electrogène Militaire Embarqué GEME-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Groupe Electrogène Militaire Embarqué": "1"
+						}
+					},
+					"Groupe Electrogène Militaire Embarqué GEME-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Groupe Electrogène Militaire Embarqué": "1"
+						}
+					}
+				},
+				"Peloton GMM": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Grue Militaire Motorisée GMM-1": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Grue Militaire Motorisée": "1"
+						}
+					},
+					"Grue Militaire Motorisée GMM-2": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Grue Militaire Motorisée": "1"
+						}
+					}
+				},
+				"Peloton Tractopelle": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Tractopelle Tr-1": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-2": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-3": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-4": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					}
+				},
+				"Peloton VMDE": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Véhicule Militaire de Dépollution d'Eau VMDE-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Militaire de Dépollution d'Eau": "1"
+						}
+					},
+					"Véhicule Militaire de Dépollution d'Eau VMDE-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Militaire de Dépollution d'Eau": "1"
+						}
+					}
+				},
+				"Peloton VPG": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Véhicule Polyvalent du Génie VPG-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Polyvalent du Génie": "1"
+						}
+					},
+					"Véhicule Polyvalent du Génie VPG-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Polyvalent du Génie": "1"
+						}
+					}
+				},
+				"Peloton Bétonnière": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Bétonnière Bé-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					},
+					"Bétonnière Bé-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					},
+					"Bétonnière Bé-3": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					}
+				}
+			}
+		},
+		"7e Compagnie": {
+			"liste_militaire": "1",
+			"type_orga": "9",
+			"1ere Section": {
+				"liste_militaire": "1",
+				"type_orga": "10",
+				"Pont Auto-Moteur": {
+					"liste_militaire": "5",
+					"type_orga": "11",
+					"materiel": {
+						"Pont Auto-Moteur": "1"
+					}
+				},
+				"Peloton de Transport de Matériel": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Camion de Transport de Matériel CTM-1": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-2": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-3": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-4": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					}
+				},
+				"Peloton CBM": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Camion-benne Militaire CBM-1": {
+						"liste_militaire": "2",
+						"type_orga": "12",
+						"materiel": {
+							"Camion-Benne Militaire": "1"
+						}
+					},
+					"Camion-benne Militaire CBM-2": {
+						"liste_militaire": "2",
+						"type_orga": "12",
+						"materiel": {
+							"Camion-Benne Militaire": "1"
+						}
+					}
+				},
+				"Peloton GEME": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Groupe Electrogène Militaire Embarqué GEME-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Groupe Electrogène Militaire Embarqué": "1"
+						}
+					},
+					"Groupe Electrogène Militaire Embarqué GEME-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Groupe Electrogène Militaire Embarqué": "1"
+						}
+					}
+				},
+				"Peloton GMM": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Grue Militaire Motorisée GMM-1": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Grue Militaire Motorisée": "1"
+						}
+					},
+					"Grue Militaire Motorisée GMM-2": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Grue Militaire Motorisée": "1"
+						}
+					}
+				},
+				"Peloton Tractopelle": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Tractopelle Tr-1": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-2": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-3": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-4": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					}
+				},
+				"Peloton VMDE": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Véhicule Militaire de Dépollution d'Eau VMDE-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Militaire de Dépollution d'Eau": "1"
+						}
+					},
+					"Véhicule Militaire de Dépollution d'Eau VMDE-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Militaire de Dépollution d'Eau": "1"
+						}
+					}
+				},
+				"Peloton VPG": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Véhicule Polyvalent du Génie VPG-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Polyvalent du Génie": "1"
+						}
+					},
+					"Véhicule Polyvalent du Génie VPG-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Polyvalent du Génie": "1"
+						}
+					}
+				},
+				"Peloton Bétonnière": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Bétonnière Bé-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					},
+					"Bétonnière Bé-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					},
+					"Bétonnière Bé-3": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					}
+				}
+			},
+			"2e Section": {
+				"liste_militaire": "1",
+				"type_orga": "10",
+				"Pont Auto-Moteur": {
+					"liste_militaire": "5",
+					"type_orga": "11",
+					"materiel": {
+						"Pont Auto-Moteur": "1"
+					}
+				},
+				"Peloton de Transport de Matériel": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Camion de Transport de Matériel CTM-1": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-2": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-3": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-4": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					}
+				},
+				"Peloton CBM": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Camion-benne Militaire CBM-1": {
+						"liste_militaire": "2",
+						"type_orga": "12",
+						"materiel": {
+							"Camion-Benne Militaire": "1"
+						}
+					},
+					"Camion-benne Militaire CBM-2": {
+						"liste_militaire": "2",
+						"type_orga": "12",
+						"materiel": {
+							"Camion-Benne Militaire": "1"
+						}
+					}
+				},
+				"Peloton GEME": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Groupe Electrogène Militaire Embarqué GEME-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Groupe Electrogène Militaire Embarqué": "1"
+						}
+					},
+					"Groupe Electrogène Militaire Embarqué GEME-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Groupe Electrogène Militaire Embarqué": "1"
+						}
+					}
+				},
+				"Peloton GMM": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Grue Militaire Motorisée GMM-1": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Grue Militaire Motorisée": "1"
+						}
+					},
+					"Grue Militaire Motorisée GMM-2": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Grue Militaire Motorisée": "1"
+						}
+					}
+				},
+				"Peloton Tractopelle": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Tractopelle Tr-1": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-2": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-3": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-4": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					}
+				},
+				"Peloton VMDE": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Véhicule Militaire de Dépollution d'Eau VMDE-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Militaire de Dépollution d'Eau": "1"
+						}
+					},
+					"Véhicule Militaire de Dépollution d'Eau VMDE-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Militaire de Dépollution d'Eau": "1"
+						}
+					}
+				},
+				"Peloton VPG": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Véhicule Polyvalent du Génie VPG-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Polyvalent du Génie": "1"
+						}
+					},
+					"Véhicule Polyvalent du Génie VPG-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Polyvalent du Génie": "1"
+						}
+					}
+				},
+				"Peloton Bétonnière": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Bétonnière Bé-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					},
+					"Bétonnière Bé-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					},
+					"Bétonnière Bé-3": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					}
+				}
+			}
+		},
+		"8e Compagnie": {
+			"liste_militaire": "1",
+			"type_orga": "9",
+			"1ere Section": {
+				"liste_militaire": "1",
+				"type_orga": "10",
+				"Pont Auto-Moteur": {
+					"liste_militaire": "5",
+					"type_orga": "11",
+					"materiel": {
+						"Pont Auto-Moteur": "1"
+					}
+				},
+				"Peloton de Transport de Matériel": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Camion de Transport de Matériel CTM-1": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-2": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-3": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-4": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					}
+				},
+				"Peloton CBM": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Camion-benne Militaire CBM-1": {
+						"liste_militaire": "2",
+						"type_orga": "12",
+						"materiel": {
+							"Camion-Benne Militaire": "1"
+						}
+					},
+					"Camion-benne Militaire CBM-2": {
+						"liste_militaire": "2",
+						"type_orga": "12",
+						"materiel": {
+							"Camion-Benne Militaire": "1"
+						}
+					}
+				},
+				"Peloton GEME": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Groupe Electrogène Militaire Embarqué GEME-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Groupe Electrogène Militaire Embarqué": "1"
+						}
+					},
+					"Groupe Electrogène Militaire Embarqué GEME-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Groupe Electrogène Militaire Embarqué": "1"
+						}
+					}
+				},
+				"Peloton GMM": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Grue Militaire Motorisée GMM-1": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Grue Militaire Motorisée": "1"
+						}
+					},
+					"Grue Militaire Motorisée GMM-2": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Grue Militaire Motorisée": "1"
+						}
+					}
+				},
+				"Peloton Tractopelle": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Tractopelle Tr-1": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-2": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-3": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-4": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					}
+				},
+				"Peloton VMDE": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Véhicule Militaire de Dépollution d'Eau VMDE-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Militaire de Dépollution d'Eau": "1"
+						}
+					},
+					"Véhicule Militaire de Dépollution d'Eau VMDE-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Militaire de Dépollution d'Eau": "1"
+						}
+					}
+				},
+				"Peloton VPG": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Véhicule Polyvalent du Génie VPG-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Polyvalent du Génie": "1"
+						}
+					},
+					"Véhicule Polyvalent du Génie VPG-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Polyvalent du Génie": "1"
+						}
+					}
+				},
+				"Peloton Bétonnière": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Bétonnière Bé-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					},
+					"Bétonnière Bé-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					},
+					"Bétonnière Bé-3": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					}
+				}
+			},
+			"2e Section": {
+				"liste_militaire": "1",
+				"type_orga": "10",
+				"Pont Auto-Moteur": {
+					"liste_militaire": "5",
+					"type_orga": "11",
+					"materiel": {
+						"Pont Auto-Moteur": "1"
+					}
+				},
+				"Peloton de Transport de Matériel": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Camion de Transport de Matériel CTM-1": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-2": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-3": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-4": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					}
+				},
+				"Peloton CBM": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Camion-benne Militaire CBM-1": {
+						"liste_militaire": "2",
+						"type_orga": "12",
+						"materiel": {
+							"Camion-Benne Militaire": "1"
+						}
+					},
+					"Camion-benne Militaire CBM-2": {
+						"liste_militaire": "2",
+						"type_orga": "12",
+						"materiel": {
+							"Camion-Benne Militaire": "1"
+						}
+					}
+				},
+				"Peloton GEME": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Groupe Electrogène Militaire Embarqué GEME-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Groupe Electrogène Militaire Embarqué": "1"
+						}
+					},
+					"Groupe Electrogène Militaire Embarqué GEME-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Groupe Electrogène Militaire Embarqué": "1"
+						}
+					}
+				},
+				"Peloton GMM": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Grue Militaire Motorisée GMM-1": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Grue Militaire Motorisée": "1"
+						}
+					},
+					"Grue Militaire Motorisée GMM-2": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Grue Militaire Motorisée": "1"
+						}
+					}
+				},
+				"Peloton Tractopelle": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Tractopelle Tr-1": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-2": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-3": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-4": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					}
+				},
+				"Peloton VMDE": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Véhicule Militaire de Dépollution d'Eau VMDE-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Militaire de Dépollution d'Eau": "1"
+						}
+					},
+					"Véhicule Militaire de Dépollution d'Eau VMDE-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Militaire de Dépollution d'Eau": "1"
+						}
+					}
+				},
+				"Peloton VPG": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Véhicule Polyvalent du Génie VPG-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Polyvalent du Génie": "1"
+						}
+					},
+					"Véhicule Polyvalent du Génie VPG-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Polyvalent du Génie": "1"
+						}
+					}
+				},
+				"Peloton Bétonnière": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Bétonnière Bé-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					},
+					"Bétonnière Bé-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					},
+					"Bétonnière Bé-3": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					}
+				}
+			}
+		},
+		"9e Compagnie": {
+			"liste_militaire": "1",
+			"type_orga": "9",
+			"1ere Section": {
+				"liste_militaire": "1",
+				"type_orga": "10",
+				"Pont Auto-Moteur": {
+					"liste_militaire": "5",
+					"type_orga": "11",
+					"materiel": {
+						"Pont Auto-Moteur": "1"
+					}
+				},
+				"Peloton de Transport de Matériel": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Camion de Transport de Matériel CTM-1": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-2": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-3": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-4": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					}
+				},
+				"Peloton CBM": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Camion-benne Militaire CBM-1": {
+						"liste_militaire": "2",
+						"type_orga": "12",
+						"materiel": {
+							"Camion-Benne Militaire": "1"
+						}
+					},
+					"Camion-benne Militaire CBM-2": {
+						"liste_militaire": "2",
+						"type_orga": "12",
+						"materiel": {
+							"Camion-Benne Militaire": "1"
+						}
+					}
+				},
+				"Peloton GEME": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Groupe Electrogène Militaire Embarqué GEME-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Groupe Electrogène Militaire Embarqué": "1"
+						}
+					},
+					"Groupe Electrogène Militaire Embarqué GEME-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Groupe Electrogène Militaire Embarqué": "1"
+						}
+					}
+				},
+				"Peloton GMM": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Grue Militaire Motorisée GMM-1": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Grue Militaire Motorisée": "1"
+						}
+					},
+					"Grue Militaire Motorisée GMM-2": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Grue Militaire Motorisée": "1"
+						}
+					}
+				},
+				"Peloton Tractopelle": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Tractopelle Tr-1": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-2": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-3": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-4": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					}
+				},
+				"Peloton VMDE": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Véhicule Militaire de Dépollution d'Eau VMDE-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Militaire de Dépollution d'Eau": "1"
+						}
+					},
+					"Véhicule Militaire de Dépollution d'Eau VMDE-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Militaire de Dépollution d'Eau": "1"
+						}
+					}
+				},
+				"Peloton VPG": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Véhicule Polyvalent du Génie VPG-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Polyvalent du Génie": "1"
+						}
+					},
+					"Véhicule Polyvalent du Génie VPG-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Polyvalent du Génie": "1"
+						}
+					}
+				},
+				"Peloton Bétonnière": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Bétonnière Bé-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					},
+					"Bétonnière Bé-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					},
+					"Bétonnière Bé-3": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					}
+				}
+			},
+			"2e Section": {
+				"liste_militaire": "1",
+				"type_orga": "10",
+				"Pont Auto-Moteur": {
+					"liste_militaire": "5",
+					"type_orga": "11",
+					"materiel": {
+						"Pont Auto-Moteur": "1"
+					}
+				},
+				"Peloton de Transport de Matériel": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Camion de Transport de Matériel CTM-1": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-2": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-3": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-4": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					}
+				},
+				"Peloton CBM": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Camion-benne Militaire CBM-1": {
+						"liste_militaire": "2",
+						"type_orga": "12",
+						"materiel": {
+							"Camion-Benne Militaire": "1"
+						}
+					},
+					"Camion-benne Militaire CBM-2": {
+						"liste_militaire": "2",
+						"type_orga": "12",
+						"materiel": {
+							"Camion-Benne Militaire": "1"
+						}
+					}
+				},
+				"Peloton GEME": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Groupe Electrogène Militaire Embarqué GEME-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Groupe Electrogène Militaire Embarqué": "1"
+						}
+					},
+					"Groupe Electrogène Militaire Embarqué GEME-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Groupe Electrogène Militaire Embarqué": "1"
+						}
+					}
+				},
+				"Peloton GMM": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Grue Militaire Motorisée GMM-1": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Grue Militaire Motorisée": "1"
+						}
+					},
+					"Grue Militaire Motorisée GMM-2": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Grue Militaire Motorisée": "1"
+						}
+					}
+				},
+				"Peloton Tractopelle": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Tractopelle Tr-1": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-2": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-3": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-4": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					}
+				},
+				"Peloton VMDE": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Véhicule Militaire de Dépollution d'Eau VMDE-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Militaire de Dépollution d'Eau": "1"
+						}
+					},
+					"Véhicule Militaire de Dépollution d'Eau VMDE-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Militaire de Dépollution d'Eau": "1"
+						}
+					}
+				},
+				"Peloton VPG": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Véhicule Polyvalent du Génie VPG-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Polyvalent du Génie": "1"
+						}
+					},
+					"Véhicule Polyvalent du Génie VPG-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Polyvalent du Génie": "1"
+						}
+					}
+				},
+				"Peloton Bétonnière": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Bétonnière Bé-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					},
+					"Bétonnière Bé-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					},
+					"Bétonnière Bé-3": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					}
+				}
+			}
+		},
+		"10e Compagnie": {
+			"liste_militaire": "1",
+			"type_orga": "9",
+			"1ere Section": {
+				"liste_militaire": "1",
+				"type_orga": "10",
+				"Pont Auto-Moteur": {
+					"liste_militaire": "5",
+					"type_orga": "11",
+					"materiel": {
+						"Pont Auto-Moteur": "1"
+					}
+				},
+				"Peloton de Transport de Matériel": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Camion de Transport de Matériel CTM-1": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-2": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-3": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-4": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					}
+				},
+				"Peloton CBM": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Camion-benne Militaire CBM-1": {
+						"liste_militaire": "2",
+						"type_orga": "12",
+						"materiel": {
+							"Camion-Benne Militaire": "1"
+						}
+					},
+					"Camion-benne Militaire CBM-2": {
+						"liste_militaire": "2",
+						"type_orga": "12",
+						"materiel": {
+							"Camion-Benne Militaire": "1"
+						}
+					}
+				},
+				"Peloton GEME": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Groupe Electrogène Militaire Embarqué GEME-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Groupe Electrogène Militaire Embarqué": "1"
+						}
+					},
+					"Groupe Electrogène Militaire Embarqué GEME-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Groupe Electrogène Militaire Embarqué": "1"
+						}
+					}
+				},
+				"Peloton GMM": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Grue Militaire Motorisée GMM-1": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Grue Militaire Motorisée": "1"
+						}
+					},
+					"Grue Militaire Motorisée GMM-2": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Grue Militaire Motorisée": "1"
+						}
+					}
+				},
+				"Peloton Tractopelle": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Tractopelle Tr-1": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-2": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-3": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-4": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					}
+				},
+				"Peloton VMDE": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Véhicule Militaire de Dépollution d'Eau VMDE-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Militaire de Dépollution d'Eau": "1"
+						}
+					},
+					"Véhicule Militaire de Dépollution d'Eau VMDE-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Militaire de Dépollution d'Eau": "1"
+						}
+					}
+				},
+				"Peloton VPG": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Véhicule Polyvalent du Génie VPG-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Polyvalent du Génie": "1"
+						}
+					},
+					"Véhicule Polyvalent du Génie VPG-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Polyvalent du Génie": "1"
+						}
+					}
+				},
+				"Peloton Bétonnière": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Bétonnière Bé-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					},
+					"Bétonnière Bé-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					},
+					"Bétonnière Bé-3": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					}
+				}
+			},
+			"2e Section": {
+				"liste_militaire": "1",
+				"type_orga": "10",
+				"Pont Auto-Moteur": {
+					"liste_militaire": "5",
+					"type_orga": "11",
+					"materiel": {
+						"Pont Auto-Moteur": "1"
+					}
+				},
+				"Peloton de Transport de Matériel": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Camion de Transport de Matériel CTM-1": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-2": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-3": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion de Transport de Matériel CTM-4": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					}
+				},
+				"Peloton CBM": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Camion-benne Militaire CBM-1": {
+						"liste_militaire": "2",
+						"type_orga": "12",
+						"materiel": {
+							"Camion-Benne Militaire": "1"
+						}
+					},
+					"Camion-benne Militaire CBM-2": {
+						"liste_militaire": "2",
+						"type_orga": "12",
+						"materiel": {
+							"Camion-Benne Militaire": "1"
+						}
+					}
+				},
+				"Peloton GEME": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Groupe Electrogène Militaire Embarqué GEME-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Groupe Electrogène Militaire Embarqué": "1"
+						}
+					},
+					"Groupe Electrogène Militaire Embarqué GEME-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Groupe Electrogène Militaire Embarqué": "1"
+						}
+					}
+				},
+				"Peloton GMM": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Grue Militaire Motorisée GMM-1": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Grue Militaire Motorisée": "1"
+						}
+					},
+					"Grue Militaire Motorisée GMM-2": {
+						"liste_militaire": "4",
+						"type_orga": "12",
+						"materiel": {
+							"Grue Militaire Motorisée": "1"
+						}
+					}
+				},
+				"Peloton Tractopelle": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Tractopelle Tr-1": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-2": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-3": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					},
+					"Tractopelle Tr-4": {
+						"liste_militaire": "1",
+						"type_orga": "12",
+						"materiel": {
+							"Tractopelle": "1"
+						}
+					}
+				},
+				"Peloton VMDE": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Véhicule Militaire de Dépollution d'Eau VMDE-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Militaire de Dépollution d'Eau": "1"
+						}
+					},
+					"Véhicule Militaire de Dépollution d'Eau VMDE-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Militaire de Dépollution d'Eau": "1"
+						}
+					}
+				},
+				"Peloton VPG": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Véhicule Polyvalent du Génie VPG-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Polyvalent du Génie": "1"
+						}
+					},
+					"Véhicule Polyvalent du Génie VPG-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Véhicule Polyvalent du Génie": "1"
+						}
+					}
+				},
+				"Peloton Bétonnière": {
+					"liste_militaire": "1",
+					"type_orga": "11",
+					"Bétonnière Bé-1": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					},
+					"Bétonnière Bé-2": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					},
+					"Bétonnière Bé-3": {
+						"liste_militaire": "3",
+						"type_orga": "12",
+						"materiel": {
+							"Bétonnière": "1"
+						}
+					}
+				}
+			}
+		}
+	}
+}

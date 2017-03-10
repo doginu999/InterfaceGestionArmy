@@ -1,0 +1,50 @@
+{
+	"Bataillon aérien": {
+		"liste_militaire": "1",
+		"type_orga": "6",
+		"Hélicoptère Multi-Fonctions HMF-1": {
+			"liste_militaire": "8",
+			"type_orga": "7",
+			"materiel": {
+				"Hélicoptère Multi-Fonctions": "1"
+			}
+		},
+		"Hélicoptère Multi-Fonctions HMF-2": {
+			"liste_militaire": "8",
+			"type_orga": "7",
+			"materiel": {
+				"Hélicoptère Multi-Fonctions": "1"
+			}
+		},
+		"Hélicoptère Multi-Fonctions HMF-3": {
+			"liste_militaire": "8",
+			"type_orga": "7",
+			"materiel": {
+				"Hélicoptère Multi-Fonctions": "1"
+			}
+		},
+		"Hélicoptère Multi-Fonctions HMF-4": {
+			"liste_militaire": "8",
+			"type_orga": "7",
+			"materiel": {
+				"Hélicoptère Multi-Fonctions": "1"
+			}
+		}
+	},
+	"Bataillon d'enquête": {
+		"liste_militaire": "100",
+		"type_orga": "6",
+		"materiel": {
+			"SUV": "50"
+		}
+	},
+	"Bataillon d'intervention": {
+		"liste_militaire": "100",
+		"type_orga": "6",
+		"materiel": {
+			"SUV": "25",
+			"Camion policier d'intervention": "10",
+			"Véhicule policier d'assaut": "10"
+		}
+	}
+}

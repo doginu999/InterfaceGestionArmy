@@ -1,0 +1,83 @@
+{
+	"Cargo Maritime CM-1": {
+		"liste_militaire": "2",
+		"type_orga": "6",
+		"materiel": {
+			"Cargo": "1"
+		},
+		"Ilôt": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"Poste de Commandement": { "liste_militaire": "10", "type_orga": "8" },
+			"Propulsion": { "liste_militaire": "8", "type_orga": "8" }
+		},
+		"Vie et ressources": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"Maintenance": { "liste_militaire": "8", "type_orga": "8" },
+			"Compagnie médicale": { "liste_militaire": "2", "type_orga": "8" },
+			"Cuisine": { "liste_militaire": "8", "type_orga": "8" }
+		},
+		"Sécurité": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"Sécurité": { "liste_militaire": "16", "type_orga": "8" },
+			"Pompiers": { "liste_militaire": "10", "type_orga": "8" }
+		}
+	},
+	"Cargo Maritime CM-2": {
+		"liste_militaire": "2",
+		"type_orga": "6",
+		"materiel": {
+			"Cargo": "1"
+		},
+		"Ilôt": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"Poste de Commandement": { "liste_militaire": "10", "type_orga": "8" },
+			"Propulsion": { "liste_militaire": "8", "type_orga": "8" }
+		},
+		"Vie et ressources": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"Maintenance": { "liste_militaire": "8", "type_orga": "8" },
+			"Compagnie médicale": { "liste_militaire": "2", "type_orga": "8" },
+			"Cuisine": { "liste_militaire": "8", "type_orga": "8" }
+		},
+		"Sécurité": {
+			"liste_militaire": {
+				"nb": "1", "grade": "6", "sexe": "M", "nom": "Nom", "prenom": "Prénom", "age": "18", "naissance": "01/01/1992", "solde": "3800", "cmdt": "0",
+				"origine": "1"
+			},
+			"type_orga": "7",
+			"Sécurité": { "liste_militaire": "16", "type_orga": "8" },
+			"Pompiers": { "liste_militaire": "10", "type_orga": "8" }
+		}
+	},
+	"Cargo Maritime CM-3": {
+		"liste_militaire": "2",
+		"type_orga": "6",
+		"materiel": {
+			"Cargo": "1"
+		},
+		"Ilôt": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"Poste de Commandement": { "liste_militaire": "10", "type_orga": "8" },
+			"Propulsion": { "liste_militaire": "8", "type_orga": "8" }
+		},
+		"Vie et ressources": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"Maintenance": { "liste_militaire": "8", "type_orga": "8" },
+			"Compagnie médicale": { "liste_militaire": "2", "type_orga": "8" },
+			"Cuisine": { "liste_militaire": "8", "type_orga": "8" }
+		},
+		"Sécurité": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"Sécurité": { "liste_militaire": "16", "type_orga": "8" },
+			"Pompiers": { "liste_militaire": "10", "type_orga": "8" }
+		}
+	}
+}

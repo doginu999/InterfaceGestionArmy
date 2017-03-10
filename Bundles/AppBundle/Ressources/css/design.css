@@ -1,0 +1,77 @@
+body{ margin:auto; }
+a{ text-decoration:none; }
+a:visited{ color:blue; }
+
+#corps{
+    margin-top: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top:10px;
+    padding-bottom: 100px;
+    position:relative;
+    overflow:hidden;
+    background-color:#F5F5F5;
+    min-width:800px;
+}
+
+#form_conn{
+    margin-left:100px;
+    margin-top:30px;
+    width:600px;
+    padding-right:10px;
+    padding-left:30px;
+}
+
+#div_menu_left{
+    width:150px;
+    float:left;
+}
+
+#cadre_interface{
+    margin-left:30px;
+    float:left;
+}
+
+#liste_orga{
+    margin-top:20px;
+}
+
+#liste_organisation{
+    width:850px;
+    float:left;
+}
+
+#create_organisation{
+    width:300px;
+    float:right;
+    border:1px solid black;
+    padding:10px 10px 10px 10px;
+}
+
+#div_button_milit, #div_button_password, #div_button_orga, #div_button_immo{
+    padding-top:4px;
+}
+
+#div_button_liste_milit{
+    padding-bottom:4px;
+}
+
+#button_milit, #button_sup, #button_password, #button_orga, #button_immo, #button_liste_milit{
+    width:100%;
+}
+
+#prefix{
+    display:none;
+}
+
+#liste_militaire_orga, #liste_depense{
+    margin-top:30px;
+    margin-bottom:30px;
+}
+
+#entete_orga{
+    padding:5px 5px 5px 5px;
+    border:1px solid black;
+    margin-bottom:10px;
+    width:1200px;
+}

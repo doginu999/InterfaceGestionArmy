@@ -1,0 +1,2186 @@
+{
+	"1er Bataillon": {
+		"liste_militaire": "1",
+		"type_orga": "6",
+		"1er Escadron": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"1ere Batterie": {
+				"liste_militaire": "1",
+				"type_orga": "8",
+				"1ere Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "6",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de commandement": {
+							"liste_militaire": "9",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton Hummer": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Hummer HM-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-3": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Blindé VBAL-1": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-2": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-3": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de commandement": {
+							"liste_militaire": "9",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton Hummer": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Hummer HM-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-3": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Blindé VBAL-1": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-2": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-3": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						}
+					}
+				},
+				"2e Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "6",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de commandement": {
+							"liste_militaire": "9",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton Hummer": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Hummer HM-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-3": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Blindé VBAL-1": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-2": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-3": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de commandement": {
+							"liste_militaire": "9",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton Hummer": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Hummer HM-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-3": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Blindé VBAL-1": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-2": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-3": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						}
+					}
+				}
+			},
+			"2e Batterie": {
+				"liste_militaire": "1",
+				"type_orga": "8",
+				"1ere Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "6",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de commandement": {
+							"liste_militaire": "9",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton Hummer": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Hummer HM-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-3": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Blindé VBAL-1": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-2": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-3": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de commandement": {
+							"liste_militaire": "9",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton Hummer": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Hummer HM-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-3": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Blindé VBAL-1": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-2": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-3": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						}
+					}
+				},
+				"2e Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "6",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de commandement": {
+							"liste_militaire": "9",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton Hummer": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Hummer HM-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-3": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Blindé VBAL-1": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-2": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-3": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de commandement": {
+							"liste_militaire": "9",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton Hummer": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Hummer HM-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-3": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Blindé VBAL-1": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-2": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-3": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						}
+					}
+				}
+			}
+		},
+		"2e Escadron": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"1ere Batterie": {
+				"liste_militaire": "1",
+				"type_orga": "8",
+				"1ere Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "6",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de commandement": {
+							"liste_militaire": "9",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton Hummer": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Hummer HM-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-3": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Blindé VBAL-1": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-2": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-3": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de commandement": {
+							"liste_militaire": "9",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton Hummer": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Hummer HM-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-3": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Blindé VBAL-1": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-2": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-3": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						}
+					}
+				},
+				"2e Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "6",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de commandement": {
+							"liste_militaire": "9",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton Hummer": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Hummer HM-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-3": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Blindé VBAL-1": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-2": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-3": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de commandement": {
+							"liste_militaire": "9",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton Hummer": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Hummer HM-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-3": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Blindé VBAL-1": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-2": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-3": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						}
+					}
+				}
+			},
+			"2e Batterie": {
+				"liste_militaire": "1",
+				"type_orga": "8",
+				"1ere Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "6",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de commandement": {
+							"liste_militaire": "9",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton Hummer": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Hummer HM-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-3": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Blindé VBAL-1": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-2": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-3": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de commandement": {
+							"liste_militaire": "9",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton Hummer": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Hummer HM-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-3": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Blindé VBAL-1": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-2": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-3": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						}
+					}
+				},
+				"2e Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "6",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de commandement": {
+							"liste_militaire": "9",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton Hummer": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Hummer HM-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-3": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Blindé VBAL-1": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-2": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-3": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de commandement": {
+							"liste_militaire": "9",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton Hummer": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Hummer HM-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-3": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Blindé VBAL-1": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-2": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-3": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	},
+	"2e Bataillon": {
+		"liste_militaire": "1",
+		"type_orga": "6",
+		"1er Escadron": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"1ere Batterie": {
+				"liste_militaire": "1",
+				"type_orga": "8",
+				"1ere Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "6",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de commandement": {
+							"liste_militaire": "9",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton Hummer": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Hummer HM-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-3": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Blindé VBAL-1": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-2": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-3": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de commandement": {
+							"liste_militaire": "9",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton Hummer": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Hummer HM-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-3": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Blindé VBAL-1": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-2": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-3": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						}
+					}
+				},
+				"2e Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "6",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de commandement": {
+							"liste_militaire": "9",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton Hummer": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Hummer HM-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-3": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Blindé VBAL-1": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-2": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-3": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de commandement": {
+							"liste_militaire": "9",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton Hummer": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Hummer HM-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-3": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Blindé VBAL-1": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-2": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-3": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						}
+					}
+				}
+			},
+			"2e Batterie": {
+				"liste_militaire": "1",
+				"type_orga": "8",
+				"1ere Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "6",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de commandement": {
+							"liste_militaire": "9",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton Hummer": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Hummer HM-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-3": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Blindé VBAL-1": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-2": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-3": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de commandement": {
+							"liste_militaire": "9",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton Hummer": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Hummer HM-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-3": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Blindé VBAL-1": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-2": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-3": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						}
+					}
+				},
+				"2e Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "6",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de commandement": {
+							"liste_militaire": "9",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton Hummer": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Hummer HM-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-3": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Blindé VBAL-1": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-2": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-3": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de commandement": {
+							"liste_militaire": "9",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton Hummer": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Hummer HM-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-3": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Blindé VBAL-1": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-2": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-3": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						}
+					}
+				}
+			}
+		},
+		"2e Escadron": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"1ere Batterie": {
+				"liste_militaire": "1",
+				"type_orga": "8",
+				"1ere Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "6",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de commandement": {
+							"liste_militaire": "9",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton Hummer": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Hummer HM-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-3": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Blindé VBAL-1": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-2": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-3": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de commandement": {
+							"liste_militaire": "9",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton Hummer": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Hummer HM-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-3": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Blindé VBAL-1": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-2": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-3": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						}
+					}
+				},
+				"2e Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "6",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de commandement": {
+							"liste_militaire": "9",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton Hummer": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Hummer HM-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-3": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Blindé VBAL-1": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-2": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-3": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de commandement": {
+							"liste_militaire": "9",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton Hummer": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Hummer HM-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-3": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Blindé VBAL-1": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-2": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-3": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						}
+					}
+				}
+			},
+			"2e Batterie": {
+				"liste_militaire": "1",
+				"type_orga": "8",
+				"1ere Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "6",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de commandement": {
+							"liste_militaire": "9",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton Hummer": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Hummer HM-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-3": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Blindé VBAL-1": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-2": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-3": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de commandement": {
+							"liste_militaire": "9",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton Hummer": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Hummer HM-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-3": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Blindé VBAL-1": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-2": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-3": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						}
+					}
+				},
+				"2e Compagnie": {
+					"liste_militaire": "1",
+					"type_orga": "9",
+					"Section de Transmissions": {
+						"liste_militaire": "4",
+						"type_orga": "6",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"1ere Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de commandement": {
+							"liste_militaire": "9",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton Hummer": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Hummer HM-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-3": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Blindé VBAL-1": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-2": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-3": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						}
+					},
+					"2e Section": {
+						"liste_militaire": "1",
+						"type_orga": "10",
+						"Peloton de commandement": {
+							"liste_militaire": "9",
+							"type_orga": "11",
+							"materiel": {
+								"Camion de Transport de Troupes": "1"
+							}
+						},
+						"Peloton Hummer": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Hummer HM-1": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-2": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							},
+							"Hummer HM-3": {
+								"liste_militaire": "5",
+								"type_orga": "12",
+								"materiel": {
+									"Hummer": "1"
+								}
+							}
+						},
+						"Peloton VBAL": {
+							"liste_militaire": "1",
+							"type_orga": "11",
+							"Blindé VBAL-1": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-2": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							},
+							"Blindé VBAL-3": {
+								"liste_militaire": "8",
+								"type_orga": "12",
+								"materiel": {
+									"Véhicule Blindé à Armement Léger": "1"
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}

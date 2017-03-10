@@ -1,0 +1,35 @@
+{
+	"materiel": {
+		"Bâtiment de Commandement Avancé": "1"
+	},
+	"Ilôt": {
+		"liste_militaire": "1",
+		"type_orga": "6",
+		"Poste de Commandement": { "liste_militaire": "10", "type_orga": "7" },
+		"Radar": { "liste_militaire": "6", "type_orga": "7" },
+		"Propulsion et Systèmes Vitaux": { "liste_militaire": "6", "type_orga": "7" },
+		"Renseignement embarqué": { "liste_militaire": "20", "type_orga": "7" }
+	},
+	"Vie et ressources": {
+		"liste_militaire": "1",
+		"type_orga": "6",
+		"Maintenance": { "liste_militaire": "20", "type_orga": "7" },
+		"Compagnie médicale": { "liste_militaire": "10", "type_orga": "7" },
+		"Cuisine": { "liste_militaire": "20", "type_orga": "7" }
+	},
+	"Sécurité, hangar et pont d'envol": {
+		"liste_militaire": "1",
+		"type_orga": "6",
+		"Sécurité": { "liste_militaire": "30", "type_orga": "7" },
+		"Pompiers": { "liste_militaire": "30", "type_orga": "7" },
+		"Ravitaillement": { "liste_militaire": "5", "type_orga": "7" },
+		"Pont d'envol": { "liste_militaire": "8", "type_orga": "7" }
+	},
+	"Hélicoptère Multi-Fonctions HMF-1": {
+		"type_orga": "6",
+		"liste_militaire": "8",
+		"materiel": {
+			"Hélicoptère Multi-Fonctions": "1"
+		}
+	}
+}

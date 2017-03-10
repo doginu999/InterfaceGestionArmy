@@ -1,0 +1,836 @@
+{
+	"Bataillon ABRS": {
+		"liste_militaire": "1",
+		"type_orga": "6",
+		"Avion Bi-Réacteur de Soutien ABRS-1": {
+			"liste_militaire": "7",
+			"type_orga": "7",
+			"materiel": {
+				"Avion Bi-Réacteur de Soutien": "1"
+			}
+		},
+		"Avion Bi-Réacteur de Soutien ABRS-2": {
+			"liste_militaire": "7",
+			"type_orga": "7",
+			"materiel": {
+				"Avion Bi-Réacteur de Soutien": "1"
+			}
+		},
+		"Avion Bi-Réacteur de Soutien ABRS-3": {
+			"liste_militaire": "7",
+			"type_orga": "7",
+			"materiel": {
+				"Avion Bi-Réacteur de Soutien": "1"
+			}
+		},
+		"Avion Bi-Réacteur de Soutien ABRS-4": {
+			"liste_militaire": "7",
+			"type_orga": "7",
+			"materiel": {
+				"Avion Bi-Réacteur de Soutien": "1"
+			}
+		},
+		"Avion Bi-Réacteur de Soutien ABRS-5": {
+			"liste_militaire": "7",
+			"type_orga": "7",
+			"materiel": {
+				"Avion Bi-Réacteur de Soutien": "1"
+			}
+		},
+		"Avion Bi-Réacteur de Soutien ABRS-6": {
+			"liste_militaire": "7",
+			"type_orga": "7",
+			"materiel": {
+				"Avion Bi-Réacteur de Soutien": "1"
+			}
+		},
+		"Avion Bi-Réacteur de Soutien ABRS-7": {
+			"liste_militaire": "7",
+			"type_orga": "7",
+			"materiel": {
+				"Avion Bi-Réacteur de Soutien": "1"
+			}
+		},
+		"Avion Bi-Réacteur de Soutien ABRS-8": {
+			"liste_militaire": "7",
+			"type_orga": "7",
+			"materiel": {
+				"Avion Bi-Réacteur de Soutien": "1"
+			}
+		},
+		"Avion Bi-Réacteur de Soutien ABRS-9": {
+			"liste_militaire": "7",
+			"type_orga": "7",
+			"materiel": {
+				"Avion Bi-Réacteur de Soutien": "1"
+			}
+		},
+		"Avion Bi-Réacteur de Soutien ABRS-10": {
+			"liste_militaire": "7",
+			"type_orga": "7",
+			"materiel": {
+				"Avion Bi-Réacteur de Soutien": "1"
+			}
+		}
+	},
+	"Bataillon Faucon": {
+		"liste_militaire": "1",
+		"type_orga": "6",
+		"Hélicoptère d'Attaque Faucon HAF-1": {
+			"liste_militaire": "8",
+			"type_orga": "7",
+			"materiel": {
+				"Hélicoptère d'attaque Faucon": "1"
+			}
+		},
+		"Hélicoptère d'Attaque Faucon HAF-2": {
+			"liste_militaire": "8",
+			"type_orga": "7",
+			"materiel": {
+				"Hélicoptère d'attaque Faucon": "1"
+			}
+		},
+		"Hélicoptère d'Attaque Faucon HAF-3": {
+			"liste_militaire": "8",
+			"type_orga": "7",
+			"materiel": {
+				"Hélicoptère d'attaque Faucon": "1"
+			}
+		},
+		"Hélicoptère d'Attaque Faucon HAF-4": {
+			"liste_militaire": "8",
+			"type_orga": "7",
+			"materiel": {
+				"Hélicoptère d'attaque Faucon": "1"
+			}
+		},
+		"Hélicoptère d'Attaque Faucon HAF-5": {
+			"liste_militaire": "8",
+			"type_orga": "7",
+			"materiel": {
+				"Hélicoptère d'attaque Faucon": "1"
+			}
+		},
+		"Hélicoptère d'Attaque Faucon HAF-6": {
+			"liste_militaire": "8",
+			"type_orga": "7",
+			"materiel": {
+				"Hélicoptère d'attaque Faucon": "1"
+			}
+		},
+		"Hélicoptère d'Attaque Faucon HAF-7": {
+			"liste_militaire": "8",
+			"type_orga": "7",
+			"materiel": {
+				"Hélicoptère d'attaque Faucon": "1"
+			}
+		},
+		"Hélicoptère d'Attaque Faucon HAF-8": {
+			"liste_militaire": "8",
+			"type_orga": "7",
+			"materiel": {
+				"Hélicoptère d'attaque Faucon": "1"
+			}
+		},
+		"Hélicoptère d'Attaque Faucon HAF-9": {
+			"liste_militaire": "8",
+			"type_orga": "7",
+			"materiel": {
+				"Hélicoptère d'attaque Faucon": "1"
+			}
+		},
+		"Hélicoptère d'Attaque Faucon HAF-10": {
+			"liste_militaire": "8",
+			"type_orga": "7",
+			"materiel": {
+				"Hélicoptère d'attaque Faucon": "1"
+			}
+		}
+	},
+	"Bataillon HMF": {
+		"liste_militaire": "1",
+		"type_orga": "6",
+		"1er Escadron": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"Hélicoptère Multi-Fonctions HMF-1": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			},
+			"Hélicoptère Multi-Fonctions HMF-2": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			},
+			"Hélicoptère Multi-Fonctions HMF-3": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			},
+			"Hélicoptère Multi-Fonctions HMF-4": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			},
+			"Hélicoptère Multi-Fonctions HMF-5": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			}
+		},
+		"2e Escadron": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"Hélicoptère Multi-Fonctions HMF-1": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			},
+			"Hélicoptère Multi-Fonctions HMF-2": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			},
+			"Hélicoptère Multi-Fonctions HMF-3": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			},
+			"Hélicoptère Multi-Fonctions HMF-4": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			},
+			"Hélicoptère Multi-Fonctions HMF-5": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			}
+		},
+		"3e Escadron": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"Hélicoptère Multi-Fonctions HMF-1": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			},
+			"Hélicoptère Multi-Fonctions HMF-2": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			},
+			"Hélicoptère Multi-Fonctions HMF-3": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			},
+			"Hélicoptère Multi-Fonctions HMF-4": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			},
+			"Hélicoptère Multi-Fonctions HMF-5": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			}
+		},
+		"4e Escadron": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"Hélicoptère Multi-Fonctions HMF-1": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			},
+			"Hélicoptère Multi-Fonctions HMF-2": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			},
+			"Hélicoptère Multi-Fonctions HMF-3": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			},
+			"Hélicoptère Multi-Fonctions HMF-4": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			},
+			"Hélicoptère Multi-Fonctions HMF-5": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			}
+		}
+	},
+	"Bataillon HLT": {
+		"liste_militaire": "1",
+		"type_orga": "6",
+		"Hélicoptère Lourd de Transport HLT-1": {
+			"liste_militaire": "10",
+			"type_orga": "7",
+			"materiel": {
+				"Hélicoptère Lourd de Transport": "1"
+			}
+		},
+		"Hélicoptère Lourd de Transport HLT-2": {
+			"liste_militaire": "10",
+			"type_orga": "7",
+			"materiel": {
+				"Hélicoptère Lourd de Transport": "1"
+			}
+		},
+		"Hélicoptère Lourd de Transport HLT-3": {
+			"liste_militaire": "10",
+			"type_orga": "7",
+			"materiel": {
+				"Hélicoptère Lourd de Transport": "1"
+			}
+		},
+		"Hélicoptère Lourd de Transport HLT-4": {
+			"liste_militaire": "10",
+			"type_orga": "7",
+			"materiel": {
+				"Hélicoptère Lourd de Transport": "1"
+			}
+		},
+		"Hélicoptère Lourd de Transport HLT-5": {
+			"liste_militaire": "10",
+			"type_orga": "7",
+			"materiel": {
+				"Hélicoptère Lourd de Transport": "1"
+			}
+		},
+		"Hélicoptère Lourd de Transport HLT-6": {
+			"liste_militaire": "10",
+			"type_orga": "7",
+			"materiel": {
+				"Hélicoptère Lourd de Transport": "1"
+			}
+		},
+		"Hélicoptère Lourd de Transport HLT-7": {
+			"liste_militaire": "10",
+			"type_orga": "7",
+			"materiel": {
+				"Hélicoptère Lourd de Transport": "1"
+			}
+		},
+		"Hélicoptère Lourd de Transport HLT-8": {
+			"liste_militaire": "10",
+			"type_orga": "7",
+			"materiel": {
+				"Hélicoptère Lourd de Transport": "1"
+			}
+		},
+		"Hélicoptère Lourd de Transport HLT-9": {
+			"liste_militaire": "10",
+			"type_orga": "7",
+			"materiel": {
+				"Hélicoptère Lourd de Transport": "1"
+			}
+		},
+		"Hélicoptère Lourd de Transport HLT-10": {
+			"liste_militaire": "10",
+			"type_orga": "7",
+			"materiel": {
+				"Hélicoptère Lourd de Transport": "1"
+			}
+		}
+	},
+	"Bataillon de Transport de Matériel": {
+		"liste_militaire": "1",
+		"type_orga": "6",
+		"1er Escadron": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"Camion de Transport de Matériel CTM-1": {
+				"liste_militaire": "4",
+				"type_orga": "8",
+				"materiel": {
+					"Camion de Transport de Matériel": "1"
+				}
+			},
+			"Camion de Transport de Matériel CTM-2": {
+				"liste_militaire": "4",
+				"type_orga": "8",
+				"materiel": {
+					"Camion de Transport de Matériel": "1"
+				}
+			},
+			"Camion de Transport de Matériel CTM-3": {
+				"liste_militaire": "4",
+				"type_orga": "8",
+				"materiel": {
+					"Camion de Transport de Matériel": "1"
+				}
+			},
+			"Camion de Transport de Matériel CTM-4": {
+				"liste_militaire": "4",
+				"type_orga": "8",
+				"materiel": {
+					"Camion de Transport de Matériel": "1"
+				}
+			},
+			"Camion de Transport de Matériel CTM-5": {
+				"liste_militaire": "4",
+				"type_orga": "8",
+				"materiel": {
+					"Camion de Transport de Matériel": "1"
+				}
+			},
+			"Camion de Transport de Matériel CTM-6": {
+				"liste_militaire": "4",
+				"type_orga": "8",
+				"materiel": {
+					"Camion de Transport de Matériel": "1"
+				}
+			},
+			"Camion de Transport de Matériel CTM-7": {
+				"liste_militaire": "4",
+				"type_orga": "8",
+				"materiel": {
+					"Camion de Transport de Matériel": "1"
+				}
+			},
+			"Camion de Transport de Matériel CTM-8": {
+				"liste_militaire": "4",
+				"type_orga": "8",
+				"materiel": {
+					"Camion de Transport de Matériel": "1"
+				}
+			},
+			"Camion de Transport de Matériel CTM-9": {
+				"liste_militaire": "4",
+				"type_orga": "8",
+				"materiel": {
+					"Camion de Transport de Matériel": "1"
+				}
+			},
+			"Camion de Transport de Matériel CTM-10": {
+				"liste_militaire": "4",
+				"type_orga": "8",
+				"materiel": {
+					"Camion de Transport de Matériel": "1"
+				}
+			}
+		},
+		"2e Escadron": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"Camion de Transport de Matériel CTM-1": {
+				"liste_militaire": "4",
+				"type_orga": "8",
+				"materiel": {
+					"Camion de Transport de Matériel": "1"
+				}
+			},
+			"Camion de Transport de Matériel CTM-2": {
+				"liste_militaire": "4",
+				"type_orga": "8",
+				"materiel": {
+					"Camion de Transport de Matériel": "1"
+				}
+			},
+			"Camion de Transport de Matériel CTM-3": {
+				"liste_militaire": "4",
+				"type_orga": "8",
+				"materiel": {
+					"Camion de Transport de Matériel": "1"
+				}
+			},
+			"Camion de Transport de Matériel CTM-4": {
+				"liste_militaire": "4",
+				"type_orga": "8",
+				"materiel": {
+					"Camion de Transport de Matériel": "1"
+				}
+			},
+			"Camion de Transport de Matériel CTM-5": {
+				"liste_militaire": "4",
+				"type_orga": "8",
+				"materiel": {
+					"Camion de Transport de Matériel": "1"
+				}
+			},
+			"Camion de Transport de Matériel CTM-6": {
+				"liste_militaire": "4",
+				"type_orga": "8",
+				"materiel": {
+					"Camion de Transport de Matériel": "1"
+				}
+			},
+			"Camion de Transport de Matériel CTM-7": {
+				"liste_militaire": "4",
+				"type_orga": "8",
+				"materiel": {
+					"Camion de Transport de Matériel": "1"
+				}
+			},
+			"Camion de Transport de Matériel CTM-8": {
+				"liste_militaire": "4",
+				"type_orga": "8",
+				"materiel": {
+					"Camion de Transport de Matériel": "1"
+				}
+			},
+			"Camion de Transport de Matériel CTM-9": {
+				"liste_militaire": "4",
+				"type_orga": "8",
+				"materiel": {
+					"Camion de Transport de Matériel": "1"
+				}
+			},
+			"Camion de Transport de Matériel CTM-10": {
+				"liste_militaire": "4",
+				"type_orga": "8",
+				"materiel": {
+					"Camion de Transport de Matériel": "1"
+				}
+			}
+		}
+	},
+	"Bataillon de Ravitaillement": {
+		"liste_militaire": "1",
+		"type_orga": "6",
+		"1er Escadron": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"Camion-citerne CC-1": {
+				"liste_militaire": "3",
+				"type_orga": "8",
+				"materiel": {
+					"Camion-Citerne": "1"
+				}
+			},
+			"Camion-citerne CC-2": {
+				"liste_militaire": "3",
+				"type_orga": "8",
+				"materiel": {
+					"Camion-Citerne": "1"
+				}
+			},
+			"Camion-citerne CC-3": {
+				"liste_militaire": "3",
+				"type_orga": "8",
+				"materiel": {
+					"Camion-Citerne": "1"
+				}
+			},
+			"Camion-citerne CC-4": {
+				"liste_militaire": "3",
+				"type_orga": "8",
+				"materiel": {
+					"Camion-Citerne": "1"
+				}
+			},
+			"Camion-citerne CC-5": {
+				"liste_militaire": "3",
+				"type_orga": "8",
+				"materiel": {
+					"Camion-Citerne": "1"
+				}
+			},
+			"Camion-citerne CC-6": {
+				"liste_militaire": "3",
+				"type_orga": "8",
+				"materiel": {
+					"Camion-Citerne": "1"
+				}
+			},
+			"Camion-citerne CC-7": {
+				"liste_militaire": "3",
+				"type_orga": "8",
+				"materiel": {
+					"Camion-Citerne": "1"
+				}
+			},
+			"Camion-citerne CC-8": {
+				"liste_militaire": "3",
+				"type_orga": "8",
+				"materiel": {
+					"Camion-Citerne": "1"
+				}
+			},
+			"Camion-citerne CC-9": {
+				"liste_militaire": "3",
+				"type_orga": "8",
+				"materiel": {
+					"Camion-Citerne": "1"
+				}
+			},
+			"Camion-citerne CC-10": {
+				"liste_militaire": "3",
+				"type_orga": "8",
+				"materiel": {
+					"Camion-Citerne": "1"
+				}
+			}
+		},
+		"2e Escadron": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"Camion-citerne CC-1": {
+				"liste_militaire": "3",
+				"type_orga": "8",
+				"materiel": {
+					"Camion-Citerne": "1"
+				}
+			},
+			"Camion-citerne CC-2": {
+				"liste_militaire": "3",
+				"type_orga": "8",
+				"materiel": {
+					"Camion-Citerne": "1"
+				}
+			},
+			"Camion-citerne CC-3": {
+				"liste_militaire": "3",
+				"type_orga": "8",
+				"materiel": {
+					"Camion-Citerne": "1"
+				}
+			},
+			"Camion-citerne CC-4": {
+				"liste_militaire": "3",
+				"type_orga": "8",
+				"materiel": {
+					"Camion-Citerne": "1"
+				}
+			},
+			"Camion-citerne CC-5": {
+				"liste_militaire": "3",
+				"type_orga": "8",
+				"materiel": {
+					"Camion-Citerne": "1"
+				}
+			},
+			"Camion-citerne CC-6": {
+				"liste_militaire": "3",
+				"type_orga": "8",
+				"materiel": {
+					"Camion-Citerne": "1"
+				}
+			},
+			"Camion-citerne CC-7": {
+				"liste_militaire": "3",
+				"type_orga": "8",
+				"materiel": {
+					"Camion-Citerne": "1"
+				}
+			},
+			"Camion-citerne CC-8": {
+				"liste_militaire": "3",
+				"type_orga": "8",
+				"materiel": {
+					"Camion-Citerne": "1"
+				}
+			},
+			"Camion-citerne CC-9": {
+				"liste_militaire": "3",
+				"type_orga": "8",
+				"materiel": {
+					"Camion-Citerne": "1"
+				}
+			},
+			"Camion-citerne CC-10": {
+				"liste_militaire": "3",
+				"type_orga": "8",
+				"materiel": {
+					"Camion-Citerne": "1"
+				}
+			}
+		},
+		"3e Escadron": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"Camion-citerne CC-1": {
+				"liste_militaire": "3",
+				"type_orga": "8",
+				"materiel": {
+					"Camion-Citerne": "1"
+				}
+			},
+			"Camion-citerne CC-2": {
+				"liste_militaire": "3",
+				"type_orga": "8",
+				"materiel": {
+					"Camion-Citerne": "1"
+				}
+			},
+			"Camion-citerne CC-3": {
+				"liste_militaire": "3",
+				"type_orga": "8",
+				"materiel": {
+					"Camion-Citerne": "1"
+				}
+			},
+			"Camion-citerne CC-4": {
+				"liste_militaire": "3",
+				"type_orga": "8",
+				"materiel": {
+					"Camion-Citerne": "1"
+				}
+			},
+			"Camion-citerne CC-5": {
+				"liste_militaire": "3",
+				"type_orga": "8",
+				"materiel": {
+					"Camion-Citerne": "1"
+				}
+			},
+			"Camion-citerne CC-6": {
+				"liste_militaire": "3",
+				"type_orga": "8",
+				"materiel": {
+					"Camion-Citerne": "1"
+				}
+			},
+			"Camion-citerne CC-7": {
+				"liste_militaire": "3",
+				"type_orga": "8",
+				"materiel": {
+					"Camion-Citerne": "1"
+				}
+			},
+			"Camion-citerne CC-8": {
+				"liste_militaire": "3",
+				"type_orga": "8",
+				"materiel": {
+					"Camion-Citerne": "1"
+				}
+			},
+			"Camion-citerne CC-9": {
+				"liste_militaire": "3",
+				"type_orga": "8",
+				"materiel": {
+					"Camion-Citerne": "1"
+				}
+			},
+			"Camion-citerne CC-10": {
+				"liste_militaire": "3",
+				"type_orga": "8",
+				"materiel": {
+					"Camion-Citerne": "1"
+				}
+			}
+		},
+		"4e Escadron": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"Camion-citerne CC-1": {
+				"liste_militaire": "3",
+				"type_orga": "8",
+				"materiel": {
+					"Camion-Citerne": "1"
+				}
+			},
+			"Camion-citerne CC-2": {
+				"liste_militaire": "3",
+				"type_orga": "8",
+				"materiel": {
+					"Camion-Citerne": "1"
+				}
+			},
+			"Camion-citerne CC-3": {
+				"liste_militaire": "3",
+				"type_orga": "8",
+				"materiel": {
+					"Camion-Citerne": "1"
+				}
+			},
+			"Camion-citerne CC-4": {
+				"liste_militaire": "3",
+				"type_orga": "8",
+				"materiel": {
+					"Camion-Citerne": "1"
+				}
+			},
+			"Camion-citerne CC-5": {
+				"liste_militaire": "3",
+				"type_orga": "8",
+				"materiel": {
+					"Camion-Citerne": "1"
+				}
+			},
+			"Camion-citerne CC-6": {
+				"liste_militaire": "3",
+				"type_orga": "8",
+				"materiel": {
+					"Camion-Citerne": "1"
+				}
+			},
+			"Camion-citerne CC-7": {
+				"liste_militaire": "3",
+				"type_orga": "8",
+				"materiel": {
+					"Camion-Citerne": "1"
+				}
+			},
+			"Camion-citerne CC-8": {
+				"liste_militaire": "3",
+				"type_orga": "8",
+				"materiel": {
+					"Camion-Citerne": "1"
+				}
+			},
+			"Camion-citerne CC-9": {
+				"liste_militaire": "3",
+				"type_orga": "8",
+				"materiel": {
+					"Camion-Citerne": "1"
+				}
+			},
+			"Camion-citerne CC-10": {
+				"liste_militaire": "3",
+				"type_orga": "8",
+				"materiel": {
+					"Camion-Citerne": "1"
+				}
+			}
+		}
+	}
+}

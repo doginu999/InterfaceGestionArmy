@@ -1,0 +1,13 @@
+{
+	"Hélicoptère Léger HL-2": {
+		"liste_militaire": "8",
+		"type_orga": "6",
+		"materiel": {
+			"Hélicoptère Léger HL-2": ""
+		}
+	},
+	"Bataillon de police": {
+		"liste_militaire": "50",
+		"type_orga": "6"
+	}
+}

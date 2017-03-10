@@ -1,0 +1,2686 @@
+{
+	"Bataillon aérien": {
+		"liste_militaire": "1",
+		"type_orga": "6",
+		"Escadron de Patrouille et de Détection": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"Avion de Patrouille et de Détection APD-1": {
+				"liste_militaire": "18",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de Patrouille et de Détection": "1"
+				}
+			},
+			"Avion de Patrouille et de Détection APD-2": {
+				"liste_militaire": "18",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de Patrouille et de Détection": "1"
+				}
+			},
+			"Avion de Patrouille et de Détection APD-3": {
+				"liste_militaire": "18",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de Patrouille et de Détection": "1"
+				}
+			}
+		},
+		"Escadron d'Avions de Soutien Aérien": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"Avion de Soutien Aérien ASA-1": {
+				"liste_militaire": "12",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de Soutien Aérien": "1"
+				}
+			},
+			"Avion de Soutien Aérien ASA-2": {
+				"liste_militaire": "12",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de Soutien Aérien": "1"
+				}
+			},
+			"Avion de Soutien Aérien ASA-3": {
+				"liste_militaire": "12",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de Soutien Aérien": "1"
+				}
+			},
+			"Avion de Soutien Aérien ASA-4": {
+				"liste_militaire": "12",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de Soutien Aérien": "1"
+				}
+			},
+			"Avion de Soutien Aérien ASA-5": {
+				"liste_militaire": "12",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de Soutien Aérien": "1"
+				}
+			},
+			"Avion de Soutien Aérien ASA-6": {
+				"liste_militaire": "12",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de Soutien Aérien": "1"
+				}
+			},
+			"Avion de Soutien Aérien ASA-7": {
+				"liste_militaire": "12",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de Soutien Aérien": "1"
+				}
+			},
+			"Avion de Soutien Aérien ASA-8": {
+				"liste_militaire": "12",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de Soutien Aérien": "1"
+				}
+			},
+			"Avion de Soutien Aérien ASA-9": {
+				"liste_militaire": "12",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de Soutien Aérien": "1"
+				}
+			},
+			"Avion de Soutien Aérien ASA-10": {
+				"liste_militaire": "12",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de Soutien Aérien": "1"
+				}
+			}
+		},
+		"Escadron d'Avions Bi-Réacteurs de Soutien": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"Avion Bi-Réacteur de Soutien ABRS-1": {
+				"liste_militaire": "7",
+				"type_orga": "8",
+				"materiel": {
+					"Avion Bi-Réacteur de Soutien": "1"
+				}
+			},
+			"Avion Bi-Réacteur de Soutien ABRS-2": {
+				"liste_militaire": "7",
+				"type_orga": "8",
+				"materiel": {
+					"Avion Bi-Réacteur de Soutien": "1"
+				}
+			},
+			"Avion Bi-Réacteur de Soutien ABRS-3": {
+				"liste_militaire": "7",
+				"type_orga": "8",
+				"materiel": {
+					"Avion Bi-Réacteur de Soutien": "1"
+				}
+			},
+			"Avion Bi-Réacteur de Soutien ABRS-4": {
+				"liste_militaire": "7",
+				"type_orga": "8",
+				"materiel": {
+					"Avion Bi-Réacteur de Soutien": "1"
+				}
+			},
+			"Avion Bi-Réacteur de Soutien ABRS-5": {
+				"liste_militaire": "7",
+				"type_orga": "8",
+				"materiel": {
+					"Avion Bi-Réacteur de Soutien": "1"
+				}
+			},
+			"Avion Bi-Réacteur de Soutien ABRS-6": {
+				"liste_militaire": "7",
+				"type_orga": "8",
+				"materiel": {
+					"Avion Bi-Réacteur de Soutien": "1"
+				}
+			},
+			"Avion Bi-Réacteur de Soutien ABRS-7": {
+				"liste_militaire": "7",
+				"type_orga": "8",
+				"materiel": {
+					"Avion Bi-Réacteur de Soutien": "1"
+				}
+			},
+			"Avion Bi-Réacteur de Soutien ABRS-8": {
+				"liste_militaire": "7",
+				"type_orga": "8",
+				"materiel": {
+					"Avion Bi-Réacteur de Soutien": "1"
+				}
+			},
+			"Avion Bi-Réacteur de Soutien ABRS-9": {
+				"liste_militaire": "7",
+				"type_orga": "8",
+				"materiel": {
+					"Avion Bi-Réacteur de Soutien": "1"
+				}
+			},
+			"Avion Bi-Réacteur de Soutien ABRS-10": {
+				"liste_militaire": "7",
+				"type_orga": "8",
+				"materiel": {
+					"Avion Bi-Réacteur de Soutien": "1"
+				}
+			}
+		},
+		"Escadron de Transport Avancé": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"Avion de Transport Avancé ATA-1": {
+				"liste_militaire": "10",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de Transport Avancé": "1"
+				}
+			},
+			"Avion de Transport Avancé ATA-2": {
+				"liste_militaire": "10",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de Transport Avancé": "1"
+				}
+			},
+			"Avion de Transport Avancé ATA-3": {
+				"liste_militaire": "10",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de Transport Avancé": "1"
+				}
+			},
+			"Avion de Transport Avancé ATA-4": {
+				"liste_militaire": "10",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de Transport Avancé": "1"
+				}
+			},
+			"Avion de Transport Avancé ATA-5": {
+				"liste_militaire": "10",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de Transport Avancé": "1"
+				}
+			},
+			"Avion de Transport Avancé ATA-6": {
+				"liste_militaire": "10",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de Transport Avancé": "1"
+				}
+			},
+			"Avion de Transport Avancé ATA-7": {
+				"liste_militaire": "10",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de Transport Avancé": "1"
+				}
+			},
+			"Avion de Transport Avancé ATA-8": {
+				"liste_militaire": "10",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de Transport Avancé": "1"
+				}
+			},
+			"Avion de Transport Avancé ATA-9": {
+				"liste_militaire": "10",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de Transport Avancé": "1"
+				}
+			},
+			"Avion de Transport Avancé ATA-10": {
+				"liste_militaire": "10",
+				"type_orga": "8",
+				"materiel": {
+					"Avion de Transport Avancé": "1"
+				}
+			}
+		},
+		"Escadron d'Hélicoptères d'Attaque": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"Hélicoptère d'Attaque Faucon HAF-1": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère d'attaque Faucon": "1"
+				}
+			},
+			"Hélicoptère d'Attaque Faucon HAF-2": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère d'attaque Faucon": "1"
+				}
+			},
+			"Hélicoptère d'Attaque Faucon HAF-3": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère d'attaque Faucon": "1"
+				}
+			},
+			"Hélicoptère d'Attaque Faucon HAF-4": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère d'attaque Faucon": "1"
+				}
+			},
+			"Hélicoptère d'Attaque Faucon HAF-5": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère d'attaque Faucon": "1"
+				}
+			},
+			"Hélicoptère d'Attaque Faucon HAF-6": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère d'attaque Faucon": "1"
+				}
+			},
+			"Hélicoptère d'Attaque Faucon HAF-7": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère d'attaque Faucon": "1"
+				}
+			},
+			"Hélicoptère d'Attaque Faucon HAF-8": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère d'attaque Faucon": "1"
+				}
+			},
+			"Hélicoptère d'Attaque Faucon HAF-9": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère d'attaque Faucon": "1"
+				}
+			},
+			"Hélicoptère d'Attaque Faucon HAF-10": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère d'attaque Faucon": "1"
+				}
+			}
+		},
+		"Escadron d'Hélicoptères": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"Hélicoptère Multi-Fonctions HMF-1": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			},
+			"Hélicoptère Multi-Fonctions HMF-2": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			},
+			"Hélicoptère Multi-Fonctions HMF-3": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			},
+			"Hélicoptère Multi-Fonctions HMF-4": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			},
+			"Hélicoptère Multi-Fonctions HMF-5": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			},
+			"Hélicoptère Multi-Fonctions HMF-6": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			},
+			"Hélicoptère Multi-Fonctions HMF-7": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			},
+			"Hélicoptère Multi-Fonctions HMF-8": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			},
+			"Hélicoptère Multi-Fonctions HMF-9": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			},
+			"Hélicoptère Multi-Fonctions HMF-10": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			},
+			"Hélicoptère Multi-Fonctions HMF-11": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			},
+			"Hélicoptère Multi-Fonctions HMF-12": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			},
+			"Hélicoptère Multi-Fonctions HMF-13": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			},
+			"Hélicoptère Multi-Fonctions HMF-14": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			},
+			"Hélicoptère Multi-Fonctions HMF-15": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			},
+			"Hélicoptère Multi-Fonctions HMF-16": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			},
+			"Hélicoptère Multi-Fonctions HMF-17": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			},
+			"Hélicoptère Multi-Fonctions HMF-18": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			},
+			"Hélicoptère Multi-Fonctions HMF-19": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			},
+			"Hélicoptère Multi-Fonctions HMF-20": {
+				"liste_militaire": "8",
+				"type_orga": "8",
+				"materiel": {
+					"Hélicoptère Multi-Fonctions": "1"
+				}
+			}
+		},
+		"Escadron de Transporteurs T-35": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"Transporteur T-35 T-1": {
+				"liste_militaire": "10",
+				"type_orga": "8",
+				"materiel": {
+					"Transporteur T-35": "1"
+				}
+			},
+			"Transporteur T-35 T-2": {
+				"liste_militaire": "10",
+				"type_orga": "8",
+				"materiel": {
+					"Transporteur T-35": "1"
+				}
+			},
+			"Transporteur T-35 T-3": {
+				"liste_militaire": "10",
+				"type_orga": "8",
+				"materiel": {
+					"Transporteur T-35": "1"
+				}
+			},
+			"Transporteur T-35 T-4": {
+				"liste_militaire": "10",
+				"type_orga": "8",
+				"materiel": {
+					"Transporteur T-35": "1"
+				}
+			},
+			"Transporteur T-35 T-5": {
+				"liste_militaire": "10",
+				"type_orga": "8",
+				"materiel": {
+					"Transporteur T-35": "1"
+				}
+			},
+			"Transporteur T-35 T-6": {
+				"liste_militaire": "10",
+				"type_orga": "8",
+				"materiel": {
+					"Transporteur T-35": "1"
+				}
+			},
+			"Transporteur T-35 T-7": {
+				"liste_militaire": "10",
+				"type_orga": "8",
+				"materiel": {
+					"Transporteur T-35": "1"
+				}
+			},
+			"Transporteur T-35 T-8": {
+				"liste_militaire": "10",
+				"type_orga": "8",
+				"materiel": {
+					"Transporteur T-35": "1"
+				}
+			}
+		}
+	},
+	"Bataillon de Combat": {
+		"liste_militaire": "1",
+		"type_orga": "6",
+		"Batterie d'artillerie": {
+			"liste_militaire": "1",
+			"type_orga": "8",
+			"1ere Compagnie": {
+				"liste_militaire": "1",
+				"type_orga": "9",
+				"Obusier OB-1": {
+					"liste_militaire": "4",
+					"type_orga": "10",
+					"materiel": {
+						"Obusier OB-39": "1"
+					}
+				},
+				"Obusier OB-2": {
+					"liste_militaire": "4",
+					"type_orga": "10",
+					"materiel": {
+						"Obusier OB-39": "1"
+					}
+				},
+				"Obusier OB-3": {
+					"liste_militaire": "4",
+					"type_orga": "10",
+					"materiel": {
+						"Obusier OB-39": "1"
+					}
+				},
+				"Obusier OB-4": {
+					"liste_militaire": "4",
+					"type_orga": "10",
+					"materiel": {
+						"Obusier OB-39": "1"
+					}
+				},
+				"Obusier OB-5": {
+					"liste_militaire": "4",
+					"type_orga": "10",
+					"materiel": {
+						"Obusier OB-39": "1"
+					}
+				}
+			},
+			"2e Compagnie": {
+				"liste_militaire": "1",
+				"type_orga": "9",
+				"Obusier OB-1": {
+					"liste_militaire": "4",
+					"type_orga": "10",
+					"materiel": {
+						"Obusier OB-39": "1"
+					}
+				},
+				"Obusier OB-2": {
+					"liste_militaire": "4",
+					"type_orga": "10",
+					"materiel": {
+						"Obusier OB-39": "1"
+					}
+				},
+				"Obusier OB-3": {
+					"liste_militaire": "4",
+					"type_orga": "10",
+					"materiel": {
+						"Obusier OB-39": "1"
+					}
+				},
+				"Obusier OB-4": {
+					"liste_militaire": "4",
+					"type_orga": "10",
+					"materiel": {
+						"Obusier OB-39": "1"
+					}
+				},
+				"Obusier OB-5": {
+					"liste_militaire": "4",
+					"type_orga": "10",
+					"materiel": {
+						"Obusier OB-39": "1"
+					}
+				}
+			}
+		},
+		"Batterie BTA": {
+			"liste_militaire": "1",
+			"type_orga": "8",
+			"1ere Compagnie": {
+				"liste_militaire": "1",
+				"type_orga": "9",
+				"1ere Section": {
+					"liste_militaire": "1",
+					"type_orga": "10",
+					"Blindé BTA-1": {
+						"liste_militaire": "6",
+						"type_orga": "11",
+						"materiel": {
+							"Blindé de Transport Armé": "1"
+						}
+					},
+					"Blindé BTA-2": {
+						"liste_militaire": "6",
+						"type_orga": "11",
+						"materiel": {
+							"Blindé de Transport Armé": "1"
+						}
+					},
+					"Blindé BTA-3": {
+						"liste_militaire": "6",
+						"type_orga": "11",
+						"materiel": {
+							"Blindé de Transport Armé": "1"
+						}
+					},
+					"Blindé BTA-4": {
+						"liste_militaire": "6",
+						"type_orga": "11",
+						"materiel": {
+							"Blindé de Transport Armé": "1"
+						}
+					},
+					"Blindé BTA-5": {
+						"liste_militaire": "6",
+						"type_orga": "11",
+						"materiel": {
+							"Blindé de Transport Armé": "1"
+						}
+					},
+					"Blindé BTA-6": {
+						"liste_militaire": "6",
+						"type_orga": "11",
+						"materiel": {
+							"Blindé de Transport Armé": "1"
+						}
+					}
+				},
+				"2e Section": {
+					"liste_militaire": "1",
+					"type_orga": "10",
+					"Blindé BTA-1": {
+						"liste_militaire": "6",
+						"type_orga": "11",
+						"materiel": {
+							"Blindé de Transport Armé": "1"
+						}
+					},
+					"Blindé BTA-2": {
+						"liste_militaire": "6",
+						"type_orga": "11",
+						"materiel": {
+							"Blindé de Transport Armé": "1"
+						}
+					},
+					"Blindé BTA-3": {
+						"liste_militaire": "6",
+						"type_orga": "11",
+						"materiel": {
+							"Blindé de Transport Armé": "1"
+						}
+					},
+					"Blindé BTA-4": {
+						"liste_militaire": "6",
+						"type_orga": "11",
+						"materiel": {
+							"Blindé de Transport Armé": "1"
+						}
+					},
+					"Blindé BTA-5": {
+						"liste_militaire": "6",
+						"type_orga": "11",
+						"materiel": {
+							"Blindé de Transport Armé": "1"
+						}
+					},
+					"Blindé BTA-6": {
+						"liste_militaire": "6",
+						"type_orga": "11",
+						"materiel": {
+							"Blindé de Transport Armé": "1"
+						}
+					}
+				}
+			},
+			"2e Compagnie": {
+				"liste_militaire": "1",
+				"type_orga": "9",
+				"1ere Section": {
+					"liste_militaire": "1",
+					"type_orga": "10",
+					"Blindé BTA-1": {
+						"liste_militaire": "6",
+						"type_orga": "11",
+						"materiel": {
+							"Blindé de Transport Armé": "1"
+						}
+					},
+					"Blindé BTA-2": {
+						"liste_militaire": "6",
+						"type_orga": "11",
+						"materiel": {
+							"Blindé de Transport Armé": "1"
+						}
+					},
+					"Blindé BTA-3": {
+						"liste_militaire": "6",
+						"type_orga": "11",
+						"materiel": {
+							"Blindé de Transport Armé": "1"
+						}
+					},
+					"Blindé BTA-4": {
+						"liste_militaire": "6",
+						"type_orga": "11",
+						"materiel": {
+							"Blindé de Transport Armé": "1"
+						}
+					},
+					"Blindé BTA-5": {
+						"liste_militaire": "6",
+						"type_orga": "11",
+						"materiel": {
+							"Blindé de Transport Armé": "1"
+						}
+					},
+					"Blindé BTA-6": {
+						"liste_militaire": "6",
+						"type_orga": "11",
+						"materiel": {
+							"Blindé de Transport Armé": "1"
+						}
+					}
+				},
+				"2e Section": {
+					"liste_militaire": "1",
+					"type_orga": "10",
+					"Blindé BTA-1": {
+						"liste_militaire": "6",
+						"type_orga": "11",
+						"materiel": {
+							"Blindé de Transport Armé": "1"
+						}
+					},
+					"Blindé BTA-2": {
+						"liste_militaire": "6",
+						"type_orga": "11",
+						"materiel": {
+							"Blindé de Transport Armé": "1"
+						}
+					},
+					"Blindé BTA-3": {
+						"liste_militaire": "6",
+						"type_orga": "11",
+						"materiel": {
+							"Blindé de Transport Armé": "1"
+						}
+					},
+					"Blindé BTA-4": {
+						"liste_militaire": "6",
+						"type_orga": "11",
+						"materiel": {
+							"Blindé de Transport Armé": "1"
+						}
+					},
+					"Blindé BTA-5": {
+						"liste_militaire": "6",
+						"type_orga": "11",
+						"materiel": {
+							"Blindé de Transport Armé": "1"
+						}
+					},
+					"Blindé BTA-6": {
+						"liste_militaire": "6",
+						"type_orga": "11",
+						"materiel": {
+							"Blindé de Transport Armé": "1"
+						}
+					}
+				}
+			}
+		},
+		"Batterie de chars": {
+			"liste_militaire": "1",
+			"type_orga": "8",
+			"1ere Compagnie": {
+				"liste_militaire": "1",
+				"type_orga": "9",
+				"1ere Section": {
+					"liste_militaire": "1",
+					"type_orga": "10",
+					"Char CT-1": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-2": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-3": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-4": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-5": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-6": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-7": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-8": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					}
+				},
+				"2e Section": {
+					"liste_militaire": "1",
+					"type_orga": "10",
+					"Char CT-1": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-2": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-3": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-4": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-5": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-6": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-7": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-8": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					}
+				}
+			},
+			"2e Compagnie": {
+				"liste_militaire": "1",
+				"type_orga": "9",
+				"1ere Section": {
+					"liste_militaire": "1",
+					"type_orga": "10",
+					"Char CT-1": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-2": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-3": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-4": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-5": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-6": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-7": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-8": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					}
+				},
+				"2e Section": {
+					"liste_militaire": "1",
+					"type_orga": "10",
+					"Char CT-1": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-2": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-3": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-4": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-5": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-6": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-7": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-8": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					}
+				}
+			},
+			"3e Compagnie": {
+				"liste_militaire": "1",
+				"type_orga": "9",
+				"1ere Section": {
+					"liste_militaire": "1",
+					"type_orga": "10",
+					"Char CT-1": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-2": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-3": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-4": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-5": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-6": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-7": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-8": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					}
+				},
+				"2e Section": {
+					"liste_militaire": "1",
+					"type_orga": "10",
+					"Char CT-1": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-2": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-3": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-4": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-5": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-6": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-7": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-8": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					}
+				}
+			},
+			"4e Compagnie": {
+				"liste_militaire": "1",
+				"type_orga": "9",
+				"1ere Section": {
+					"liste_militaire": "1",
+					"type_orga": "10",
+					"Char CT-1": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-2": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-3": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-4": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-5": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-6": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-7": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-8": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					}
+				},
+				"2e Section": {
+					"liste_militaire": "1",
+					"type_orga": "10",
+					"Char CT-1": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-2": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-3": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-4": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-5": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-6": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-7": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-8": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					}
+				}
+			}
+		},
+		"Batterie VBAL": {
+			"liste_militaire": "1",
+			"type_orga": "8",
+			"1ere Compagnie": {
+				"liste_militaire": "1",
+				"type_orga": "9",
+				"1ere Section": {
+					"liste_militaire": "1",
+					"type_orga": "10",
+					"Blindé VBAL-1": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-2": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-3": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-4": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-5": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-6": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-7": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-8": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-9": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-10": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					}
+				},
+				"2e Section": {
+					"liste_militaire": "1",
+					"type_orga": "10",
+					"Blindé VBAL-1": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-2": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-3": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-4": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-5": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-6": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-7": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-8": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-9": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-10": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					}
+				}
+			},
+			"2e Compagnie": {
+				"liste_militaire": "1",
+				"type_orga": "9",
+				"1ere Section": {
+					"liste_militaire": "1",
+					"type_orga": "10",
+					"Blindé VBAL-1": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-2": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-3": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-4": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-5": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-6": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-7": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-8": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-9": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-10": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					}
+				},
+				"2e Section": {
+					"liste_militaire": "1",
+					"type_orga": "10",
+					"Blindé VBAL-1": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-2": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-3": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-4": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-5": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-6": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-7": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-8": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-9": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-10": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					}
+				}
+			},
+			"3e Compagnie": {
+				"liste_militaire": "1",
+				"type_orga": "9",
+				"1ere Section": {
+					"liste_militaire": "1",
+					"type_orga": "10",
+					"Blindé VBAL-1": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-2": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-3": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-4": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-5": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-6": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-7": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-8": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-9": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-10": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					}
+				},
+				"2e Section": {
+					"liste_militaire": "1",
+					"type_orga": "10",
+					"Blindé VBAL-1": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-2": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-3": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-4": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-5": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-6": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-7": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-8": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-9": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-10": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					}
+				}
+			},
+			"4e Compagnie": {
+				"liste_militaire": "1",
+				"type_orga": "9",
+				"1ere Section": {
+					"liste_militaire": "1",
+					"type_orga": "10",
+					"Blindé VBAL-1": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-2": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-3": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-4": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-5": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-6": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-7": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-8": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-9": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-10": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					}
+				},
+				"2e Section": {
+					"liste_militaire": "1",
+					"type_orga": "10",
+					"Blindé VBAL-1": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-2": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-3": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-4": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-5": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-6": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-7": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-8": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-9": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-10": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					}
+				}
+			},
+			"Compagnie Quinze": {
+				"liste_militaire": "1",
+				"type_orga": "9",
+				"1ere Section": {
+					"liste_militaire": "1",
+					"type_orga": "10",
+					"Blindé VBAL-1": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-2": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-3": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-4": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-5": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-6": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-7": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-8": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-9": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-10": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					}
+				},
+				"2e Section": {
+					"liste_militaire": "1",
+					"type_orga": "10",
+					"Blindé VBAL-1": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-2": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-3": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-4": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-5": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-6": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-7": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-8": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-9": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-10": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					}
+				}
+			}
+		},
+		"Batterie VBL": {
+			"liste_militaire": "1",
+			"type_orga": "8",
+			"1ere Compagnie": {
+				"liste_militaire": "1",
+				"type_orga": "9",
+				"1ere Section": {
+					"liste_militaire": "1",
+					"type_orga": "10",
+					"Blindé VBL-1": {
+						"liste_militaire": "11",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé Léger": "1"
+						}
+					},
+					"Blindé VBL-2": {
+						"liste_militaire": "11",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé Léger": "1"
+						}
+					},
+					"Blindé VBL-3": {
+						"liste_militaire": "11",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé Léger": "1"
+						}
+					},
+					"Blindé VBL-4": {
+						"liste_militaire": "11",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé Léger": "1"
+						}
+					},
+					"Blindé VBL-5": {
+						"liste_militaire": "11",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé Léger": "1"
+						}
+					}
+				},
+				"2e Section": {
+					"liste_militaire": "1",
+					"type_orga": "10",
+					"Blindé VBL-1": {
+						"liste_militaire": "11",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé Léger": "1"
+						}
+					},
+					"Blindé VBL-2": {
+						"liste_militaire": "11",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé Léger": "1"
+						}
+					},
+					"Blindé VBL-3": {
+						"liste_militaire": "11",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé Léger": "1"
+						}
+					},
+					"Blindé VBL-4": {
+						"liste_militaire": "11",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé Léger": "1"
+						}
+					},
+					"Blindé VBL-5": {
+						"liste_militaire": "11",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé Léger": "1"
+						}
+					}
+				}
+			},
+			"2e Compagnie": {
+				"liste_militaire": "1",
+				"type_orga": "9",
+				"1ere Section": {
+					"liste_militaire": "1",
+					"type_orga": "10",
+					"Blindé VBL-1": {
+						"liste_militaire": "11",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé Léger": "1"
+						}
+					},
+					"Blindé VBL-2": {
+						"liste_militaire": "11",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé Léger": "1"
+						}
+					},
+					"Blindé VBL-3": {
+						"liste_militaire": "11",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé Léger": "1"
+						}
+					},
+					"Blindé VBL-4": {
+						"liste_militaire": "11",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé Léger": "1"
+						}
+					},
+					"Blindé VBL-5": {
+						"liste_militaire": "11",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé Léger": "1"
+						}
+					}
+				},
+				"2e Section": {
+					"liste_militaire": "1",
+					"type_orga": "10",
+					"Blindé VBL-1": {
+						"liste_militaire": "11",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé Léger": "1"
+						}
+					},
+					"Blindé VBL-2": {
+						"liste_militaire": "11",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé Léger": "1"
+						}
+					},
+					"Blindé VBL-3": {
+						"liste_militaire": "11",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé Léger": "1"
+						}
+					},
+					"Blindé VBL-4": {
+						"liste_militaire": "11",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé Léger": "1"
+						}
+					},
+					"Blindé VBL-5": {
+						"liste_militaire": "11",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé Léger": "1"
+						}
+					}
+				}
+			},
+			"3e Compagnie": {
+				"liste_militaire": "1",
+				"type_orga": "9",
+				"1ere Section": {
+					"liste_militaire": "1",
+					"type_orga": "10",
+					"Blindé VBL-1": {
+						"liste_militaire": "11",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé Léger": "1"
+						}
+					},
+					"Blindé VBL-2": {
+						"liste_militaire": "11",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé Léger": "1"
+						}
+					},
+					"Blindé VBL-3": {
+						"liste_militaire": "11",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé Léger": "1"
+						}
+					},
+					"Blindé VBL-4": {
+						"liste_militaire": "11",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé Léger": "1"
+						}
+					},
+					"Blindé VBL-5": {
+						"liste_militaire": "11",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé Léger": "1"
+						}
+					}
+				},
+				"2e Section": {
+					"liste_militaire": "1",
+					"type_orga": "10",
+					"Blindé VBL-1": {
+						"liste_militaire": "11",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé Léger": "1"
+						}
+					},
+					"Blindé VBL-2": {
+						"liste_militaire": "11",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé Léger": "1"
+						}
+					},
+					"Blindé VBL-3": {
+						"liste_militaire": "11",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé Léger": "1"
+						}
+					},
+					"Blindé VBL-4": {
+						"liste_militaire": "11",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé Léger": "1"
+						}
+					},
+					"Blindé VBL-5": {
+						"liste_militaire": "11",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé Léger": "1"
+						}
+					}
+				}
+			}
+		},
+		"Batterie spécialisée": {
+			"liste_militaire": "1",
+			"type_orga": "8",
+			"Compagnie de soutien": {
+				"liste_militaire": "1",
+				"type_orga": "9",
+				"Section de Transmissions": {
+					"liste_militaire": "1",
+					"type_orga": "10",
+					"Véhicule STM-1": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"Véhicule STM-2": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					}
+				},
+				"Section de Traficabilité": {
+					"liste_militaire": "1",
+					"type_orga": "10",
+					"Véhicule VAT-1": {
+						"liste_militaire": "3",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule d'Amélioration de la Traficabilité": "1"
+						}
+					},
+					"Véhicule VAT-2": {
+						"liste_militaire": "3",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule d'Amélioration de la Traficabilité": "1"
+						}
+					},
+					"Véhicule VAT-3": {
+						"liste_militaire": "3",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule d'Amélioration de la Traficabilité": "1"
+						}
+					}
+				}
+			},
+			"Compagnie de reconnaissance": {
+				"liste_militaire": "1",
+				"type_orga": "9",
+				"Section Hummer": {
+					"liste_militaire": "1",
+					"type_orga": "10",
+					"Hummer HM-1": {
+						"liste_militaire": "5",
+						"type_orga": "11",
+						"materiel": {
+							"Hummer": "1"
+						}
+					},
+					"Hummer HM-2": {
+						"liste_militaire": "5",
+						"type_orga": "11",
+						"materiel": {
+							"Hummer": "1"
+						}
+					},
+					"Hummer HM-3": {
+						"liste_militaire": "5",
+						"type_orga": "11",
+						"materiel": {
+							"Hummer": "1"
+						}
+					},
+					"Hummer HM-4": {
+						"liste_militaire": "5",
+						"type_orga": "11",
+						"materiel": {
+							"Hummer": "1"
+						}
+					},
+					"Hummer HM-5": {
+						"liste_militaire": "5",
+						"type_orga": "11",
+						"materiel": {
+							"Hummer": "1"
+						}
+					},
+					"Hummer HM-6": {
+						"liste_militaire": "5",
+						"type_orga": "11",
+						"materiel": {
+							"Hummer": "1"
+						}
+					},
+					"Hummer HM-7": {
+						"liste_militaire": "5",
+						"type_orga": "11",
+						"materiel": {
+							"Hummer": "1"
+						}
+					},
+					"Hummer HM-8": {
+						"liste_militaire": "5",
+						"type_orga": "11",
+						"materiel": {
+							"Hummer": "1"
+						}
+					},
+					"Hummer HM-9": {
+						"liste_militaire": "5",
+						"type_orga": "11",
+						"materiel": {
+							"Hummer": "1"
+						}
+					},
+					"Hummer HM-10": {
+						"liste_militaire": "5",
+						"type_orga": "11",
+						"materiel": {
+							"Hummer": "1"
+						}
+					}
+				},
+				"Section VBAL": {
+					"liste_militaire": "1",
+					"type_orga": "10",
+					"Blindé VBAL-1": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-2": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-3": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-4": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-5": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-6": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-7": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-8": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-9": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"Blindé VBAL-10": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					}
+				},
+				"Section VBL": {
+					"liste_militaire": "1",
+					"type_orga": "10",
+					"Blindé VBL-1": {
+						"liste_militaire": "11",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé Léger": "1"
+						}
+					},
+					"Blindé VBL-2": {
+						"liste_militaire": "11",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé Léger": "1"
+						}
+					},
+					"Blindé VBL-3": {
+						"liste_militaire": "11",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé Léger": "1"
+						}
+					},
+					"Blindé VBL-4": {
+						"liste_militaire": "11",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé Léger": "1"
+						}
+					},
+					"Blindé VBL-5": {
+						"liste_militaire": "11",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé Léger": "1"
+						}
+					},
+					"Blindé VBL-6": {
+						"liste_militaire": "11",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé Léger": "1"
+						}
+					}
+				},
+				"Section Char": {
+					"liste_militaire": "1",
+					"type_orga": "10",
+					"Char CT-1": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-2": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-3": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-4": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-5": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-6": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-7": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					},
+					"Char CT-8": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Char Tanartra": "1"
+						}
+					}
+				},
+				"Section de transport de matériel": {
+					"liste_militaire": "1",
+					"type_orga": "10",
+					"Camion CTM-1": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion CTM-2": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion CTM-3": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					},
+					"Camion CTM-4": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Camion de Transport de Matériel": "1"
+						}
+					}
+				},
+				"Section de Transmissions": {
+					"liste_militaire": "1",
+					"type_orga": "10",
+					"Véhicule STM-1": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					},
+					"Véhicule STM-2": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Système de Transmissions Motorisé": "1"
+						}
+					}
+				}
+			}
+		}
+	}
+}

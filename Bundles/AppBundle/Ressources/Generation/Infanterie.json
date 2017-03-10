@@ -1,0 +1,1186 @@
+{
+	"1er Bataillon": {
+		"liste_militaire": "1",
+		"type_orga": "6",
+		"1er Escadron": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"1ere Compagnie": {
+				"liste_militaire": "1",
+				"type_orga": "9",
+				"Section de Transmissions": {
+					"liste_militaire": "4",
+					"type_orga": "10",
+					"materiel": {
+						"Système de Transmissions Motorisé": "1"
+					}
+				},
+				"1ere Section": {
+					"liste_militaire": "1",
+					"type_orga": "10",
+					"Peloton de commandement": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Hummer": "1"
+						}
+					},
+					"1er Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"2e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"3e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"4e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"5e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"6e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"7e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"8e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					}
+				},
+				"2e Section": {
+					"liste_militaire": "1",
+					"type_orga": "10",
+					"Peloton de commandement": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Hummer": "1"
+						}
+					},
+					"1er Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"2e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"3e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"4e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"5e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"6e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"7e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"8e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					}
+				}
+			},
+			"2e Compagnie": {
+				"liste_militaire": "1",
+				"type_orga": "9",
+				"Section de Transmissions": {
+					"liste_militaire": "4",
+					"type_orga": "10",
+					"materiel": {
+						"Système de Transmissions Motorisé": "1"
+					}
+				},
+				"1ere Section": {
+					"liste_militaire": "1",
+					"type_orga": "10",
+					"Peloton de commandement": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Hummer": "1"
+						}
+					},
+					"1er Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"2e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"3e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"4e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"5e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"6e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"7e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"8e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					}
+				},
+				"2e Section": {
+					"liste_militaire": "1",
+					"type_orga": "10",
+					"Peloton de commandement": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Hummer": "1"
+						}
+					},
+					"1er Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"2e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"3e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"4e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"5e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"6e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"7e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"8e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					}
+				}
+			}
+		},
+		"2e Escadron": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"1ere Compagnie": {
+				"liste_militaire": "1",
+				"type_orga": "9",
+				"Section de Transmissions": {
+					"liste_militaire": "4",
+					"type_orga": "10",
+					"materiel": {
+						"Système de Transmissions Motorisé": "1"
+					}
+				},
+				"1ere Section": {
+					"liste_militaire": "1",
+					"type_orga": "10",
+					"Peloton de commandement": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Hummer": "1"
+						}
+					},
+					"1er Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"2e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"3e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"4e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"5e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"6e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"7e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"8e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					}
+				},
+				"2e Section": {
+					"liste_militaire": "1",
+					"type_orga": "10",
+					"Peloton de commandement": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Hummer": "1"
+						}
+					},
+					"1er Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"2e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"3e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"4e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"5e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"6e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"7e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"8e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					}
+				}
+			},
+			"2e Compagnie": {
+				"liste_militaire": "1",
+				"type_orga": "9",
+				"Section de Transmissions": {
+					"liste_militaire": "4",
+					"type_orga": "10",
+					"materiel": {
+						"Système de Transmissions Motorisé": "1"
+					}
+				},
+				"1ere Section": {
+					"liste_militaire": "1",
+					"type_orga": "10",
+					"Peloton de commandement": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Hummer": "1"
+						}
+					},
+					"1er Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"2e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"3e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"4e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"5e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"6e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"7e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"8e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					}
+				},
+				"2e Section": {
+					"liste_militaire": "1",
+					"type_orga": "10",
+					"Peloton de commandement": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Hummer": "1"
+						}
+					},
+					"1er Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"2e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"3e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"4e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"5e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"6e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"7e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"8e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					}
+				}
+			}
+		}
+	},
+	"2e Bataillon": {
+		"liste_militaire": "1",
+		"type_orga": "6",
+		"1er Escadron": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"1ere Compagnie": {
+				"liste_militaire": "1",
+				"type_orga": "9",
+				"Section de Transmissions": {
+					"liste_militaire": "4",
+					"type_orga": "10",
+					"materiel": {
+						"Système de Transmissions Motorisé": "1"
+					}
+				},
+				"1ere Section": {
+					"liste_militaire": "1",
+					"type_orga": "10",
+					"Peloton de commandement": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Hummer": "1"
+						}
+					},
+					"1er Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"2e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"3e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"4e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"5e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"6e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"7e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"8e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					}
+				},
+				"2e Section": {
+					"liste_militaire": "1",
+					"type_orga": "10",
+					"Peloton de commandement": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Hummer": "1"
+						}
+					},
+					"1er Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"2e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"3e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"4e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"5e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"6e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"7e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"8e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					}
+				}
+			},
+			"2e Compagnie": {
+				"liste_militaire": "1",
+				"type_orga": "9",
+				"Section de Transmissions": {
+					"liste_militaire": "4",
+					"type_orga": "10",
+					"materiel": {
+						"Système de Transmissions Motorisé": "1"
+					}
+				},
+				"1ere Section": {
+					"liste_militaire": "1",
+					"type_orga": "10",
+					"Peloton de commandement": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Hummer": "1"
+						}
+					},
+					"1er Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"2e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"3e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"4e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"5e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"6e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"7e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"8e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					}
+				},
+				"2e Section": {
+					"liste_militaire": "1",
+					"type_orga": "10",
+					"Peloton de commandement": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Hummer": "1"
+						}
+					},
+					"1er Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"2e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"3e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"4e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"5e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"6e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"7e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"8e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					}
+				}
+			}
+		},
+		"2e Escadron": {
+			"liste_militaire": "1",
+			"type_orga": "7",
+			"1ere Compagnie": {
+				"liste_militaire": "1",
+				"type_orga": "9",
+				"Section de Transmissions": {
+					"liste_militaire": "4",
+					"type_orga": "10",
+					"materiel": {
+						"Système de Transmissions Motorisé": "1"
+					}
+				},
+				"1ere Section": {
+					"liste_militaire": "1",
+					"type_orga": "10",
+					"Peloton de commandement": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Hummer": "1"
+						}
+					},
+					"1er Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"2e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"3e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"4e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"5e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"6e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"7e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"8e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					}
+				},
+				"2e Section": {
+					"liste_militaire": "1",
+					"type_orga": "10",
+					"Peloton de commandement": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Hummer": "1"
+						}
+					},
+					"1er Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"2e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"3e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"4e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"5e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"6e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"7e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"8e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					}
+				}
+			},
+			"2e Compagnie": {
+				"liste_militaire": "1",
+				"type_orga": "9",
+				"Section de Transmissions": {
+					"liste_militaire": "4",
+					"type_orga": "10",
+					"materiel": {
+						"Système de Transmissions Motorisé": "1"
+					}
+				},
+				"1ere Section": {
+					"liste_militaire": "1",
+					"type_orga": "10",
+					"Peloton de commandement": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Hummer": "1"
+						}
+					},
+					"1er Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"2e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"3e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"4e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"5e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"6e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"7e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"8e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					}
+				},
+				"2e Section": {
+					"liste_militaire": "1",
+					"type_orga": "10",
+					"Peloton de commandement": {
+						"liste_militaire": "4",
+						"type_orga": "11",
+						"materiel": {
+							"Hummer": "1"
+						}
+					},
+					"1er Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"2e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"3e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"4e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"5e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"6e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"7e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					},
+					"8e Peloton": {
+						"liste_militaire": "9",
+						"type_orga": "11",
+						"materiel": {
+							"Véhicule Blindé à Armement Léger": "1"
+						}
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,73 @@
+{
+	"10-04-2010": {
+		"0": { "materiel": "Boite de 10 cartouches de 7.62", "nb": "8", "orga": {
+			"0": "10e Régiment de Projection Rapide/1er Bataillon/2e Escadron/2e Batterie/1ere Compagnie/2e Section/Peloton Hummer"
+		}},
+		"1": { "materiel": "Veste", "nb": "1", "orga": {
+			"0": "10e Régiment de Projection Rapide/1er Bataillon/2e Escadron/2e Batterie/1ere Compagnie/2e Section/Peloton Hummer"
+		}},
+		"2": { "materiel": "Fumigène", "nb": "2", "orga": {
+			"0": "1er Régiment de Forces Spéciales/Bataillon d'intervention/1ere Compagnie de Combat Urbain/Unité 4",
+			"1": "1er Régiment de Forces Spéciales/Bataillon d'intervention/1ere Compagnie de Combat Urbain/Unité 8",
+			"2": "1er Régiment de Forces Spéciales/Bataillon d'intervention/1ere Compagnie de Combat Urbain/Unité 10"
+		}},
+		"3": { "materiel": "Veste noire", "nb": "1", "orga": "1er Régiment de Forces Spéciales/Bataillon d'intervention/1ere Compagnie de Combat Urbain/Unité 8" },
+		"4": { "materiel": "Treillis noir", "nb": "1", "orga": "1er Régiment de Forces Spéciales/Bataillon d'intervention/1ere Compagnie de Combat Urbain/Unité 4" },
+		"5": { "materiel": "Boite de 10 cartouches de 7.62", "nb": "7", "orga": {
+			"0": "1er Régiment de Forces Spéciales/Bataillon d'intervention/1ere Compagnie de Combat Urbain/Unité 4",
+			"1": "1er Régiment de Forces Spéciales/Bataillon d'intervention/1ere Compagnie de Combat Urbain/Unité 8",
+			"2": "1er Régiment de Forces Spéciales/Bataillon d'intervention/1ere Compagnie de Combat Urbain/Unité 10"
+		}},
+		"6": { "materiel": "Grenade Paralysante", "nb": "7", "orga": {
+			"0": "1er Régiment de Forces Spéciales/Bataillon d'intervention/1ere Compagnie de Combat Urbain/Unité 4",
+			"1": "1er Régiment de Forces Spéciales/Bataillon d'intervention/1ere Compagnie de Combat Urbain/Unité 8",
+			"2": "1er Régiment de Forces Spéciales/Bataillon d'intervention/1ere Compagnie de Combat Urbain/Unité 10"
+		}},
+		"7": { "materiel": "Boite de 10 cartouches d'Edavène", "nb": "6", "orga": {
+			"0": "Corps Militaire Supérieur Drarekstan/Services Secrets/Service des Opérations Clandestines"
+		}},
+		"8": { "materiel": "Grenade Paralysante", "nb": "4", "orga": "Corps Militaire Supérieur Drarekstan/Services Secrets/Service des Opérations Clandestines" },
+		"9": { "materiel": "Missile Anti-Air Portable", "nb": "3", "militaire": [ "13", "14", "15" ]},
+		"10": { "materiel": "Missile Anti-Aérien", "nb": "2", "orga": {
+			"0": "1er Escadron de Sûreté Aérienne/Bataillon Spectre/Avion de chasse Spectre ACS-2",
+			"1": "1er Escadron de Sûreté Aérienne/Bataillon Spectre/Avion de chasse Spectre ACS-7"
+		}},
+		"11": { "materiel": "Obus de 30mm", "nb": "126", "orga": {
+			"0": "Services Secrets/Service de Soutien/Brigade Aérienne/Groupe Faucon/Hélicoptère d'attaque Faucon HAF-3",
+			"1": "Services Secrets/Service de Soutien/Brigade Aérienne/Groupe Faucon/Hélicoptère d'attaque Faucon HAF-4",
+			"2": "Services Secrets/Service de Soutien/Brigade Aérienne/Groupe Faucon/Hélicoptère d'attaque Faucon HAF-5"
+		}},
+		"12": { "materiel": "Obus de 30mm", "nb": "1301", "orga": "1er Régiment d'Infanterie/2e Bataillon/2e Escadron/1ere Compagnie/1ere Section" },
+		"13": { "materiel": "Obus de calibre 12.7", "nb": "686", "orga": "1er Régiment d'Infanterie/2e Bataillon/2e Escadron/1ere Compagnie/1ere Section" },
+		"14": { "materiel": "Lance-Roquette Anti-Char", "nb": "11", "orga": "1er Régiment d'Infanterie/2e Bataillon/2e Escadron/1ere Compagnie/1ere Section" },
+		"15": { "materiel": "Missile pour Lanceur Portable", "nb": "2", "orga": "1er Régiment d'Infanterie/2e Bataillon/2e Escadron/1ere Compagnie/1ere Section" },
+		"16": { "materiel": "Grenade Explosive", "nb": "5", "orga": "1er Régiment d'Infanterie/2e Bataillon/2e Escadron/1ere Compagnie/1ere Section" },
+		"17": { "materiel": "Boite de 10 cartouches de 7.62", "nb": "24", "orga": "1er Régiment d'Infanterie/2e Bataillon/2e Escadron/1ere Compagnie/1ere Section" },
+		"18": { "materiel": "Roquette Anti-Char", "nb": "7", "orga": "1er Régiment d'Infanterie/2e Bataillon/2e Escadron/1ere Compagnie/1ere Section" },
+		"19": { "materiel": "Grenade de 25mm", "nb": "2", "orga": "1er Régiment d'Infanterie/2e Bataillon/2e Escadron/1ere Compagnie/1ere Section" },
+		"20": { "materiel": "Missile Balistique pour Navire", "nb": "1", "orga": "20e Flotte de Combat Maritime/Frégate de Combat Polyvalente FCP-1" },
+		"21": { "materiel": "Obus de 100mm", "nb": "3", "orga": "20e Flotte de Combat Maritime/Frégate de Combat Polyvalente FCP-1" },
+		"22": { "materiel": "Grenade de désencerclement", "nb": "3", "orga": {
+			"0": "1er Groupe Anti-Emeutes/Bataillon de terrain/1er Escadron",
+			"1": "1er Groupe Anti-Emeutes/Bataillon de terrain/3e Escadron"
+		}},
+		"23": { "materiel": "Fumigène projetable", "nb": "28", "orga": {
+			"0": "1er Groupe Anti-Emeutes/Bataillon de terrain",
+			"1": "2e Groupe Anti-Emeutes/Bataillon de terrain"
+		}},
+		"24": { "materiel": "Nécessaire Militaire de Couture Individuel", "nb": "1", "orga": "1er Groupe Anti-Emeutes/Bataillon de terrain/3e Escadron" },
+		"25": { "materiel": "Projectile Non-Létal pour Flashball", "nb": "11", "orga": {
+			"0": "1er Groupe Anti-Emeutes/Bataillon de terrain",
+			"1": "2e Groupe Anti-Emeutes/Bataillon de terrain"
+		}},
+		"26": { "materiel": "Obus de 30mm", "nb": "61", "orga": {
+			"0": "8e Groupe Amphibie/Porte-hélicoptères/Groupe Faucon/Hélicoptère d'Attaque Faucon HAF-3",
+			"1": "8e Groupe Amphibie/Porte-hélicoptères/Groupe Faucon/Hélicoptère d'Attaque Faucon HAF-4",
+			"2": "8e Groupe Amphibie/Porte-hélicoptères/Groupe Faucon/Hélicoptère d'Attaque Faucon HAF-5"
+		}},
+		"27": { "materiel": "Bouclier anti-émeutes", "nb": "1", "orga": "2e Groupe Anti-Emeutes/Bataillon de terrain/1er Escadron" },
+		"28": { "materiel": "Boite de 10 cartouches d'Edavène", "nb": "1", "orga": "Unités d'Intervention de Faligadrie/Bataillon d'intervention" },
+		"29": { "materiel": "Fumigène projetable", "nb": "13", "orga": "2e Groupe Anti-Emeutes/Bataillon de terrain" },
+		"30": { "materiel": "Projectile Non-Létal pour Flashball", "nb": "18", "orga": "2e Groupe Anti-Emeutes/Bataillon de terrain" }
+	}
+}
