@@ -1,8 +1,0 @@
-{
-	"Restaurant": { "liste_militaire": "20", "type_orga": "6" },
-	"Hôtel": { "liste_militaire": "10", "type_orga": "6" },
-	"Centre d'Entraînement en Zone Urbaine": { "liste_militaire": "10", "type_orga": "6" },
-	"Sécurité": { "liste_militaire": "30", "type_orga": "6" },
-	"Tour de contrôle": { "liste_militaire": "15", "type_orga": "6" },
-	"Centre de Tir en Milieu Montagneux": { "liste_militaire": "10", "type_orga": "6" }
-}
